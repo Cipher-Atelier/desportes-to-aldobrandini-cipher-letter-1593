@@ -177,5 +177,13 @@
     "current_slug": "desportes-to-aldobrandini-cipher-letter-1593",
     "date_utc": "2026-10-06",
     "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  },
+  "community_workflow_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "16a2fd42f92177460373f42bcb8ca28622aaa672",
+    "scope": "Research participation links and workflow entry point only; retained scientific inputs and claim status unchanged. adapted_files hashes above record the initial publication snapshot.",
+    "navigation_file": "README.md",
+    "previous_sha256": "d5fb035d48643619e7f23b24e9b3f1e8c391ddb06dd1100a5f47837d26f91a37",
+    "current_sha256": "676c6a6bea2fdbba7ef23352dc81c2b20e56b318842255d1cdd0dc9d4446cfeb"
   }
 }
