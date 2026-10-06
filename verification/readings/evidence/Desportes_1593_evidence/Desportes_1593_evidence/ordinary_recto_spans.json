@@ -1,0 +1,319 @@
+{
+  "source_image": "images/f186r_full.jpg",
+  "source_dimensions": [
+    4950,
+    6656
+  ],
+  "folio": "BnF français 3984 f186r",
+  "status": "Conservative ordinary-handwriting additions for integration; not a definitive diplomatic edition.",
+  "coordinate_policy": "Every rectangle is an exact pixel reading window in the full original image, top-left origin, x1,y1,x2,y2. Windows intentionally overlap to retain ascenders/descenders; they are not claimed as tight ink bounding boxes.",
+  "editorial_policy": "Brackets mark uncertain readings or illegible omissions. Spacing and minimal punctuation supplied for readability. Abbreviations are not silently expanded. Capitalization, endings, and u/v distinctions remain provisional where the hand does not settle them.",
+  "identity_policy": {
+    "visible_date": "22 de Juillet 1593",
+    "visible_salutation": "Illustrissimo Monseigneur",
+    "place_in_visible_header": null,
+    "personal_addressee_name_in_visible_header": null,
+    "sender_name_in_visible_recto_opening": null,
+    "note": "Previously supplied Baudouin-Desportes and Pietro Aldobrandini identities are catalog/context metadata, not names independently read from this recto header."
+  },
+  "method": "Opening and difficult islands received a separate cautious visual reading; remaining words were retained only when source-supported. Subsequent exchanges checked specific letterforms without treating fluent context as evidence.",
+  "spans": [
+    {
+      "id": "H_DATE",
+      "kind": "header_date",
+      "source_window": [
+        900,
+        975,
+        1620,
+        1130
+      ],
+      "transcription": "22 de Juillet 1593",
+      "confidence": "high",
+      "notes": "Date visible on recto; no place name included in this header window."
+    },
+    {
+      "id": "H_TITLE",
+      "kind": "salutation",
+      "source_window": [
+        705,
+        1010,
+        1780,
+        1210
+      ],
+      "transcription": "Illustrissimo Monseigneur",
+      "confidence": "high",
+      "notes": "Personal addressee name is not written in this visible salutation."
+    },
+    {
+      "id": "H_FOLIO",
+      "kind": "folio_number",
+      "source_window": [
+        3330,
+        1030,
+        3700,
+        1220
+      ],
+      "transcription": "186",
+      "confidence": "high",
+      "notes": "Foliation, not part of letter prose."
+    },
+    {
+      "id": "O01",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1170,
+        3960,
+        1300
+      ],
+      "transcription": "Si Je nay [escrit?] a Sa Saincteté Et a Vre Seigneurie Illme aussi souvent que le devoir me le commande deux choses my ont empesché. La",
+      "confidence": "high words/titles; medium spelling",
+      "notes": "Black obstruction touches escrit. Vre and Illme abbreviated; Illme terminal letters elevated."
+    },
+    {
+      "id": "O02",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1250,
+        3950,
+        1400
+      ],
+      "transcription": "premiere quil est mal aisé de le faire a la [verité?] sans que quelqung [deux?] [sy?] trouue Interessé Et lautre que les affaires sont maniées par",
+      "confidence": "medium",
+      "notes": "Phrase after quelqung unresolved; do not silently normalize it to d’eux s’y."
+    },
+    {
+      "id": "O03",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1335,
+        3950,
+        1490
+      ],
+      "transcription": "tant mains et de passions si differentes [ou auec?] des Incertitudes si grandes quil faille de necessité que nous perissions Et laprehension",
+      "confidence": "medium-high",
+      "notes": "No separate de securely seen between tant and mains; none supplied. Number/endings uncertain."
+    },
+    {
+      "id": "O04",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1430,
+        3950,
+        1590
+      ],
+      "transcription": "[de nre perte?] ne [pourroit?] quelle ne causast a Sa saincteté ung extreme desplaisir Et Je me garderay le plus quil me sera possible",
+      "confidence": "medium-high after opening; low-medium opening",
+      "notes": "Probable nre abbreviation is not expanded."
+    },
+    {
+      "id": "O05",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1535,
+        4030,
+        1660
+      ],
+      "transcription": "destre ministre de mauvaise nouvelle Tellement que Je mestois resolu de ne luy plus escrire ny a Vre S[rie] Illme si par la sienne",
+      "confidence": "medium-high",
+      "notes": "mauvaise nouvelle may have plural endings; both final s letters are not established. Title abbreviation kept uncertain."
+    },
+    {
+      "id": "O06",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1620,
+        4030,
+        1780
+      ],
+      "transcription": "du premier de Juing elle ne meust asseuré que sa S[te] avoit eu pour agreable le conte que Je luy ay osé bien particulierement rendre",
+      "confidence": "medium-high",
+      "notes": "S[te] visibly abbreviated; conte lacks a clearly visible m/p."
+    },
+    {
+      "id": "O07",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1730,
+        4030,
+        1865
+      ],
+      "transcription": "des occurrences de deça Et de luy en dire librement ce quil men sembloit Et encore quil se soit passé plusieurs [nouueautez?] depuis [mes?]",
+      "confidence": "medium-high except end",
+      "notes": "Final noun and possessive uncertain; nouu-/mouu- readings remain possible."
+    },
+    {
+      "id": "O08",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        750,
+        1810,
+        4030,
+        1950
+      ],
+      "transcription": "[lettres?] si trouvera elle quen effect Je ne me suis point trompé Et que pour ny avoir pas voulu remedier a temps soit lors que Jestois",
+      "confidence": "medium-high except opening",
+      "notes": "Initial lettres tentative; remedier medium confidence; continues into O09."
+    },
+    {
+      "id": "O09",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        780,
+        1890,
+        3980,
+        2060
+      ],
+      "transcription": "pres delle ou depuis. Enfin si Dieu ny met la main Je voy la [bonne?] cause de la religion catholique [en/et?] ce royaume en mauvais [terme(s)?]",
+      "confidence": "medium-high except bracketed words",
+      "notes": "bonne uncertain. Connector before ce royaume and terminal number/spelling remain unresolved."
+    },
+    {
+      "id": "O10",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        780,
+        2010,
+        3980,
+        2170
+      ],
+      "transcription": "pour plusieurs raisons que Je pourrois dire a Vre S[rie] Illme. Outre ce que Jen [...] a sa S[te?] force subiect Joint quil semble",
+      "confidence": "medium; low in omitted middle",
+      "notes": "Direct tentative readings in omitted segment included fasse? and pretendu?; insufficient for a continuous certain transcription."
+    },
+    {
+      "id": "O11",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        780,
+        2100,
+        3980,
+        2270
+      ],
+      "transcription": "[...] tout ce qui luy est dit par ceulx qui ont tenu [lieu?] et minist[e]re de deça pour le St siege pour ne rien donner a la",
+      "confidence": "medium-high for retained latter clause; low opening",
+      "notes": "Opening may contain que Je sois / autheur / deceler but no clean continuous reading is supported. St abbreviated with elevated t."
+    },
+    {
+      "id": "O12",
+      "kind": "ordinary_opening_line",
+      "source_window": [
+        770,
+        2200,
+        2450,
+        2340
+      ],
+      "transcription": "[verité?] qui sera maintenant trouuée telle que Je lay tousiours dicte aux",
+      "confidence": "high after first word; medium-high verité",
+      "notes": "Directly joins the first coded DESPENS; initial word retained as tentative.",
+      "cipher_anchor": "before first cipher DESPENS"
+    },
+    {
+      "id": "I01",
+      "kind": "ordinary_island",
+      "source_window": [
+        750,
+        2290,
+        1370,
+        2440
+      ],
+      "transcription": "[jusque/a?] a ce qui[...] [reste/est?] Et",
+      "confidence": "low-medium",
+      "notes": "a ce qui secure; subsequent cluster unresolved, possibly cy. Do not silently print quilz. Final Et is the long-looped ampersand form.",
+      "cipher_anchor": "between first 36-sign cipher line and 93-sign pilot passage beginning QUE EULX"
+    },
+    {
+      "id": "I02",
+      "kind": "ordinary_island",
+      "source_window": [
+        2190,
+        2340,
+        4020,
+        2530
+      ],
+      "transcription": "qui ne nous est point propre [ou de?] peu de pratique [de/Et?] nos [humeurs?] Et passions",
+      "confidence": "high for main anchors; medium connectors",
+      "notes": "Distinct d-like ascender supports ou de but brackets retained. nos/noz unsettled. humeurs damaged near its end.",
+      "cipher_anchor": "after QUELLE CHOSE; before ET SI IAY RIEN MIS EN AUANT"
+    },
+    {
+      "id": "I03",
+      "kind": "ordinary_island",
+      "source_window": [
+        1550,
+        2490,
+        3750,
+        2670
+      ],
+      "transcription": "[me?], scauroit escrire me fera tousiours paroistre en tous lieux que lon voudra pour luy maintenir",
+      "confidence": "high except first word",
+      "notes": "First word plausibly me with flourish; not silently substituted by mais or miz. Spacing/punctuation editorial.",
+      "cipher_anchor": "after LA MOINDRE LETTE QUE LON; before DE [X2] DE"
+    },
+    {
+      "id": "I04",
+      "kind": "ordinary_island",
+      "source_window": [
+        2590,
+        2670,
+        3610,
+        2830
+      ],
+      "transcription": "mal aisé [de/et?] [contredire?] a ung [bruit?] [gñal?] Et",
+      "confidence": "low-medium",
+      "notes": "Last lexical word carries an abbreviation mark; general is only a possible expansion, not transcribed as certain. Final Et uses the same long-looped form.",
+      "cipher_anchor": "after QUI L EST; before DE SOY MESME"
+    },
+    {
+      "id": "A01",
+      "kind": "ordinary_abbreviation_in_cipher",
+      "source_window": [
+        1750,
+        3730,
+        2150,
+        3900
+      ],
+      "transcription": "[V.?] S. Illme",
+      "confidence": "medium-high",
+      "notes": "Illme terminal letters elevated; abbreviation not expanded."
+    },
+    {
+      "id": "A02",
+      "kind": "ordinary_abbreviation_in_cipher",
+      "source_window": [
+        1390,
+        4090,
+        1720,
+        4280
+      ],
+      "transcription": "[V.?] S. I.",
+      "confidence": "medium-high",
+      "notes": "Abbreviation not expanded."
+    },
+    {
+      "id": "A03",
+      "kind": "ordinary_abbreviation_in_cipher",
+      "source_window": [
+        1770,
+        4960,
+        2080,
+        5160
+      ],
+      "transcription": "M[te?]",
+      "confidence": "medium",
+      "notes": "Superscript termination uncertain; no expansion to a title or identity supplied."
+    }
+  ],
+  "remaining_priorities": [
+    "Resolve I01 central cluster.",
+    "Recheck O10 omitted middle and O11 opening.",
+    "Confirm gñal abbreviation and preceding connector in I04.",
+    "Confirm exact spelling/endings across opening before claiming diplomatic completeness."
+  ]
+}

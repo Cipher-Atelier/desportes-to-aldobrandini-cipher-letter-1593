@@ -1,0 +1,121 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_transcription.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "91b48221c5c4603a4c807b941db298669f6c3da037642a1be7712ba57eac8ebc",
+      "source_sha256": "91b48221c5c4603a4c807b941db298669f6c3da037642a1be7712ba57eac8ebc",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "4772c1a142822997e8904f8bd0767530dda61888bc5c3029caf7cf88eb35dda9",
+      "source_sha256": "4772c1a142822997e8904f8bd0767530dda61888bc5c3029caf7cf88eb35dda9",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/ambiguity_map.csv",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "efb0403b7a74e65446f3ad48a066ce61f33e888c4fb5207c44689c52c5d459f3",
+      "source_sha256": "efb0403b7a74e65446f3ad48a066ce61f33e888c4fb5207c44689c52c5d459f3",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "fd1708f32a534c3afd8010ee72048fbff9a05e4548b89df5366c06534cab5af0",
+      "source_sha256": "fd1708f32a534c3afd8010ee72048fbff9a05e4548b89df5366c06534cab5af0",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_recto_spans.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "6db5eff7be134b72b0048bae39b35a9ecf677bb5dfe7093b6f1bc3e20c436d7a",
+      "source_sha256": "6db5eff7be134b72b0048bae39b35a9ecf677bb5dfe7093b6f1bc3e20c436d7a",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_lower_spans.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "68a8a868f159a474a57f236edf5ad85e4b20cdf87be1d338c0b8478ccad23016",
+      "source_sha256": "68a8a868f159a474a57f236edf5ad85e4b20cdf87be1d338c0b8478ccad23016",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_middle_spans.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "cbc17bfb33ef018b962bfcd3cf9b789ede9862349262bd64db468c283e96c51f",
+      "source_sha256": "cbc17bfb33ef018b962bfcd3cf9b789ede9862349262bd64db468c283e96c51f",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L05_second_transcription.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "34377bd84f755d77d3f0bdac331dd8eda3a016962b7fd6e131bc690dfa6249bc",
+      "source_sha256": "34377bd84f755d77d3f0bdac331dd8eda3a016962b7fd6e131bc690dfa6249bc",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L10_second_transcription.json",
+      "topic": "desportes-1593",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "879e3ad1033726d893bd3487a1c6e9bbe640d66f677ecb9351a4fbf9e4b46697",
+      "source_sha256": "879e3ad1033726d893bd3487a1c6e9bbe640d66f677ecb9351a4fbf9e4b46697",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Desportes key facts are credited to Satoshi Tomokiyo and prior reading to Paolo Rosson. No copied key illustration, Lexique corpus or upstream solver is included.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}

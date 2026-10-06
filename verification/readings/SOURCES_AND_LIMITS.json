@@ -1,0 +1,31 @@
+{
+  "desportes-1593": {
+    "published_scope": "Partial edition with Tomokiyo key; Rosson prior reading credited.",
+    "published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/desportes-1593/article.md",
+    "primary_and_prior_sources": [
+      "https://maxim-egorov.dev/research/desportes-1593/",
+      "https://maxim-egorov.dev/downloads/research-archive/desportes-1593-before-2026-10-05.txt",
+      "https://github.com/pangoleen/desportes-1593/blob/c7d3688324b0153663d0a3cce722fbe56e721730/reading/f186.md",
+      "https://github.com/pangoleen/desportes-1593/commit/6916739115a4bb07ebe82d63de8cc292b9e893a5",
+      "https://cryptiana.web.fc2.com/code/polyphonic1593.htm",
+      "https://maxim-egorov.dev/downloads/research-archive/desportes-1593-2026-10-05-before-rosson-update.txt",
+      "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc504266/cd0e20251",
+      "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f347",
+      "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f348",
+      "https://chateau-pau.fr/node/591",
+      "https://cryptiana.web.fc2.com/code/mayenne.htm",
+      "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f345",
+      "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f352",
+      "https://github.com/dbourdeau/cyphersolver/blob/main/targets/sega1593/NOTES.md",
+      "https://archive.org/download/laligueetlespap00lepgoog/page/n563.jpg",
+      "https://github.com/pangoleen/desportes-1593/blob/c7d3688324b0153663d0a3cce722fbe56e721730/images/03_answer_key_f176_f177.jpg",
+      "https://archive.org/details/laligueetlespap00lepgoog",
+      "https://archive.org/details/bub_gb_3yEMAQAAMAAJ",
+      "https://archive.org/details/lgliseetltat01perr",
+      "https://archive.org/details/procsverbauxde37franuoft",
+      "https://github.com/pangoleen/desportes-1593",
+      "https://github.com/pangoleen/desportes-1593/tree/c7d3688324b0153663d0a3cce722fbe56e721730"
+    ],
+    "remaining_limits": "Polyphonic choice and source glyphs remain interpretive. Later PAR evidence is not merged into this frozen working edition. Raw scans need separate rights review."
+  }
+}

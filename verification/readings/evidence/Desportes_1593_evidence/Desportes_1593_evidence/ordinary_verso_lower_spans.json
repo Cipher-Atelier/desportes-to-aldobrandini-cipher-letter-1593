@@ -1,0 +1,95 @@
+{
+  "source_image": "images/f186v_full.jpg",
+  "source_url": "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f348",
+  "ordinary_prose": [
+    {
+      "row": 26,
+      "bbox_xyxy": [
+        2510,
+        3695,
+        2760,
+        3780
+      ],
+      "diplomatic": "S.S.[…]",
+      "note": "Ordinary abbreviation embedded between cipher runs; not expanded to an office/person."
+    },
+    {
+      "row": 26,
+      "bbox_xyxy": [
+        2880,
+        3695,
+        4130,
+        3790
+      ],
+      "diplomatic": "[par-/pa… with raised mark] [main/ma…] il me semble quil est bon quelle soit",
+      "note": "Uncertain preceding words independently rechecked from the source; no safe expansion. Clear continuation independently agrees."
+    },
+    {
+      "row": 27,
+      "bbox_xyxy": [
+        875,
+        3785,
+        3250,
+        3880
+      ],
+      "diplomatic": "aduertie du tout pour y pouruoir Il est vray Je lay assez protesté [il foit/faut?] que sil plaist a [cancelled ink]",
+      "note": "The phrase after protesté is bracketed; no modernized faut adopted. The next crossed-loop code is indexed cipher region1."
+    }
+  ],
+  "closing": [
+    {
+      "bbox_xyxy": [
+        700,
+        5180,
+        2000,
+        5480
+      ],
+      "file": "images/closing_header.png",
+      "diplomatic": "Illustrissime Monseigneur"
+    },
+    {
+      "bbox_xyxy": [
+        820,
+        5390,
+        2500,
+        5620
+      ],
+      "file": "images/closing_line_left.png",
+      "diplomatic": "Je supplie tres humblement le Createur donner a [V… S…]",
+      "note": "No silently supplied de before donner; honorific expansion bracketed."
+    },
+    {
+      "bbox_xyxy": [
+        2450,
+        5370,
+        4180,
+        5620
+      ],
+      "file": "images/closing_line_right.png",
+      "diplomatic": "[Ill…] tres heureuse et tres longue vie A Paris ce xxij Juillet /1593",
+      "note": "Visible roman date xxij supports22 July1593; word Paris read from closing itself."
+    },
+    {
+      "bbox_xyxy": [
+        770,
+        5680,
+        1550,
+        6050
+      ],
+      "file": "images/closing_initials.png",
+      "diplomatic": "D. V. S. I.",
+      "note": "Do not silently expand initials."
+    },
+    {
+      "bbox_xyxy": [
+        2700,
+        5970,
+        4170,
+        6380
+      ],
+      "file": "images/closing_sign.png",
+      "diplomatic": "tres humble et tres obeissant serviteur / Desportes",
+      "note": "Signature read as Desportes; large leading flourish is not a separate deciphered word."
+    }
+  ]
+}

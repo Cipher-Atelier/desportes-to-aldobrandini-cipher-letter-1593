@@ -1,0 +1,427 @@
+{
+  "id": "independent_lower5",
+  "folio": "BnF français 3984 f186r",
+  "source_image": "images/f186r_full.jpg",
+  "row": "first transcription row 5",
+  "source_row_y_approx": [
+    4870,
+    4940
+  ],
+  "annotated_crops": [
+    "validation/row_L05_panel0.png",
+    "validation/row_L05_panel1.png",
+    "validation/row_L05_panel2.png",
+    "validation/row_L05_panel3.png",
+    "validation/row_L05_panel4.png"
+  ],
+  "full_image_check_crop": "validation/row_L05_original_check.png",
+  "full_image_check_bounds": [
+    740,
+    4820,
+    4000,
+    5010
+  ],
+  "count": 62,
+  "classes": [
+    "G",
+    "E",
+    "E",
+    "M",
+    "E",
+    "A",
+    "G",
+    "M",
+    "B",
+    "L",
+    "QUI",
+    "C",
+    "B",
+    "G",
+    "A",
+    "B",
+    "I",
+    "F",
+    "G",
+    "L",
+    "E",
+    "F",
+    "E",
+    "F",
+    "C",
+    "A",
+    "G",
+    "A",
+    "B",
+    "L",
+    "F",
+    "QUI",
+    "M",
+    "E",
+    "F",
+    "E",
+    "I",
+    "F",
+    "G",
+    "E",
+    "E",
+    "I",
+    "E",
+    "C",
+    "G",
+    "E",
+    "E",
+    "C",
+    "E",
+    "F",
+    "H",
+    "I",
+    "E",
+    "C",
+    "G",
+    "QUI",
+    "M",
+    "E",
+    "F",
+    "H",
+    "F",
+    "G"
+  ],
+  "positions": [
+    {
+      "position": 1,
+      "class": "G",
+      "full_source_x_approx": 790
+    },
+    {
+      "position": 2,
+      "class": "E",
+      "full_source_x_approx": 835
+    },
+    {
+      "position": 3,
+      "class": "E",
+      "full_source_x_approx": 882
+    },
+    {
+      "position": 4,
+      "class": "M",
+      "full_source_x_approx": 922
+    },
+    {
+      "position": 5,
+      "class": "E",
+      "full_source_x_approx": 960
+    },
+    {
+      "position": 6,
+      "class": "A",
+      "full_source_x_approx": 1004
+    },
+    {
+      "position": 7,
+      "class": "G",
+      "full_source_x_approx": 1057
+    },
+    {
+      "position": 8,
+      "class": "M",
+      "full_source_x_approx": 1100
+    },
+    {
+      "position": 9,
+      "class": "B",
+      "full_source_x_approx": 1150
+    },
+    {
+      "position": 10,
+      "class": "L",
+      "full_source_x_approx": 1215
+    },
+    {
+      "position": 11,
+      "class": "QUI",
+      "full_source_x_approx": 1265
+    },
+    {
+      "position": 12,
+      "class": "C",
+      "full_source_x_approx": 1314
+    },
+    {
+      "position": 13,
+      "class": "B",
+      "full_source_x_approx": 1370
+    },
+    {
+      "position": 14,
+      "class": "G",
+      "full_source_x_approx": 1420
+    },
+    {
+      "position": 15,
+      "class": "A",
+      "full_source_x_approx": 1470
+    },
+    {
+      "position": 16,
+      "class": "B",
+      "full_source_x_approx": 1520
+    },
+    {
+      "position": 17,
+      "class": "I",
+      "full_source_x_approx": 1580
+    },
+    {
+      "position": 18,
+      "class": "F",
+      "full_source_x_approx": 1635
+    },
+    {
+      "position": 19,
+      "class": "G",
+      "full_source_x_approx": 1690
+    },
+    {
+      "position": 20,
+      "class": "L",
+      "full_source_x_approx": 1747
+    },
+    {
+      "position": 21,
+      "class": "E",
+      "full_source_x_approx": 1785
+    },
+    {
+      "position": 22,
+      "class": "F",
+      "full_source_x_approx": 1830
+    },
+    {
+      "position": 23,
+      "class": "E",
+      "full_source_x_approx": 1890
+    },
+    {
+      "position": 24,
+      "class": "F",
+      "full_source_x_approx": 1935
+    },
+    {
+      "position": 25,
+      "class": "C",
+      "full_source_x_approx": 1990
+    },
+    {
+      "position": 26,
+      "class": "A",
+      "full_source_x_approx": 2050
+    },
+    {
+      "position": 27,
+      "class": "G",
+      "full_source_x_approx": 2100
+    },
+    {
+      "position": 28,
+      "class": "A",
+      "full_source_x_approx": 2150
+    },
+    {
+      "position": 29,
+      "class": "B",
+      "full_source_x_approx": 2210
+    },
+    {
+      "position": 30,
+      "class": "L",
+      "full_source_x_approx": 2260
+    },
+    {
+      "position": 31,
+      "class": "F",
+      "full_source_x_approx": 2310
+    },
+    {
+      "position": 32,
+      "class": "QUI",
+      "full_source_x_approx": 2375
+    },
+    {
+      "position": 33,
+      "class": "M",
+      "full_source_x_approx": 2430
+    },
+    {
+      "position": 34,
+      "class": "E",
+      "full_source_x_approx": 2470
+    },
+    {
+      "position": 35,
+      "class": "F",
+      "full_source_x_approx": 2530
+    },
+    {
+      "position": 36,
+      "class": "E",
+      "full_source_x_approx": 2580
+    },
+    {
+      "position": 37,
+      "class": "I",
+      "full_source_x_approx": 2640
+    },
+    {
+      "position": 38,
+      "class": "F",
+      "full_source_x_approx": 2700
+    },
+    {
+      "position": 39,
+      "class": "G",
+      "full_source_x_approx": 2750
+    },
+    {
+      "position": 40,
+      "class": "E",
+      "full_source_x_approx": 2800
+    },
+    {
+      "position": 41,
+      "class": "E",
+      "full_source_x_approx": 2850
+    },
+    {
+      "position": 42,
+      "class": "I",
+      "full_source_x_approx": 2920
+    },
+    {
+      "position": 43,
+      "class": "E",
+      "full_source_x_approx": 2965
+    },
+    {
+      "position": 44,
+      "class": "C",
+      "full_source_x_approx": 3020
+    },
+    {
+      "position": 45,
+      "class": "G",
+      "full_source_x_approx": 3070
+    },
+    {
+      "position": 46,
+      "class": "E",
+      "full_source_x_approx": 3100
+    },
+    {
+      "position": 47,
+      "class": "E",
+      "full_source_x_approx": 3160
+    },
+    {
+      "position": 48,
+      "class": "C",
+      "full_source_x_approx": 3210
+    },
+    {
+      "position": 49,
+      "class": "E",
+      "full_source_x_approx": 3260
+    },
+    {
+      "position": 50,
+      "class": "F",
+      "full_source_x_approx": 3310
+    },
+    {
+      "position": 51,
+      "class": "H",
+      "full_source_x_approx": 3360
+    },
+    {
+      "position": 52,
+      "class": "I",
+      "full_source_x_approx": 3410
+    },
+    {
+      "position": 53,
+      "class": "E",
+      "full_source_x_approx": 3460
+    },
+    {
+      "position": 54,
+      "class": "C",
+      "full_source_x_approx": 3510
+    },
+    {
+      "position": 55,
+      "class": "G",
+      "full_source_x_approx": 3560
+    },
+    {
+      "position": 56,
+      "class": "QUI",
+      "full_source_x_approx": 3610
+    },
+    {
+      "position": 57,
+      "class": "M",
+      "full_source_x_approx": 3660
+    },
+    {
+      "position": 58,
+      "class": "E",
+      "full_source_x_approx": 3705
+    },
+    {
+      "position": 59,
+      "class": "F",
+      "full_source_x_approx": 3760
+    },
+    {
+      "position": 60,
+      "class": "H",
+      "full_source_x_approx": 3810
+    },
+    {
+      "position": 61,
+      "class": "F",
+      "full_source_x_approx": 3860
+    },
+    {
+      "position": 62,
+      "class": "G",
+      "full_source_x_approx": 3905
+    }
+  ],
+  "uncertainties": [
+    {
+      "positions": [
+        43,
+        47,
+        53,
+        58
+      ],
+      "class": "E",
+      "description": "Ink-heavy but surviving clover/ring-stem form supports E/R."
+    },
+    {
+      "positions": [
+        18,
+        50
+      ],
+      "class": "F",
+      "description": "Ink-heavy but horizontal closed-wedge form supports F/S."
+    }
+  ],
+  "segmentation_notes": [
+    "Positions 17 and 37 each count as one I/X glyph despite visibly separated component strokes.",
+    "All three QUI-class signs at positions 11,32,56 visibly have pointed top, upright, and doubled bars."
+  ],
+  "methodology": "Independent class-only pass using the five requested image crops, then confirmed against original full-image crop. First transcription JSON and candidate plaintext were not opened. Classes sent to subsequent before any French candidate was supplied.",
+  "plaintext": null
+}

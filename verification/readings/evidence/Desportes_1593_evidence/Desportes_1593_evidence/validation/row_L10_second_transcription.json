@@ -1,0 +1,463 @@
+{
+  "source": "BnF Francais 3984 f186r, Gallica view347",
+  "source_url": "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f347",
+  "task": "Independent class-only transcription before the proposed French reading was supplied",
+  "method": "Read supplied l10x0.png–l10x4.png only, then examined corresponding original-image magnifications. Did not open first transcription JSON or candidate plaintext. No French candidate or letter choices used in this record. Familiarity with this hand and known key comes from prior middle-region work.",
+  "source_images": [
+    "validation/row_L10_panel0.png",
+    "validation/row_L10_panel1.png",
+    "validation/row_L10_panel2.png",
+    "validation/row_L10_panel3.png",
+    "validation/row_L10_panel4.png"
+  ],
+  "source_dimensions": [
+    4950,
+    6656
+  ],
+  "coordinate_caution": "Original-image check places the target main row approximately y5310–5390, within crop [720,5300,4020,5400], rather than the suggested y5370–5440. The next physical row is around y5420–5470. lower10_ycheck.png shows a y grid. X centers are approximate, not segmentation boundaries.",
+  "classes": [
+    "A",
+    "D",
+    "E",
+    "D",
+    "E",
+    "A",
+    "E",
+    "E",
+    "I",
+    "E",
+    "A",
+    "F",
+    "A",
+    "I",
+    "E",
+    "E",
+    "A",
+    "H",
+    "C",
+    "E",
+    "E",
+    "I",
+    "H",
+    "D",
+    "I",
+    "C",
+    "E",
+    "D",
+    "E",
+    "L",
+    "A",
+    "M",
+    "A",
+    "I",
+    "F",
+    "B",
+    "D",
+    "E",
+    "B",
+    "B",
+    "H",
+    "E",
+    "B",
+    "B",
+    "A",
+    "C",
+    "B",
+    "A",
+    "G",
+    "E",
+    "E",
+    "L",
+    "E",
+    "F",
+    "L",
+    "B",
+    "I",
+    "F",
+    "F",
+    "B",
+    "A",
+    "D",
+    "A",
+    "M",
+    "E",
+    "A",
+    "G"
+  ],
+  "sign_count": 67,
+  "signs": [
+    {
+      "position": 1,
+      "x_center_approx": 780,
+      "class": "A"
+    },
+    {
+      "position": 2,
+      "x_center_approx": 837,
+      "class": "D",
+      "alternatives": [
+        "A"
+      ],
+      "note": "Broad crossed-four with two uprights and lower bar; D preferred, lower left curl adds visual ambiguity"
+    },
+    {
+      "position": 3,
+      "x_center_approx": 890,
+      "class": "E"
+    },
+    {
+      "position": 4,
+      "x_center_approx": 936,
+      "class": "D",
+      "alternatives": [
+        "A"
+      ],
+      "note": "Narrow two-bar/two-upright form; D preferred"
+    },
+    {
+      "position": 5,
+      "x_center_approx": 973,
+      "class": "E"
+    },
+    {
+      "position": 6,
+      "x_center_approx": 1024,
+      "class": "A"
+    },
+    {
+      "position": 7,
+      "x_center_approx": 1065,
+      "class": "E"
+    },
+    {
+      "position": 8,
+      "x_center_approx": 1114,
+      "class": "E"
+    },
+    {
+      "position": 9,
+      "x_center_approx": 1164,
+      "class": "I"
+    },
+    {
+      "position": 10,
+      "x_center_approx": 1198,
+      "class": "E"
+    },
+    {
+      "position": 11,
+      "x_center_approx": 1233,
+      "class": "A"
+    },
+    {
+      "position": 12,
+      "x_center_approx": 1291,
+      "class": "F"
+    },
+    {
+      "position": 13,
+      "x_center_approx": 1330,
+      "class": "A"
+    },
+    {
+      "position": 14,
+      "x_center_approx": 1380,
+      "class": "I"
+    },
+    {
+      "position": 15,
+      "x_center_approx": 1430,
+      "class": "E"
+    },
+    {
+      "position": 16,
+      "x_center_approx": 1470,
+      "class": "E"
+    },
+    {
+      "position": 17,
+      "x_center_approx": 1515,
+      "class": "A"
+    },
+    {
+      "position": 18,
+      "x_center_approx": 1556,
+      "class": "H",
+      "note": "Overwritten horizontal loop pair; H preferred, no descender"
+    },
+    {
+      "position": 19,
+      "x_center_approx": 1610,
+      "class": "C"
+    },
+    {
+      "position": 20,
+      "x_center_approx": 1660,
+      "class": "E",
+      "note": "Dark E ring-stem form"
+    },
+    {
+      "position": 21,
+      "x_center_approx": 1705,
+      "class": "E"
+    },
+    {
+      "position": 22,
+      "x_center_approx": 1750,
+      "class": "I"
+    },
+    {
+      "position": 23,
+      "x_center_approx": 1795,
+      "class": "H",
+      "note": "Horizontal loop pair, no long descender; H preferred"
+    },
+    {
+      "position": 24,
+      "x_center_approx": 1850,
+      "class": "D",
+      "alternatives": [
+        "A"
+      ],
+      "note": "Crossed two-upright form, D preferred"
+    },
+    {
+      "position": 25,
+      "x_center_approx": 1895,
+      "class": "I"
+    },
+    {
+      "position": 26,
+      "x_center_approx": 1942,
+      "class": "C"
+    },
+    {
+      "position": 27,
+      "x_center_approx": 1993,
+      "class": "E"
+    },
+    {
+      "position": 28,
+      "x_center_approx": 2040,
+      "class": "D"
+    },
+    {
+      "position": 29,
+      "x_center_approx": 2100,
+      "class": "E"
+    },
+    {
+      "position": 30,
+      "x_center_approx": 2145,
+      "class": "L"
+    },
+    {
+      "position": 31,
+      "x_center_approx": 2180,
+      "class": "A"
+    },
+    {
+      "position": 32,
+      "x_center_approx": 2240,
+      "class": "M"
+    },
+    {
+      "position": 33,
+      "x_center_approx": 2285,
+      "class": "A",
+      "alternatives": [
+        "C"
+      ],
+      "note": "Single main bar and looped right foot; A preferred, C possible"
+    },
+    {
+      "position": 34,
+      "x_center_approx": 2345,
+      "class": "I"
+    },
+    {
+      "position": 35,
+      "x_center_approx": 2395,
+      "class": "F"
+    },
+    {
+      "position": 36,
+      "x_center_approx": 2450,
+      "class": "B"
+    },
+    {
+      "position": 37,
+      "x_center_approx": 2500,
+      "class": "D"
+    },
+    {
+      "position": 38,
+      "x_center_approx": 2543,
+      "class": "E"
+    },
+    {
+      "position": 39,
+      "x_center_approx": 2595,
+      "class": "B"
+    },
+    {
+      "position": 40,
+      "x_center_approx": 2640,
+      "class": "B"
+    },
+    {
+      "position": 41,
+      "x_center_approx": 2684,
+      "class": "H"
+    },
+    {
+      "position": 42,
+      "x_center_approx": 2725,
+      "class": "E"
+    },
+    {
+      "position": 43,
+      "x_center_approx": 2770,
+      "class": "B"
+    },
+    {
+      "position": 44,
+      "x_center_approx": 2830,
+      "class": "B"
+    },
+    {
+      "position": 45,
+      "x_center_approx": 2877,
+      "class": "A"
+    },
+    {
+      "position": 46,
+      "x_center_approx": 2935,
+      "class": "C",
+      "note": "Second lower bar and looped foot support C"
+    },
+    {
+      "position": 47,
+      "x_center_approx": 2975,
+      "class": "B"
+    },
+    {
+      "position": 48,
+      "x_center_approx": 3025,
+      "class": "A"
+    },
+    {
+      "position": 49,
+      "x_center_approx": 3080,
+      "class": "G"
+    },
+    {
+      "position": 50,
+      "x_center_approx": 3120,
+      "class": "E"
+    },
+    {
+      "position": 51,
+      "x_center_approx": 3164,
+      "class": "E"
+    },
+    {
+      "position": 52,
+      "x_center_approx": 3230,
+      "class": "L"
+    },
+    {
+      "position": 53,
+      "x_center_approx": 3270,
+      "class": "E"
+    },
+    {
+      "position": 54,
+      "x_center_approx": 3315,
+      "class": "F"
+    },
+    {
+      "position": 55,
+      "x_center_approx": 3380,
+      "class": "L",
+      "note": "Dark angular bracket, partly overlaps next sign; L preferred"
+    },
+    {
+      "position": 56,
+      "x_center_approx": 3415,
+      "class": "B",
+      "note": "Horizontal loop pair with descender, partly overlaps previous L; B preferred"
+    },
+    {
+      "position": 57,
+      "x_center_approx": 3465,
+      "class": "I",
+      "note": "Crossed strokes, I"
+    },
+    {
+      "position": 58,
+      "x_center_approx": 3520,
+      "class": "F",
+      "alternatives": [
+        "G"
+      ],
+      "note": "Horizontal shallow e/triangle form, F preferred"
+    },
+    {
+      "position": 59,
+      "x_center_approx": 3565,
+      "class": "F",
+      "alternatives": [
+        "G"
+      ],
+      "note": "Horizontal closed shallow form with baseline, F preferred"
+    },
+    {
+      "position": 60,
+      "x_center_approx": 3610,
+      "class": "B"
+    },
+    {
+      "position": 61,
+      "x_center_approx": 3670,
+      "class": "A"
+    },
+    {
+      "position": 62,
+      "x_center_approx": 3725,
+      "class": "D",
+      "alternatives": [
+        "A"
+      ],
+      "note": "Two bars/two upright strokes; D preferred"
+    },
+    {
+      "position": 63,
+      "x_center_approx": 3775,
+      "class": "A",
+      "note": "One main bar plus descending loop-foot; A preferred"
+    },
+    {
+      "position": 64,
+      "x_center_approx": 3825,
+      "class": "M"
+    },
+    {
+      "position": 65,
+      "x_center_approx": 3870,
+      "class": "E"
+    },
+    {
+      "position": 66,
+      "x_center_approx": 3910,
+      "class": "A",
+      "note": "Dark A, not reassigned through wording"
+    },
+    {
+      "position": 67,
+      "x_center_approx": 3950,
+      "class": "G"
+    }
+  ],
+  "plaintext": null
+}

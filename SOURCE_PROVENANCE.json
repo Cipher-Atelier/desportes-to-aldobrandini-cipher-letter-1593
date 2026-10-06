@@ -1,0 +1,175 @@
+{
+  "source_repository": "https://github.com/cayde-6/historical-cipher-research",
+  "source_baseline_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "approved_source_archive_sha256": "82369eb38788028640501edfe272cd91d8ce6158977465f78333ab195d7ce59b",
+  "publication_date_utc": "2026-10-06",
+  "history": "Clean publication commit; original Git history retained without rewriting or force-push.",
+  "retained_inputs": [
+    {
+      "source_path": "desportes-1593/README.md",
+      "destination_path": "desportes-1593/README.md",
+      "source_sha256": "18b928121e7914058b98dcca436663f750cc3e9b569aff88ea22d919dce37242",
+      "destination_sha256": "18b928121e7914058b98dcca436663f750cc3e9b569aff88ea22d919dce37242",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "desportes-1593/article.md",
+      "destination_path": "desportes-1593/article.md",
+      "source_sha256": "4e034a455b06c796664b5908e215e3434b8e24a2e591444ef083bafc6e3d857e",
+      "destination_sha256": "4e034a455b06c796664b5908e215e3434b8e24a2e591444ef083bafc6e3d857e",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "desportes-1593/methods.md",
+      "destination_path": "desportes-1593/methods.md",
+      "source_sha256": "2506b63b112b87c408bc455e25f180ea041aa58d64b82c5f0289f08130e5b34f",
+      "destination_sha256": "2506b63b112b87c408bc455e25f180ea041aa58d64b82c5f0289f08130e5b34f",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "desportes-1593/readings.md",
+      "destination_path": "desportes-1593/readings.md",
+      "source_sha256": "10675471bc976dab55871a32ab81e8d0c201ede74eab06cfc44efe11a5c0382d",
+      "destination_sha256": "10675471bc976dab55871a32ab81e8d0c201ede74eab06cfc44efe11a5c0382d",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "desportes-1593/sources.md",
+      "destination_path": "desportes-1593/sources.md",
+      "source_sha256": "d5022c298da78eb6a52e32c2dd9a14d95de0d49a12144256acd4c6b15fc7431e",
+      "destination_sha256": "d5022c298da78eb6a52e32c2dd9a14d95de0d49a12144256acd4c6b15fc7431e",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ambiguity_map.csv",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ambiguity_map.csv",
+      "source_sha256": "efb0403b7a74e65446f3ad48a066ce61f33e888c4fb5207c44689c52c5d459f3",
+      "destination_sha256": "efb0403b7a74e65446f3ad48a066ce61f33e888c4fb5207c44689c52c5d459f3",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt",
+      "source_sha256": "fd1708f32a534c3afd8010ee72048fbff9a05e4548b89df5366c06534cab5af0",
+      "destination_sha256": "fd1708f32a534c3afd8010ee72048fbff9a05e4548b89df5366c06534cab5af0",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_transcription.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_transcription.json",
+      "source_sha256": "91b48221c5c4603a4c807b941db298669f6c3da037642a1be7712ba57eac8ebc",
+      "destination_sha256": "91b48221c5c4603a4c807b941db298669f6c3da037642a1be7712ba57eac8ebc",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_recto_spans.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_recto_spans.json",
+      "source_sha256": "6db5eff7be134b72b0048bae39b35a9ecf677bb5dfe7093b6f1bc3e20c436d7a",
+      "destination_sha256": "6db5eff7be134b72b0048bae39b35a9ecf677bb5dfe7093b6f1bc3e20c436d7a",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_lower_spans.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_lower_spans.json",
+      "source_sha256": "68a8a868f159a474a57f236edf5ad85e4b20cdf87be1d338c0b8478ccad23016",
+      "destination_sha256": "68a8a868f159a474a57f236edf5ad85e4b20cdf87be1d338c0b8478ccad23016",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_middle_spans.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ordinary_verso_middle_spans.json",
+      "source_sha256": "cbc17bfb33ef018b962bfcd3cf9b789ede9862349262bd64db468c283e96c51f",
+      "destination_sha256": "cbc17bfb33ef018b962bfcd3cf9b789ede9862349262bd64db468c283e96c51f",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv",
+      "source_sha256": "4772c1a142822997e8904f8bd0767530dda61888bc5c3029caf7cf88eb35dda9",
+      "destination_sha256": "4772c1a142822997e8904f8bd0767530dda61888bc5c3029caf7cf88eb35dda9",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L05_second_transcription.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L05_second_transcription.json",
+      "source_sha256": "34377bd84f755d77d3f0bdac331dd8eda3a016962b7fd6e131bc690dfa6249bc",
+      "destination_sha256": "34377bd84f755d77d3f0bdac331dd8eda3a016962b7fd6e131bc690dfa6249bc",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L10_second_transcription.json",
+      "destination_path": "verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/validation/row_L10_second_transcription.json",
+      "source_sha256": "879e3ad1033726d893bd3487a1c6e9bbe640d66f677ecb9351a4fbf9e4b46697",
+      "destination_sha256": "879e3ad1033726d893bd3487a1c6e9bbe640d66f677ecb9351a4fbf9e4b46697",
+      "transform": "verbatim retained source"
+    }
+  ],
+  "adapted_files": [
+    {
+      "path": ".gitignore",
+      "sha256": "60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "4c118c7604941d6277d5a10ab8a1952bc3c7d1567939bcb923181cd3e9b8291c",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "README.md",
+      "sha256": "eafd9961bafcdcbe07e806fc224ebe15694116a8ea532068afdb21057a2467da",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "c143271bd745d8139aa376b007b778f13e04399c203d26dd879e47928a82c3d7",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "sha256": "9a8812f7c22c7ad3e4f1f48e2eda68b320dbaff5131e74ade443fbfab1a2819b",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/README.md",
+      "sha256": "4b6b4e85eaa39aececdf6484a0762524b2467cfd9942cf40d80b2bc222b558ae",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/TOPIC_SCOPE_INDEX.json",
+      "sha256": "53243a49ce7579a8b051efab3f7538bd4a31683475adc8bac9a8973fd8d444c6",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/check_all.py",
+      "sha256": "5c26e5178d05c037d1697c49ad12d43bf968dee94aa5a9eda1a9e3a41599df03",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/PUBLIC_FILE_MANIFEST.json",
+      "sha256": "180921dad53d84d26b74454642fc137604afb4bbe2ed908d6feca8319d6aa2ff",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/README.md",
+      "sha256": "8c65a0639bd7e9ca2be4ef7d160b595462a36f6fd4f9cdee3f08b2f2228167fc",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/SOURCES_AND_LIMITS.json",
+      "sha256": "a9b09dffbee3ae84521b2f61552df85eb4fa89747c3ea745151a902d93f77be9",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/VERIFIED_REPLAY_RESULTS.json",
+      "sha256": "7d2eb28647d41eb5ea2f53847156d95da2c2ae348c716d433d14ccaa47703a8b",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/replay.py",
+      "sha256": "d4e51652cc9201cd0a20dbabe374e3af6ef73940d016d4d302e3cead43875e86",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    }
+  ],
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+}

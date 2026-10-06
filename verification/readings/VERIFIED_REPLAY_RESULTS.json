@@ -1,0 +1,15 @@
+{
+  "desportes-1593": {
+    "status": "PASS",
+    "scope": "mechanical replay only",
+    "indexed_regions": 4612,
+    "assigned_positions": 4108,
+    "expanded_letters": 4295,
+    "second_arrays_matched": [
+      "L05",
+      "L10"
+    ],
+    "working_text_sha256": "fd1708f32a534c3afd8010ee72048fbff9a05e4548b89df5366c06534cab5af0",
+    "limit": "Compatibility is not a unique reading or historical accuracy; PAR addendum not merged into frozen text."
+  }
+}

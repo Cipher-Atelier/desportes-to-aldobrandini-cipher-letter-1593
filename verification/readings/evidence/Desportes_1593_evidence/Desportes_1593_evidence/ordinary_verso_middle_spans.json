@@ -1,0 +1,27 @@
+{
+  "source_image": "images/f186v_full.jpg",
+  "ordinary_prose": [
+    {
+      "row": 16,
+      "source_bbox": [
+        2280,
+        2650,
+        2495,
+        2725
+      ],
+      "reading": "[B/S.s.J.?]",
+      "note": "Abbreviation indexed at31 inside the cipher row; source box is the separately recorded clear-script window; title not expanded."
+    },
+    {
+      "row": 17,
+      "source_bbox": [
+        1940,
+        2735,
+        4180,
+        2870
+      ],
+      "reading": "[Il?] y auroi[t?] pour en remplir deux rames de papier Et pour ne estre trop [...] Je luy diray que",
+      "confidence": "medium-high except bracketed parts"
+    }
+  ]
+}
