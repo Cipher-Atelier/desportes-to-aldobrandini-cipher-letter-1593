@@ -1,3 +1,5 @@
+**Repository package update · 6 October 2026.** The [public reading and replay package](../verification/readings/README.md) now includes a working French text, sign-alignment ledger and transcription. Statements about missing files in the article below describe its preserved 5 October publication snapshot. Source images remain excluded; glyph readings, polyphonic choices and historical interpretation still need review. Later PAR evidence remains separate from the frozen working edition. Bounded replay is not complete source verification or a new cipher solution.
+
 # A Working Reconstruction of Desportes’s Letter of 22 July 1593
 
 Promises of help on the eve of Henri IV’s conversion: a partial reading using Tomokiyo’s published key, with lacunae preserved.
