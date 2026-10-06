@@ -1,4 +1,4 @@
-# desportes-1593
+# Desportes to Aldobrandini: cipher letter (22 July 1593)
 
 Partial edition using Tomokiyo’s known key, with Rosson’s prior reading credited. Replay checks 4,612 indexed regions, 4,108 compatible assignments and 4,295 expanded letters; polyphonic choice remains interpretive.
 

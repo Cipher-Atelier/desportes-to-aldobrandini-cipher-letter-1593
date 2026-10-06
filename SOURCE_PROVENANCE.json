@@ -112,22 +112,22 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "4c118c7604941d6277d5a10ab8a1952bc3c7d1567939bcb923181cd3e9b8291c",
+      "sha256": "c817f834a0b251666a62d34d879a0c4880988ba64a03a86002a08b0088b01dab",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "README.md",
-      "sha256": "eafd9961bafcdcbe07e806fc224ebe15694116a8ea532068afdb21057a2467da",
+      "sha256": "d5fb035d48643619e7f23b24e9b3f1e8c391ddb06dd1100a5f47837d26f91a37",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SHA256SUMS.txt",
-      "sha256": "c143271bd745d8139aa376b007b778f13e04399c203d26dd879e47928a82c3d7",
+      "sha256": "5c2ea613d3b13366d21ecc2ef2f22d5c52a7ec7da71b87c8c9aceafb98fccaee",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SOURCE_PROVENANCE.json",
-      "sha256": "9a8812f7c22c7ad3e4f1f48e2eda68b320dbaff5131e74ade443fbfab1a2819b",
+      "sha256": "96dfa2a6670e0f68a017d1bc64323394f3e001dc597768ac8bad95fcd1a1c834",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "path": "verification/TOPIC_SCOPE_INDEX.json",
-      "sha256": "53243a49ce7579a8b051efab3f7538bd4a31683475adc8bac9a8973fd8d444c6",
+      "sha256": "eb8f0788e4962d7f84211bacd1b3c90dc80d7500098cbe25d905fa77da9242a8",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -171,5 +171,11 @@
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     }
   ],
-  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence.",
+  "repository_rename": {
+    "previous_slug": "desportes-1593",
+    "current_slug": "desportes-to-aldobrandini-cipher-letter-1593",
+    "date_utc": "2026-10-06",
+    "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  }
 }
