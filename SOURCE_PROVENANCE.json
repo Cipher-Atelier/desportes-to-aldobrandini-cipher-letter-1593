@@ -185,5 +185,22 @@
     "navigation_file": "README.md",
     "previous_sha256": "d5fb035d48643619e7f23b24e9b3f1e8c391ddb06dd1100a5f47837d26f91a37",
     "current_sha256": "676c6a6bea2fdbba7ef23352dc81c2b20e56b318842255d1cdd0dc9d4446cfeb"
+  },
+  "editorial_navigation_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "af7e5cd50e4725761c5baaa446b5ff7c0e9dfb1d",
+    "scope": "Correct public package availability and navigation; preserve the historical article beneath a dated repository note. Research data, code, keys and outputs are unchanged. Initial retained_inputs and adapted_files hashes document original publication snapshots; the changes below document later editorial bytes.",
+    "files": [
+      {
+        "path": "desportes-1593/README.md",
+        "previous_sha256": "18b928121e7914058b98dcca436663f750cc3e9b569aff88ea22d919dce37242",
+        "current_sha256": "c2da285ef2539f04db6ee788a15114aa9a21dc663ff283d9591567fba5397732"
+      },
+      {
+        "path": "desportes-1593/article.md",
+        "previous_sha256": "4e034a455b06c796664b5908e215e3434b8e24a2e591444ef083bafc6e3d857e",
+        "current_sha256": "cdee8498601277ee1b48d3a9840cc49deee6712f361dfbc0e97b8a011c4105a4"
+      }
+    ]
   }
 }
