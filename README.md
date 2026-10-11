@@ -2,17 +2,20 @@
 
 A letter attributed to Baudouin Desportes, written in Paris on 22 July 1593 and addressed to Pietro Aldobrandini. Ordinary handwriting alternates with encrypted passages.
 
-## What has been found?
+## Current result — 11 October 2026
 
-A partial French working edition discusses political choices around Henri IV’s forthcoming conversion. It applies Satoshi Tomokiyo’s published key and credits Paolo Rosson’s prior reading. Many signs permit two possible letters, so a compatible choice is not automatically the correct reading.
+The proposed text discusses political choices around Henri IV’s forthcoming conversion. This partial French working edition applies Satoshi Tomokiyo’s published polyphonic key and credits Paolo Rosson’s earlier reading. Replay checks 4,612 indexed regions, 4,108 compatible assignments and 4,295 expanded letters. Those counts measure compatibility and coverage; choosing an allowed letter does not establish its historical correctness.
 
-A small example from the recorded result:
+| Evidence layer | Open this |
+| --- | --- |
+| Original | [Recto](https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f347) · [verso](https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f348) |
+| Recorded signs and key | [Sign alignment](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv) · [structured transcription](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_transcription.json) · [Tomokiyo’s original key study](https://cryptiana.web.fc2.com/code/mayenne.htm) |
+| Literal / working French | [Working text](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt) · [ambiguity map](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/ambiguity_map.csv) |
+| Interpretation / selected English translation | [Article passage](desportes-1593/article.md#why-promises-were-no-longer-enough) |
 
-```text
-IL FAUDROIT BEAUCOUP D EFFECTZ
-```
+The working text uses capitals for deciphered passages and mixed case for ordinary handwriting. Spacing and punctuation are editorial; brackets retain gaps without necessarily specifying their length. On folio 186r, P01 indices 1–3, classes D/E/F permit D/Q, E/R, F/S; choosing D/E/S gives `DES`. [Check that example](READING_GUIDE.md#check-one-example-by-hand).
 
-This excerpt begins a passage about needing real action. The article supplies interpretation and translation; the working edition retains gaps and uncertain letter choices.
+**Unresolved / missing:** polyphonic choices, gaps and personal identifications remain. A complete English translated edition and the historically mentioned continuous Russian translation are not included in this public package. P01/M3 are editorial locators; X labels are block-local. Later PAR commentary and Rosson restorations remain separate from the frozen edition.
 
 ## Start reading
 

@@ -224,5 +224,37 @@
         "current_sha256": "7229ecb7e9816c6f59ff706b800a523d302e54dfffea56a9904e2943593d26c4"
       }
     ]
+  },
+  "reader_documentation_refresh_20261011": {
+    "date_utc": "2026-10-11",
+    "previous_commit": "47ab3072a703e725b4fffbb1f76dffcc2478a545",
+    "scope": "Reader status, evidence navigation, manual examples and reproduction limits only. Frozen research data, keys, literals, expected outputs, code, credits and source rights are unchanged. Earlier provenance inventories remain historical publication snapshots. AI assistance: Codex edited documentation and checked saved records; no independent manuscript-pixel adjudication.",
+    "files": [
+      {
+        "path": "READING_GUIDE.md",
+        "previous_sha256": "ee5e373f221ebd7e5c5aa88c8c4753ffffae321e7242ce9abe04c33e1a8f99b0",
+        "current_sha256": "26d887d94584384ef1f59951a62072f8d34116bb84aa86274dca7f6c811ebd1a"
+      },
+      {
+        "path": "README.md",
+        "previous_sha256": "ea5833a0d821831e23a844a9dad4cb217d1b39c090e0eb6a637d728b682f0cf8",
+        "current_sha256": "81735155f78e6062334ec089655ff98fb7b3665b03e98bb130d85e4e3f9d47eb"
+      },
+      {
+        "path": "desportes-1593/methods.md",
+        "previous_sha256": "2506b63b112b87c408bc455e25f180ea041aa58d64b82c5f0289f08130e5b34f",
+        "current_sha256": "43f16d6575abaec6f5a2037db2055a966e877dc20677e9cb2ca26b937341af14"
+      },
+      {
+        "path": "desportes-1593/readings.md",
+        "previous_sha256": "10675471bc976dab55871a32ab81e8d0c201ede74eab06cfc44efe11a5c0382d",
+        "current_sha256": "e43527e10883300cfd0cfb31c98ae2b081cbf50e7992aadc99c0ceca501cfb48"
+      },
+      {
+        "path": "desportes-1593/sources.md",
+        "previous_sha256": "d5022c298da78eb6a52e32c2dd9a14d95de0d49a12144256acd4c6b15fc7431e",
+        "current_sha256": "a431990660f44f350b0f48edbe2bd174ab978caa6fb1f388d28275699b351c21"
+      }
+    ]
   }
 }

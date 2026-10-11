@@ -35,8 +35,8 @@ The replay checks 4,612 indexed regions, 4,108 compatible assignments and 4,295 
 | 3 | `F` | `FS` | `S` |
 
 2. These adopted choices give `DES`. Each choice belongs to the allowed pair, but that fact alone cannot choose between `D/Q`, `E/R` or `F/S`. This is what *polyphonic* means here: one cipher class can represent more than one letter.
-3. Compare the recorded source class with [Gallica image 347, recto](https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f347), and compare the allowed pair with [the published key](https://cryptiana.web.fc2.com/code/polyphonic1593.htm). Image 348 contains the verso. The CSV stores source-row bounding boxes; those identify context, not proof that every character is correctly classified.
-4. Read the resulting passage in the [working French text](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt). Spaces, punctuation and restored wording are editorial. Keep unresolved brackets intact.
+3. Compare the recorded source class with [Gallica image 347, recto](https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f347), and compare the allowed pair with [Tomokiyo’s original key study](https://cryptiana.web.fc2.com/code/mayenne.htm). Image 348 contains the verso. The CSV stores source-row bounding boxes; those identify context, not proof that every character is correctly classified.
+4. Read the resulting passage in the [working French text](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt). Capitals mark deciphered passages; mixed case marks ordinary handwriting. Spaces, punctuation and restored wording are editorial. Keep unresolved brackets intact; a gap need not specify how many letters are missing. P01/M3 are editorial locators and X labels are block-local. A complete English edition and the historically mentioned continuous Russian translation are not included in this public package.
 
 The dated note above the historical article explains that the checking files are now available even though the preserved earlier article described their absence. Later PAR evidence and comparisons are kept separate from the frozen working edition.
 
@@ -56,7 +56,7 @@ To report a problem, use [Work on existing research](https://github.com/Cipher-A
 | [Research account](desportes-1593/article.md) | Historical context, method, interpretation, credits and limits |
 | [French working text with gaps](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt) | The saved text or bounded test result |
 | [Sign-by-sign choices](verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv) | The recorded input/assignments used in the example |
-| [Tomokiyo’s published key](https://cryptiana.web.fc2.com/code/polyphonic1593.htm) | The proposed transformation, historical key, or tested assumptions |
+| [Original key study](https://cryptiana.web.fc2.com/code/mayenne.htm) · [later partial check](https://cryptiana.web.fc2.com/code/polyphonic1593.htm) | The proposed transformation, historical key, or tested assumptions |
 | [Technical verification](verification/README.md) | Setup, command, expected output and what the check covers |
 | [Source scope](verification/TOPIC_SCOPE_INDEX.json) | Machine-readable release boundaries and omitted material |
 | [Publication provenance](SOURCE_PROVENANCE.json) | Where this package came from and what documentation changed |
