@@ -9,6 +9,6 @@ This source index points to the complete citations in the article, preserving th
 - [Rosson comparison and later control](article.md#comparing-the-readings)
 - [Full sources and checked literature](article.md#sources-and-checked-literature): all 11 published entries.
 
-The manuscript scans remain at their linked sources. The unpublished research apparatus is not represented as publicly available evidence in this repository.
+The manuscript scans remain at their linked sources. **Availability correction — 11 October 2026:** the [working French text](../verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_reading_FR.txt), [structured transcription/key](../verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/letter_transcription.json) and [sign alignment](../verification/readings/evidence/Desportes_1593_evidence/Desportes_1593_evidence/sign_alignment.csv) are public. Source-image access and redistribution terms remain separate. [Tomokiyo’s original key study](https://cryptiana.web.fc2.com/code/mayenne.htm) and [later partial check](https://cryptiana.web.fc2.com/code/polyphonic1593.htm) have different scopes.
 
 [Investigation index](README.md) · [Source website](https://maxim-egorov.dev/research/desportes-1593/)
