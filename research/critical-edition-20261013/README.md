@@ -25,3 +25,5 @@ Python 3.10+: `python3 check_package.py`. It checks public hashes, 85 IDs, 76 ru
 [New O01 deux/choses and e-only control comparison](../followup-v16-20261013/result.md) supplies a clearer DEUX context but no unique target e/u/x or final s assignment. Exact v16 reading remains unresolved; prior tests were not repeated.
 
 [New contemporary-pair controls for r36](../r36-paired-controls-20261013/result.md): five conditional FORCE labels after an openly corrected locator; full FORCE UNG rejected. Detached-E, H/B and overinked-F/A discriminants remain unmet.
+
+[Primary f184/f188 control tests](../f184-f188-controls-20261013/result.md): five conditional EN/NOM positions; ordinary-word exclusions, DU marker and corrected UNE class failure retained. No H/U, matched dense A/N or detached E/R discriminator; concrete remaining sources listed.

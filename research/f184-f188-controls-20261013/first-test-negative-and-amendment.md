@@ -1,0 +1,7 @@
+# First test negative; amended bounded control
+
+The primary opening of f351 is ordinary handwriting. Its POUR EVITER UNE LONGUE agrees with the independently inspected f343 opening, and f351 has folio 188 at upper right. The original selection is therefore correctly aligned but has no cipher alphabet symbols: UNE/LONGUE/EVITER yield zero cipher positional labels. The pair identity is supported, not refuted. Preserve this failed cipher-control selection rather than pretending a later UNE was the registered one.
+
+At the already-viewed native top context of f351, a short cipher island follows ordinary text corresponding to the pitye phrase in clear-copy r06 and precedes the ordinary CAR POUR continuation. The modern clear locator describes EN DU followed by an abbreviated person name there. Amend the test to those two complete short words only: independently inspect f343's EN DU before close inspection/key mapping of this island; require 2+2 physical cipher units in their ordered positions, with the person-name abbreviation excluded from alphabetic labels. Freeze the clear reading and amendment. The broad native f351 context, including the island at display scale, has already been seen, so this amendment is not an untouched preregistration or blind control selection. No candidate is chosen because it resembles r36 and no unrelated word is substituted. All original H/B, density/boundary and detached-E criteria remain.
+
+The bounded amended test stops after this first island. Later UNE words and f344 continuation are untested, not rejected.

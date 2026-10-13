@@ -1,0 +1,943 @@
+{
+  "title": "f184r/f188r staged contemporary-copy controls for r36",
+  "modern_locator_commit": "c7d3688324b0153663d0a3cce722fbe56e721730",
+  "sources": [
+    {
+      "file": "sources/f343-1024-0.jpg",
+      "folio": "f343",
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/1024,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "04f61e7d0778e53dedeedf931aaeb602335e3295229755652011d9f27cece0e3",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-1024-1024.jpg",
+      "folio": "f343",
+      "region": [
+        1024,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/1024,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "24655286826b54e140f4834b4c683acc329c4a5bf84185abb9cbfa785369e9af",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-1024-2048.jpg",
+      "folio": "f343",
+      "region": [
+        1024,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/1024,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "495159f6e819aa54cfc36231b0c0a5eb97ce314c3a5cf6777b6113ef75b39f40",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-2048-0.jpg",
+      "folio": "f343",
+      "region": [
+        2048,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/2048,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "799630c0b6529335131408317d2c3b52d5fc9a0e78d760e2cc6f387068dc05cd",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-2048-1024.jpg",
+      "folio": "f343",
+      "region": [
+        2048,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/2048,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "7df4fae8416c3c1827c8dc69cb18e04dac6f7bd7d0bd11c7a6d87ebd2c0cd7f3",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-2048-2048.jpg",
+      "folio": "f343",
+      "region": [
+        2048,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/2048,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "ba4a9bad7d1ad5c02f472c12985ed67905a583a552b7b0fe05e473aa8cb2816b",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-3072-0.jpg",
+      "folio": "f343",
+      "region": [
+        3072,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/3072,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "c7bd5f5e64f7224a223334bc91675a7c684fee68d2b75d822ba6254fc4c10718",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-3072-1024.jpg",
+      "folio": "f343",
+      "region": [
+        3072,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/3072,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "29aebf30f6e9c178f11d17b04c89854c498217b0ee4d56e9122d0293c4f2d144",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f343-3072-2048.jpg",
+      "folio": "f343",
+      "region": [
+        3072,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f343/3072,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "b17eeb770e88fcc42c96a765285da75774465ffb009b415e17910b0d40918cf9",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-0-1024.jpg",
+      "folio": "f351",
+      "region": [
+        0,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/0,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "af42bb1d6de66992ad6690acea4704a8639c104caa06b72462b3a0698da62699",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-0-2048.jpg",
+      "folio": "f351",
+      "region": [
+        0,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/0,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "784ddf34135e6488b5d417bed42dca353b206eb30d41592257adf646e11d8c5a",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-1024-0.jpg",
+      "folio": "f351",
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/1024,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "8e27d11c62ed3186ee17d006ce3662b909fdf59e8f591533d75389fb5cf31f52",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-1024-1024.jpg",
+      "folio": "f351",
+      "region": [
+        1024,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/1024,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "89546addc9f92393bf6ab35479a8b15661f9bed9ee6449a3235b54b0d0cecd19",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-1024-2048.jpg",
+      "folio": "f351",
+      "region": [
+        1024,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/1024,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "a85d245c146d977e2fce21a8fa5108a3610c30c2fc78d0ebc9d8f34832bba8f0",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-2048-0.jpg",
+      "folio": "f351",
+      "region": [
+        2048,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/2048,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "d013307f4f3f702778516089859a754f08227334f7631fe6ffc2ec6f64711b31",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-2048-1024.jpg",
+      "folio": "f351",
+      "region": [
+        2048,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/2048,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "91ec5e9bb50cafcbe4b29041f3b4cb50fb4439dfe8dc2d09f5bc7e018e5f0113",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-2048-2048.jpg",
+      "folio": "f351",
+      "region": [
+        2048,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/2048,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "93a28a947d13f3f3750eda39547ec593d9a2c4ccdbe88eba55db632ec5767e7c",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-3072-0.jpg",
+      "folio": "f351",
+      "region": [
+        3072,
+        0,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/3072,0,1024,1024/1024,/0/native.jpg",
+      "sha256": "b419dbdd70fa346fea4ad43b8474dfd7b552775c0805cb87031313d5d115a400",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-3072-1024.jpg",
+      "folio": "f351",
+      "region": [
+        3072,
+        1024,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/3072,1024,1024,1024/1024,/0/native.jpg",
+      "sha256": "e5bfd34c625b6d1d807317f9564fc0afb3242710242751478606928ed0dc0969",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-3072-2048.jpg",
+      "folio": "f351",
+      "region": [
+        3072,
+        2048,
+        1024,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/3072,2048,1024,1024/1024,/0/native.jpg",
+      "sha256": "18b77b43eabe90adf5068fb7e2c4e6ad21eb996cee0ab94301e9d7cc52525cbd",
+      "native_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-4096-1024.jpg",
+      "folio": "f351",
+      "region": [
+        4096,
+        1024,
+        856,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/4096,1024,856,1024/856,/0/native.jpg",
+      "sha256": "365500786e6c155bf8f7186ea18ceafd408ce52704525752586270d0dd9ae999",
+      "native_dimensions": [
+        856,
+        1024
+      ]
+    },
+    {
+      "file": "sources/f351-4096-2048.jpg",
+      "folio": "f351",
+      "region": [
+        4096,
+        2048,
+        856,
+        1024
+      ],
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f351/4096,2048,856,1024/856,/0/native.jpg",
+      "sha256": "21f0836c79278912fa62a6580671903036965503f0921eb2e8f7077116edbe8b",
+      "native_dimensions": [
+        856,
+        1024
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": "clear-top-context",
+      "folio": "f343",
+      "box": [
+        1024,
+        0,
+        4096,
+        2048
+      ],
+      "raw_file": "local-crops/clear-top-context.png",
+      "dimensions": [
+        3072,
+        2048
+      ],
+      "file_sha256": "d5842c244cb14f32b4c3f8a4493f1414d3cf393b47da2bd5c19b74ea358c6eb3",
+      "rgb_sha256": "0007a63418ce532975f78a9f2eb38796a69dcb2440cf332c6a089675bee34588",
+      "source_files": [
+        "sources/f343-1024-0.jpg",
+        "sources/f343-1024-1024.jpg",
+        "sources/f343-2048-0.jpg",
+        "sources/f343-2048-1024.jpg",
+        "sources/f343-3072-0.jpg",
+        "sources/f343-3072-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "clear-selected-words",
+      "folio": "f343",
+      "box": [
+        1730,
+        470,
+        2450,
+        650
+      ],
+      "raw_file": "local-crops/clear-selected-words.png",
+      "dimensions": [
+        720,
+        180
+      ],
+      "file_sha256": "807ff4acce6218b7e70fa3568194c0be17556b610c408152fd249b348d79cf6f",
+      "rgb_sha256": "a328548e6a895287193d116c52fb5f1a061b488135491e79d4f481a90a79a4e5",
+      "source_files": [
+        "sources/f343-1024-0.jpg",
+        "sources/f343-2048-0.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "clear-en-du-context",
+      "folio": "f343",
+      "box": [
+        1800,
+        1000,
+        2410,
+        1210
+      ],
+      "raw_file": "local-crops/clear-en-du-context.png",
+      "dimensions": [
+        610,
+        210
+      ],
+      "file_sha256": "3f06dcb0c94e5853cf58e7498442b1a933fff55732fce00fb72d47e3df88cdc0",
+      "rgb_sha256": "32db9f47cdbe4d68c9a58d417bd899c40bc6a0102c8f6ac3159e04e164d97ef9",
+      "source_files": [
+        "sources/f343-1024-0.jpg",
+        "sources/f343-1024-1024.jpg",
+        "sources/f343-2048-0.jpg",
+        "sources/f343-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "f351-top-context",
+      "folio": "f351",
+      "box": [
+        1024,
+        0,
+        4096,
+        2048
+      ],
+      "raw_file": "local-crops/f351-top-context.png",
+      "dimensions": [
+        3072,
+        2048
+      ],
+      "file_sha256": "da258ed3b2760fd9ca6c25c91d432abf95d1cac57f09909ada957fcb3b4e1dd7",
+      "rgb_sha256": "a6f4f815c8ea5fc478e8e8bbc14574a0a83597005c7067306dc0afe8d6c7442c",
+      "source_files": [
+        "sources/f351-1024-0.jpg",
+        "sources/f351-1024-1024.jpg",
+        "sources/f351-2048-0.jpg",
+        "sources/f351-2048-1024.jpg",
+        "sources/f351-3072-0.jpg",
+        "sources/f351-3072-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-island-context",
+      "folio": "f351",
+      "box": [
+        2080,
+        980,
+        2820,
+        1170
+      ],
+      "raw_file": "local-crops/cipher-island-context.png",
+      "dimensions": [
+        740,
+        190
+      ],
+      "file_sha256": "e95ca226767b0d7148a68ddf1c9594ed5fc4ad853fef8919893369921ce7727b",
+      "rgb_sha256": "4c82d4bb07052bdece67b2157780f1d4a1e54a22d6934457cb68f977917b25b6",
+      "source_files": [
+        "sources/f351-2048-0.jpg",
+        "sources/f351-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-island-only",
+      "folio": "f351",
+      "box": [
+        2140,
+        1052,
+        2660,
+        1144
+      ],
+      "raw_file": "local-crops/cipher-island-only.png",
+      "dimensions": [
+        520,
+        92
+      ],
+      "file_sha256": "7ad3b91786522bbd3441931e68f5e22d5394e58f077b259fd738a0cf84e739cb",
+      "rgb_sha256": "3b8c605121a6d5ec86399f4d2bdc7f6f33798d751c9736ef47eb9cce5c24d22b",
+      "source_files": [
+        "sources/f351-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "clear-middle-context",
+      "folio": "f343",
+      "box": [
+        1024,
+        2048,
+        4096,
+        3072
+      ],
+      "raw_file": "local-crops/clear-middle-context.png",
+      "dimensions": [
+        3072,
+        1024
+      ],
+      "file_sha256": "6d4253ba7b7a68665e13b374147fb3038245b621bc8bb2e52900cb9eaf495eae",
+      "rgb_sha256": "3a41c6604be924a2d7308cac4eb232c141e2fb345d90ceadbcd59f8a2f31a437",
+      "source_files": [
+        "sources/f343-1024-2048.jpg",
+        "sources/f343-2048-2048.jpg",
+        "sources/f343-3072-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "clear-mauuais-nom",
+      "folio": "f343",
+      "box": [
+        1990,
+        2070,
+        2790,
+        2230
+      ],
+      "raw_file": "local-crops/clear-mauuais-nom.png",
+      "dimensions": [
+        800,
+        160
+      ],
+      "file_sha256": "c92e83459c4208c765d38b87d633f94b9ac35a59e3a88123309e0572b49971c2",
+      "rgb_sha256": "243742ec1888386557619d8c9d5e7956e49115630a67e13e95d7f3239af65d5e",
+      "source_files": [
+        "sources/f343-1024-2048.jpg",
+        "sources/f343-2048-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "f351-middle-context",
+      "folio": "f351",
+      "box": [
+        1024,
+        2048,
+        4096,
+        3072
+      ],
+      "raw_file": "local-crops/f351-middle-context.png",
+      "dimensions": [
+        3072,
+        1024
+      ],
+      "file_sha256": "8abf2d811f230000f8c8a4bb8f004ee8156e6bfaf0dd89685d4b52e538c3a767",
+      "rgb_sha256": "3e64e3e1409748b3d78cbfff53bac3bad7c8359afb1483e948fde9ed2b47886a",
+      "source_files": [
+        "sources/f351-1024-2048.jpg",
+        "sources/f351-2048-2048.jpg",
+        "sources/f351-3072-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-second-context",
+      "folio": "f351",
+      "box": [
+        1284,
+        1710,
+        2924,
+        2048
+      ],
+      "raw_file": "local-crops/cipher-second-context.png",
+      "dimensions": [
+        1640,
+        338
+      ],
+      "file_sha256": "cf10657b8f0768fad6221bbb65c327912c76e548b3d795a5e0d35151fb96fcfe",
+      "rgb_sha256": "21a0876ca24d10daadc9f39f0e914bc4a2ac15a3913d1622637666f3bef0489d",
+      "source_files": [
+        "sources/f351-1024-1024.jpg",
+        "sources/f351-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "f351-middle-left-context",
+      "folio": "f351",
+      "box": [
+        0,
+        1024,
+        4096,
+        3072
+      ],
+      "raw_file": "local-crops/f351-middle-left-context.png",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "file_sha256": "68b06339a1395662881eacb6952f9688952998dc5c2c6d1067f241ea02fae7e1",
+      "rgb_sha256": "8c30ac3c642b379b43d3a24ded56d212c2e79e9d174788f70762428a754ff736",
+      "source_files": [
+        "sources/f351-0-1024.jpg",
+        "sources/f351-0-2048.jpg",
+        "sources/f351-1024-1024.jpg",
+        "sources/f351-1024-2048.jpg",
+        "sources/f351-2048-1024.jpg",
+        "sources/f351-2048-2048.jpg",
+        "sources/f351-3072-1024.jpg",
+        "sources/f351-3072-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "clear-une-r18",
+      "folio": "f343",
+      "box": [
+        1190,
+        2260,
+        1740,
+        2460
+      ],
+      "raw_file": "local-crops/clear-une-r18.png",
+      "dimensions": [
+        550,
+        200
+      ],
+      "file_sha256": "a3fa9e2f367c174c6183bf7bb661ebdf80df5ca7cfd37714286a3bb21be44f4e",
+      "rgb_sha256": "6f7f0b0a5c54949ac0b20ea4ebd936da31d1d0fd987b8b2c34cf1f7172297341",
+      "source_files": [
+        "sources/f343-1024-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-third-context",
+      "folio": "f351",
+      "box": [
+        950,
+        2040,
+        1940,
+        2240
+      ],
+      "raw_file": "local-crops/cipher-third-context.png",
+      "dimensions": [
+        990,
+        200
+      ],
+      "file_sha256": "2c0fbbcf8d2f41c819cc4d86714e31969b63c96f5cebf11042db66b9ebf8241c",
+      "rgb_sha256": "6ffdd570d39cb1f862d1404f0c32bd99c12cb3129e9517483363dbbff8eae0a9",
+      "source_files": [
+        "sources/f351-0-1024.jpg",
+        "sources/f351-0-2048.jpg",
+        "sources/f351-1024-1024.jpg",
+        "sources/f351-1024-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-third-wide",
+      "folio": "f351",
+      "box": [
+        700,
+        2020,
+        2500,
+        2250
+      ],
+      "raw_file": "local-crops/cipher-third-wide.png",
+      "dimensions": [
+        1800,
+        230
+      ],
+      "file_sha256": "31a5b21467363bc84b0fefccacfb7c98e04e5410192efabcc8dcc280366aefe9",
+      "rgb_sha256": "f12e8c32b9a33f6219137e2a547c3ba5ccfbc382bcb8d1b586efc4dde21e9004",
+      "source_files": [
+        "sources/f351-0-1024.jpg",
+        "sources/f351-0-2048.jpg",
+        "sources/f351-1024-1024.jpg",
+        "sources/f351-1024-2048.jpg",
+        "sources/f351-2048-1024.jpg",
+        "sources/f351-2048-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "cipher-third-right-actual-locator",
+      "folio": "f351",
+      "box": [
+        3550,
+        1930,
+        4570,
+        2120
+      ],
+      "raw_file": "local-crops/cipher-third-right-actual-locator.png",
+      "dimensions": [
+        1020,
+        190
+      ],
+      "file_sha256": "5afb8195bf49a2ecae373fb4399830144124e9ddfe7551ca49c6367e9dcecae6",
+      "rgb_sha256": "9640eeb945fde9955d1c5008d737457b9be9affcb833ea042dc60269a82989e7",
+      "source_files": [
+        "sources/f351-3072-1024.jpg",
+        "sources/f351-3072-2048.jpg",
+        "sources/f351-4096-1024.jpg",
+        "sources/f351-4096-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "admitted-en",
+      "folio": "f351",
+      "box": [
+        2170,
+        1050,
+        2300,
+        1170
+      ],
+      "raw_file": "local-crops/admitted-en.png",
+      "dimensions": [
+        130,
+        120
+      ],
+      "file_sha256": "d3d7560cfb6a004913c89faf433fe69d3349e8548d373da31ceff3d8f97651db",
+      "rgb_sha256": "fdcae0ccf104fb11e3897d1ea412c5b340aa30d0ee9d9c08199fdc2d6b3ca43e",
+      "source_files": [
+        "sources/f351-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "admitted-nom",
+      "folio": "f351",
+      "box": [
+        2300,
+        1920,
+        2540,
+        2040
+      ],
+      "raw_file": "local-crops/admitted-nom.png",
+      "dimensions": [
+        240,
+        120
+      ],
+      "file_sha256": "f2a78f4be0cf37598275b3009336905b32f7813462b5d0f2cb6be66146aee375",
+      "rgb_sha256": "9a6a05bfcd842808ce6959762e857532f7b2190a1451c5f857a717b1205bed2d",
+      "source_files": [
+        "sources/f351-2048-1024.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    },
+    {
+      "id": "rejected-une-three",
+      "folio": "f351",
+      "box": [
+        4000,
+        1970,
+        4225,
+        2100
+      ],
+      "raw_file": "local-crops/rejected-une-three.png",
+      "dimensions": [
+        225,
+        130
+      ],
+      "file_sha256": "96674ab19900bc93be996d916b2a7a6bc53959c9ea9eb90b1f57a6afc9de1cd0",
+      "rgb_sha256": "347121d4aad58b5e04f84ef550c2938bbd0957b54e9adfad6ff928cc086a991a",
+      "source_files": [
+        "sources/f351-3072-1024.jpg",
+        "sources/f351-3072-2048.jpg",
+        "sources/f351-4096-1024.jpg",
+        "sources/f351-4096-2048.jpg"
+      ],
+      "coverage": "full",
+      "scale": 1,
+      "bounds": "reading windows, not exact ink boundaries"
+    }
+  ],
+  "freezes": [
+    {
+      "file": "amended-clear-observation.md",
+      "sha256": "ee74a8198a2ede0c838d06ac0f70cf17628a753bbcaabe0a38daf5f8611a5a96",
+      "frozen_at_utc": "2026-10-13T14:56:28.595994+00:00",
+      "f351_native_top_context_already_seen": true,
+      "close_cipher_island_inspection_done": false
+    },
+    {
+      "file": "first-test-negative-and-amendment.md",
+      "sha256": "5abd7946a8ffeeee92a66f597a14fdcd7b7a70db08fa84f2db2ac02af417f509",
+      "frozen_at_utc": "2026-10-13T14:55:57.943595+00:00",
+      "f351_native_top_context_already_seen": true,
+      "cipher_island_close_inspection_and_mapping_done": false
+    },
+    {
+      "file": "clear-observation-before-cipher.md",
+      "sha256": "9e384c7f70859d055a25df42a12d0d42f5a0c53e377428077f605342c0453215",
+      "frozen_at_utc": "2026-10-13T14:52:43.911861+00:00",
+      "f351_cipher_viewed": false
+    },
+    {
+      "file": "first-island-observation.md",
+      "sha256": "810cb217d6a9826e1bb55d181af73bc6737de30bf73b7ced531fb2dedb5ad14f",
+      "frozen_at_utc": "2026-10-13T14:59:00.469002+00:00"
+    },
+    {
+      "file": "second-clear-observation.md",
+      "sha256": "9e7c25eca8b1489981597fd220c8c8701ff58c495a7e2e2f7c891e07ba78e1ea",
+      "frozen_at_utc": "2026-10-13T15:00:41.442850+00:00",
+      "selected_f351_strip_viewed_at_native_resolution": false
+    },
+    {
+      "file": "second-fragment-predefinition.md",
+      "sha256": "9a107f3c39cf28874410885987c5bb051fd47971a30d005b1fb2c66e0a457f4e",
+      "frozen_at_utc": "2026-10-13T14:59:00.469338+00:00"
+    },
+    {
+      "file": "second-result-and-chronology-correction.md",
+      "sha256": "d6d44f12c989b286aaf93e72e6e7e2c1bad38e3d82bb7e49b3ff0a60c6438966",
+      "frozen_at_utc": "2026-10-13T15:03:37.965732+00:00"
+    },
+    {
+      "file": "predefined-test.md",
+      "sha256": "467a21fb32318625db2a0a7eee0a3bb0432af4f2fb4b7573452f385843f5875e",
+      "frozen_at_utc": "2026-10-13T14:49:11.735133+00:00",
+      "new_primary_cipher_viewed": false,
+      "modern_first_line_locator_known": true
+    },
+    {
+      "file": "third-clear-observation.md",
+      "sha256": "5984d165433c2f0bdfdc5de901dbacbc3e099b39ea9907f271d121afe013036e",
+      "frozen_at_utc": "2026-10-13T15:04:01.794428+00:00",
+      "wider_cipher_middle_context_already_seen": true,
+      "close_selected_une_mapping_done": false
+    },
+    {
+      "file": "third-result-corrected-locator.md",
+      "sha256": "42839dcc9d7d7ad3e71089202381f2673f4536e65e2443b35c85ea865fb1cec6",
+      "frozen_at_utc": "2026-10-13T15:15:09.957935+00:00"
+    }
+  ],
+  "native_tiles": 22,
+  "exact_raw_windows": 18,
+  "images_redistributed": false,
+  "full_modern_text_redistributed": false,
+  "exposure_claim_corrected_in": "second-result-and-chronology-correction.md",
+  "target_deciding_labels": 0,
+  "contextual_labels": [
+    {
+      "word": "EN",
+      "clear_positions": [
+        "E",
+        "N"
+      ],
+      "key_classes": [
+        "E/R",
+        "A/N"
+      ],
+      "status": "conditional primary-copy correspondence",
+      "confidence": "moderate-high correspondence; key classes compatible; same target hand not certified"
+    },
+    {
+      "word": "NOM",
+      "clear_positions": [
+        "N",
+        "O",
+        "M"
+      ],
+      "key_classes": [
+        "A/N",
+        "B/O",
+        "M/Z"
+      ],
+      "status": "conditional primary-copy correspondence",
+      "confidence": "moderate-high correspondence; key classes compatible; same target hand not certified"
+    }
+  ],
+  "rejected_tests": [
+    {
+      "words": "EVITER UNE LONGUE",
+      "reason": "ordinary script in source"
+    },
+    {
+      "word": "DU",
+      "reason": "one broad marker, not two alphabetic positions"
+    },
+    {
+      "word": "MAUUAIS",
+      "reason": "ordinary script in source"
+    },
+    {
+      "word": "UNE r18",
+      "initial_locator": "wrong next-row left edge, no ordinary VOIR",
+      "corrected_locator": "previous-row right end after ordinary FAIRE VOIR",
+      "physical_groups": 3,
+      "group_count_confidence": "high",
+      "provisional_classes": [
+        "B/O",
+        "A/N",
+        "E/R"
+      ],
+      "first_class_confidence": "provisional B/O preferred; abbreviated/unclear stem",
+      "reason": "first class not securely H/U; whole-word test rejects all positional labels"
+    }
+  ],
+  "result": "r36 unresolved; no H/U, matched dense A/N, detached E/R; five conditional contextual positions, zero target-deciding labels"
+}

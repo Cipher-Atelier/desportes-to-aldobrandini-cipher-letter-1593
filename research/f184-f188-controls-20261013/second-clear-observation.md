@@ -1,0 +1,5 @@
+# Second clear fragment, frozen before the new cipher strip
+
+Primary f343 [1990,2070,2790,2230], after the ordinary phrase COMME ON EN PARLE & LE, shows MAUUAIS NOM, then a q-like abbreviation/mark and the complete ordinary DONNE. Own literal letter-position reading of the selected words: M-A-U-U-A-I-S (seven), N-O-M (three). The two adjacent u/v-style bodies in MAUUAIS are visible; no letter is duplicated by modern spelling normalization. Confidence high in the seven/three counts, moderate-high in full letter choices. The pointed u/v ductus is normalized to U only for comparison with the historical key. No selected-word abbreviation, deletion or supplied letter is visible. NOM shows an n shoulder, a closed o and m humps. The following q-like mark is only a contextual anchor; no expanded QU'IL letter labels are admitted.
+
+The selected f351 lower strip corresponding to this r16 passage has not yet been viewed at native resolution. The earlier native top context and low-resolution full-page overview are already known. Selection derives from complete clear U/N-containing words and ordinary surrounding context, not similarity to r36.
