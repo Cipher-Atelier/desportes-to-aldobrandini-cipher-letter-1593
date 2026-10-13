@@ -1,0 +1,200 @@
+{
+  "source": "BnF Francais3984 f186r/v",
+  "windows": [
+    {
+      "id": "control-deux",
+      "folio": "f347",
+      "bbox_xyxy": [
+        3060,
+        1170,
+        3205,
+        1258
+      ],
+      "pixel_sha256": "bc9adc3558ba0e72ee9f837be342c6496f1f597d1efebc9426a1aa97e177cd39",
+      "png_sha256": "0329d2a8a44d0a17514fdd2cc7368b5fd7f72743e3a64f56e1dd409e95d526cb",
+      "local_crop_file": "local-crops/control-deux.png",
+      "source_tiles": [
+        {
+          "file": "sources/f347-2048-1024.jpg",
+          "sha256": "7edb260949596c379313a8457778f9a6a1f22e1c3e4e39d5a40d6e625ef0a8d4",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,1024,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            2048,
+            1024,
+            1024,
+            1024
+          ]
+        },
+        {
+          "file": "sources/f347-3072-1024.jpg",
+          "sha256": "092a9059923785268c042c68be3c804139764f1f4d323f7f3e6e070e872c6833",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,1024,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            3072,
+            1024,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    },
+    {
+      "id": "control-choses-ending",
+      "folio": "f347",
+      "bbox_xyxy": [
+        3270,
+        1175,
+        3350,
+        1258
+      ],
+      "pixel_sha256": "3314bea7e00ecdb2dd57a77865f08bd4539c461dba7a7da52a66f70c29b1ace7",
+      "png_sha256": "ff0d5a286be56bbf55be110e2e7f4eee3ed92da398351f29c96ad763fc897da8",
+      "local_crop_file": "local-crops/control-choses-ending.png",
+      "source_tiles": [
+        {
+          "file": "sources/f347-3072-1024.jpg",
+          "sha256": "092a9059923785268c042c68be3c804139764f1f4d323f7f3e6e070e872c6833",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,1024,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            3072,
+            1024,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    },
+    {
+      "id": "control-possible-ending",
+      "folio": "f347",
+      "bbox_xyxy": [
+        3765,
+        1430,
+        3865,
+        1530
+      ],
+      "pixel_sha256": "9e5b91e43017de4da6cfc7cbf7b1d7b567bef00c936e6b53490ae39cea20a09f",
+      "png_sha256": "9585b1bc04ed80cc6695861f23d4a8a9e51ededa696c26602d41ca77439049a2",
+      "local_crop_file": "local-crops/control-possible-ending.png",
+      "source_tiles": [
+        {
+          "file": "sources/f347-3072-1024.jpg",
+          "sha256": "092a9059923785268c042c68be3c804139764f1f4d323f7f3e6e070e872c6833",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,1024,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            3072,
+            1024,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    },
+    {
+      "id": "control-nouvelle-ending",
+      "folio": "f347",
+      "bbox_xyxy": [
+        1690,
+        1535,
+        1765,
+        1628
+      ],
+      "pixel_sha256": "93281c2c0adbd837721cdc970b13d7df4be63ca488bb0ea59a146387440a9ed5",
+      "png_sha256": "e6b33cec41936816fb5356145292e42a8817a95e35592c34656aee03da7486d4",
+      "local_crop_file": "local-crops/control-nouvelle-ending.png",
+      "source_tiles": [
+        {
+          "file": "sources/f347-1024-1024.jpg",
+          "sha256": "2746f74849973d161aaff57a9c941b47e23a86ab1b8225e7fa0ec6cf4238f5d4",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,1024,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            1024,
+            1024,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    },
+    {
+      "id": "target-number",
+      "folio": "f348",
+      "bbox_xyxy": [
+        2570,
+        2745,
+        2680,
+        2850
+      ],
+      "pixel_sha256": "648d1b2d3fc1cc3ff8848eb9a1c0327cd2633a1841adb511c71a39b790f0317a",
+      "png_sha256": "3f93f5e305b565beaaaac79ebb167d68804d5b57d98ada83a5354a8ed0f53699",
+      "local_crop_file": "local-crops/target-number.png",
+      "source_tiles": [
+        {
+          "file": "sources/f348-2048-2048.jpg",
+          "sha256": "143f8605b9f51404e40564698ea9c0f3cc7993cc22e2036c260acda961b3395b",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,2048,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            2048,
+            2048,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    },
+    {
+      "id": "target-noun-ending",
+      "folio": "f348",
+      "bbox_xyxy": [
+        2755,
+        2750,
+        2820,
+        2850
+      ],
+      "pixel_sha256": "bfff367d1ee473b7cda8514df7309d292194120d2c18133045527c9538121237",
+      "png_sha256": "b9a3016b560e3550aede32ddd2cb1aabdbed2b90a30c55c60578706ced42d7c8",
+      "local_crop_file": "local-crops/target-noun-ending.png",
+      "source_tiles": [
+        {
+          "file": "sources/f348-2048-2048.jpg",
+          "sha256": "143f8605b9f51404e40564698ea9c0f3cc7993cc22e2036c260acda961b3395b",
+          "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,2048,1024,1024/1024,/0/native.jpg",
+          "region_xywh": [
+            2048,
+            2048,
+            1024,
+            1024
+          ]
+        }
+      ],
+      "scale": 1,
+      "bounds": "reading window; not certified individual ink boundaries"
+    }
+  ],
+  "pixel_checks": "PASS:6 windows from hashed original tiles, full mask coverage; no padding/retouch",
+  "criteria_freeze": {
+    "sha256": "f27770abaa1ecdb76c950ebb9653c88dc419444ca463eb41809ee9d0b30a183f",
+    "time_utc": "2026-10-13T13:31:37.098117+00:00",
+    "stage": "before viewing newly selected control windows or re-comparing target"
+  },
+  "controls_observation_freeze": {
+    "sha256": "ab02eff9d54f6d1271b031c737657fc0963b8385148f7f74050c90ad98389141",
+    "time_utc": "2026-10-13T13:33:36.881320+00:00"
+  },
+  "images_redistributed": false,
+  "result": {
+    "numeral_full_sequence": "INCONCLUSIVE",
+    "plural_discriminant": "INCONCLUSIVE",
+    "deux_preference": "limited contextual support, no unique full reading"
+  }
+}
