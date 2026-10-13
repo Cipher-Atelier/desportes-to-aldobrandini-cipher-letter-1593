@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "counts": {
+    "sources": 129,
+    "windows": 132,
+    "freezes": 12,
+    "baseline_files": 87
+  },
+  "failures": [],
+  "source_git": {
+    "head": "a313377aa1da2b74e6b1125fd4516d6d0cb0f9e4",
+    "status": ""
+  },
+  "limit": "Native bytes, coverage and immutability only; no optical interpretation or historical correctness certified."
+}
