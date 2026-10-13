@@ -1,0 +1,5 @@
+# Primary clear-copy observation, before f333 cipher inspection
+
+On f178r/Gallica f331 first line, native window [950,1550,2500,1770], read `par force ung ... se veult tantost ...`. The central words force and ung are written in full, with no needed abbreviation expansion, cancellation or inserted letter. Force has five proposed ordinary letters: long-descending f, low o, r/c/e turns; ung has an initial low u/n-like minim sequence and a descender-loop g. I read UNG (not a repaired modern UN) from the retained visible g. Contextual label confidence: high for FORCE, medium-high for UNG because u/n strokes are joined. The neighbouring written par and se veult/tantost provide position/order anchors; the intervening q-like shorthand is not treated as independently spelled three letters.
+
+The independently read positional proposal is F O R C E U N G, eight ordinary letters. This is an own reading of primary ink with a previously known modern locator; not ignorance of the proposed phrase. Do not yet count/match cipher signs or repair either spelling. If cipher boundaries or matched order are ambiguous, retain that ambiguity rather than force the eight-unit proposal.

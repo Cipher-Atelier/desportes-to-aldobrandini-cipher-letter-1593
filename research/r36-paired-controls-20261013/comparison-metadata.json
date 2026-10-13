@@ -1,0 +1,346 @@
+{
+  "used_source_images": [
+    {
+      "file": "sources/f331-2048-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f331/2048,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        1024,
+        1024,
+        1024
+      ],
+      "sha256": "2a3d60bb2b573d0bf3e5d9a229817ee11846f9cd8f19321c2f89449c84f38e43",
+      "native": true
+    },
+    {
+      "file": "sources/f331-1024-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f331/1024,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        1024,
+        1024,
+        1024
+      ],
+      "sha256": "c68b6a03f5189791c1eefbedbc8e84d7ccdef51a599babe90dc2f1c9875042a0",
+      "native": true
+    },
+    {
+      "file": "sources/f331-0-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f331/0,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        1024,
+        1024,
+        1024
+      ],
+      "sha256": "fa567d5ca81e3ccdacd862a0fcdf2bcba18b3fbe625a8a7777a4f704ea70ff57",
+      "native": true
+    },
+    {
+      "file": "sources/f333-1024-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f333/1024,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "sha256": "94239f72efd62771a2d1fd91ee62f4745b77f60cb5eaf5e75acdb8f69a010095",
+      "native": true
+    },
+    {
+      "file": "sources/f333-2048-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f333/2048,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        0,
+        1024,
+        1024
+      ],
+      "sha256": "4a30e61b9e1c037ed9e096eb3a791983fe4d84ca97b3b9cf56731d6757993bc6",
+      "native": true
+    },
+    {
+      "file": "sources/f333-0-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f333/0,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "sha256": "e247fb5e0317e89496cf6782ea8331ba11245e532583aa0afe81eb6cfaea3635",
+      "native": true
+    },
+    {
+      "file": "sources/f328-2048-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f328/2048,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        5120,
+        1024,
+        1024
+      ],
+      "sha256": "36d53d9037832ac9fc1ff8ac95bf9cec8c3de39c07f389f4efff97da22c20443",
+      "native": true
+    },
+    {
+      "file": "sources/f328-3072-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f328/3072,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        5120,
+        1024,
+        1024
+      ],
+      "sha256": "dae6ac47971813846c6f98a6a3b07e19b3a074fc077a1f2297925ba74994eb4c",
+      "native": true
+    }
+  ],
+  "windows": [
+    {
+      "id": "primary-clear-force-ung",
+      "folio_canvas": "f331",
+      "bbox_xyxy": [
+        950,
+        1550,
+        2500,
+        1770
+      ],
+      "pixel_sha256": "ab376e9aaa2f8b1742c1651a6c6e564276b3cb20df1f35e0ded89c904a8d3c28",
+      "source_tiles": [
+        "sources/f331-2048-1024.jpg",
+        "sources/f331-1024-1024.jpg",
+        "sources/f331-0-1024.jpg"
+      ],
+      "local_crop_file": "local-crops/primary-clear-force-ung.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "rejected-first-prefix",
+      "folio_canvas": "f333",
+      "bbox_xyxy": [
+        900,
+        430,
+        2300,
+        700
+      ],
+      "pixel_sha256": "13221a1ab5deb3c33ca08d3da77e4cff97614d8e3806f58b6ad47852d1410398",
+      "source_tiles": [
+        "sources/f333-1024-0.jpg",
+        "sources/f333-2048-0.jpg",
+        "sources/f333-0-0.jpg"
+      ],
+      "local_crop_file": "local-crops/rejected-first-prefix.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "corrected-force-and-following-word",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        2990,
+        5250,
+        3800,
+        5420
+      ],
+      "pixel_sha256": "3502495e1daefc1844720b4db24f2a13b74412902330608d57ce1005d4933e19",
+      "source_tiles": [
+        "sources/f328-2048-5120.jpg",
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/corrected-force-and-following-word.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "force-five",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3095,
+        5255,
+        3350,
+        5370
+      ],
+      "pixel_sha256": "065a98ca84f8b59ebb16f80210722482c2666ba38e5eb8d9a5e53c615a2e3956",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/force-five.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "following-word-and-marker",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3350,
+        5255,
+        3560,
+        5370
+      ],
+      "pixel_sha256": "13ba8a8a38c7883462b538480e35a57584c6f8c150493d6c8e7d539133c331a6",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/following-word-and-marker.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "F1",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3095,
+        5255,
+        3160,
+        5360
+      ],
+      "pixel_sha256": "acf4bd2efbf84928ba584b5dec4a78495494126c2cc280d2cc08cba70a70078c",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/F1.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "O2",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3150,
+        5255,
+        3220,
+        5360
+      ],
+      "pixel_sha256": "ba397a30b351ee1301e7b84742e582e09810d250bb5801b4e204b50ab0e861b5",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/O2.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "R3",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3215,
+        5255,
+        3260,
+        5360
+      ],
+      "pixel_sha256": "28de700f55a0d2f80c21a9d49512f458359c15845fe55814779a717408c307ba",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/R3.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "C4",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3255,
+        5255,
+        3300,
+        5360
+      ],
+      "pixel_sha256": "8b61d7a9b3696800a63c5e03281da8528f5de8e8fda2990b7801c01bc1889324",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/C4.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    },
+    {
+      "id": "E5",
+      "folio_canvas": "f328",
+      "bbox_xyxy": [
+        3295,
+        5255,
+        3350,
+        5360
+      ],
+      "pixel_sha256": "bb680d04b36d650fbf38e8b8f23b6c3d359270c0983186bf3d3625942210c4b7",
+      "source_tiles": [
+        "sources/f328-3072-5120.jpg"
+      ],
+      "local_crop_file": "local-crops/E5.png",
+      "scale": 1,
+      "bounds": "reading window, not exact ink outlines"
+    }
+  ],
+  "contextual_positional_labels": [
+    {
+      "window": "F1",
+      "letter": "F",
+      "class": "F/S",
+      "conditional_on_clear_copy_alignment": true,
+      "externally_certified": false
+    },
+    {
+      "window": "O2",
+      "letter": "O",
+      "class": "B/O",
+      "conditional_on_clear_copy_alignment": true,
+      "externally_certified": false
+    },
+    {
+      "window": "R3",
+      "letter": "R",
+      "class": "E/R",
+      "conditional_on_clear_copy_alignment": true,
+      "externally_certified": false
+    },
+    {
+      "window": "C4",
+      "letter": "C",
+      "class": "C/P",
+      "conditional_on_clear_copy_alignment": true,
+      "externally_certified": false
+    },
+    {
+      "window": "E5",
+      "letter": "E",
+      "class": "E/R",
+      "conditional_on_clear_copy_alignment": true,
+      "externally_certified": false
+    }
+  ],
+  "admitted_following_word_labels": 0,
+  "target_deciding_values": 0,
+  "full_FORCEUNG_match": "REJECTED:3-lettercopy following word versus2alphabeticcipher units",
+  "wrong_first_locator": "REJECTED:QUE initial; not FORCEUNG context",
+  "r36_discriminants": {
+    "detached_E_component": "NOT_MET",
+    "H_and_B_independent_pair": "NOT_MET",
+    "comparable_overinked_A": "NOT_MET"
+  },
+  "freeze_records": {
+    "predefined-test.md": {
+      "sha256": "a197132604455992a504cdf1324451049eaab1951c9878bd5f26127bfa675381",
+      "time_utc": "2026-10-13T13:50:05.673675+00:00",
+      "stage": "before newly selected primary f331/f333 windows"
+    },
+    "clear-observation-before-cipher.md": {
+      "sha256": "22237fb2e39cc151f191a1e1e2315e8e7ad254027f9d2817690e190383e3c85c",
+      "time_utc": "2026-10-13T14:02:01.509419+00:00",
+      "stage": "before selected f333 ciphertext viewed"
+    },
+    "raw-cipher-observation-before-key.md": {
+      "sha256": "4b38d44b08e6b0d7b55c008e165147ef78f74fe8ff3ec53f96014722856d05ea",
+      "time_utc": "2026-10-13T14:08:28.222397+00:00"
+    },
+    "locator-correction-before-f328.md": {
+      "sha256": "3bf28763b8a37902aab1b39ddc5b41a4aaa59d8a9ffa31e499fe51d3dbd8c752",
+      "time_utc": "2026-10-13T14:12:17.879135+00:00",
+      "stage": "before any corrected f328 pixels viewed"
+    }
+  },
+  "pixel_checks": "PASS:10rawwindows; fullcoverage; exactsourceSHA/RGBhash; no padding",
+  "images_redistributed": false
+}
