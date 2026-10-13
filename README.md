@@ -52,3 +52,5 @@ Source credit and item-specific restrictions remain in the research records. Sca
 ## Contribute to this investigation
 
 Read the current result and source limitations, then coordinate a bounded task in an existing issue or use [Work on existing research](https://github.com/Cipher-Atelier/desportes-to-aldobrandini-cipher-letter-1593/issues/new?template=research.yml). Fork the repository and submit a focused pull request with your evidence and checks. Independent replication and constructive alternative readings are welcome. See [Start here](https://github.com/Cipher-Atelier/research-index/blob/main/START_HERE.md) for the shared workflow.
+
+[Remaining-control pass for r36](research/systematic-r36-controls-20261013/result.md): primary UNE/NUL/NOUS and later bounded inventories strengthen a conditional H/U first-mark preference; complete r36 reading remains unresolved. Native reproduction metadata, retained admission failures and byte checks accompany the report.
