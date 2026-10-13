@@ -1,0 +1,2624 @@
+{
+  "source_snapshot": "a313377aa1da2b74e6b1125fd4516d6d0cb0f9e4 (local unpublished snapshot)",
+  "records": [
+    {
+      "line": "r00",
+      "folio": "186r",
+      "physical_number_0_based": 0,
+      "parts": [
+        "O01"
+      ],
+      "code_runs": [],
+      "literal_working_text": "Si Je nay escrit a Sa Saincteté Et a Vre Seigneurie Illme aussi souvent que le devoir me le commande deux choses my ont empesché. La",
+      "primary_windows": [
+        {
+          "row": "O01",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1170,
+            3960,
+            1300
+          ],
+          "file": "rows/O01.png",
+          "pixel_sha256": "d77e48efca5bddedaf12a5aa376a9aee80dd78f6c46224e298a0a9f7e6e4ab36",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r01",
+      "folio": "186r",
+      "physical_number_0_based": 1,
+      "parts": [
+        "O02"
+      ],
+      "code_runs": [],
+      "literal_working_text": "premiere quil est mal aisé de le faire a la verité sans que quelqung [deux sy : d’eux s’y?] trouue Interessé Et lautre que les affaires sont maniées par",
+      "primary_windows": [
+        {
+          "row": "O02",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1250,
+            3950,
+            1400
+          ],
+          "file": "rows/O02.png",
+          "pixel_sha256": "b83a747ae24955fbcc0684ce71f30c6a4bc899cd90013870bc2a691d6aaa4b49",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r02",
+      "folio": "186r",
+      "physical_number_0_based": 2,
+      "parts": [
+        "O03"
+      ],
+      "code_runs": [],
+      "literal_working_text": "tant mains et de passions si differentes ou auec des Incertitudes si grandes quil faille de necessité que nous perissions Et laprehension",
+      "primary_windows": [
+        {
+          "row": "O03",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1335,
+            3950,
+            1490
+          ],
+          "file": "rows/O03.png",
+          "pixel_sha256": "8c6451f24071168025901afc54df4f5b6cd89a2ed27e8a221d3132d663d741b1",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r03",
+      "folio": "186r",
+      "physical_number_0_based": 3,
+      "parts": [
+        "O04"
+      ],
+      "code_runs": [],
+      "literal_working_text": "de nre perte ne pourroit quelle ne causast a Sa saincteté ung extreme desplaisir Et Je me garderay le plus quil me sera possible",
+      "primary_windows": [
+        {
+          "row": "O04",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1430,
+            3950,
+            1590
+          ],
+          "file": "rows/O04.png",
+          "pixel_sha256": "8efcf96031df713286e6eb3e74c8cfa07ae60a3bf8d74ef39283fb1e6b9551fb",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r04",
+      "folio": "186r",
+      "physical_number_0_based": 4,
+      "parts": [
+        "O05"
+      ],
+      "code_runs": [],
+      "literal_working_text": "destre ministre de mauvaise nouvelle Tellement que Je mestois resolu de ne luy plus escrire ny a Vre S[rie] Illme si par la sienne",
+      "primary_windows": [
+        {
+          "row": "O05",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1535,
+            4030,
+            1660
+          ],
+          "file": "rows/O05.png",
+          "pixel_sha256": "24ed4c4a99ee052d5d29677dffd1a025903b2cb8d7874dc0351dd899f3032b48",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r05",
+      "folio": "186r",
+      "physical_number_0_based": 5,
+      "parts": [
+        "O06"
+      ],
+      "code_runs": [],
+      "literal_working_text": "du premier de Juing elle ne meust asseuré que sa S[te] avoit eu pour agreable le conte que Je luy ay osé bien particulierement rendre",
+      "primary_windows": [
+        {
+          "row": "O06",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1620,
+            4030,
+            1780
+          ],
+          "file": "rows/O06.png",
+          "pixel_sha256": "90bac5f435299b6765709b14c96ead6e67acabf0e4cc5fdb3eca74399bb92caf",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r06",
+      "folio": "186r",
+      "physical_number_0_based": 6,
+      "parts": [
+        "O07"
+      ],
+      "code_runs": [],
+      "literal_working_text": "des occurrences de deça Et de luy en dire librement ce quil men sembloit Et encore quil se soit passé plusieurs [mouuemens?] depuis [nos / mes?]",
+      "primary_windows": [
+        {
+          "row": "O07",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1730,
+            4030,
+            1865
+          ],
+          "file": "rows/O07.png",
+          "pixel_sha256": "d7457848c3ffdcbc477d44cd165e212e2ca03dfa8f2205779d53a029ec1c8f28",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r07",
+      "folio": "186r",
+      "physical_number_0_based": 7,
+      "parts": [
+        "O08"
+      ],
+      "code_runs": [],
+      "literal_working_text": "[lettres?] si trouvera elle quen effect Je ne me suis point trompé Et que pour ny avoir pas voulu remedier a temps soit lors que Jestois",
+      "primary_windows": [
+        {
+          "row": "O08",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            1810,
+            4030,
+            1950
+          ],
+          "file": "rows/O08.png",
+          "pixel_sha256": "460ace9f9df662257c51d431bfbc1ce2f0548c0f655bfa8bb343b7127a57e89e",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r08",
+      "folio": "186r",
+      "physical_number_0_based": 8,
+      "parts": [
+        "O09"
+      ],
+      "code_runs": [],
+      "literal_working_text": "pres delle ou depuis. Enfin si Dieu ny met la main Je voy lasseurance de la religion catholique [en/et?] ce royaume en mauvais [terme(s)?]",
+      "primary_windows": [
+        {
+          "row": "O09",
+          "folio": "186r",
+          "bbox_xyxy": [
+            780,
+            1890,
+            3980,
+            2060
+          ],
+          "file": "rows/O09.png",
+          "pixel_sha256": "9adcdf5bf30ebb585d20f72c8e595fc73812cd84fe3004bf9cb62bdb4f377b3d",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r09",
+      "folio": "186r",
+      "physical_number_0_based": 9,
+      "parts": [
+        "O10"
+      ],
+      "code_runs": [],
+      "literal_working_text": "pour plusieurs raisons que Je pourrois dire a Vre S[rie] Illme. Outre que Jen [faic?] particulier [assez très fort?] subiect Joint quil semble",
+      "primary_windows": [
+        {
+          "row": "O10",
+          "folio": "186r",
+          "bbox_xyxy": [
+            780,
+            2010,
+            3980,
+            2170
+          ],
+          "file": "rows/O10.png",
+          "pixel_sha256": "b4aa46c57c02a80e97015b61957f287ffe5d31930f63da7aa6b88c931c20ae0d",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r10",
+      "folio": "186r",
+      "physical_number_0_based": 10,
+      "parts": [
+        "O11"
+      ],
+      "code_runs": [],
+      "literal_working_text": "[que Je sois autheur de cella / celler?] tout ce qui luy est dit par ceulx qui ont tenu [lieu?] et minist[e]re de deça pour le St siege pour ne rien donner a la",
+      "primary_windows": [
+        {
+          "row": "O11",
+          "folio": "186r",
+          "bbox_xyxy": [
+            780,
+            2100,
+            3980,
+            2270
+          ],
+          "file": "rows/O11.png",
+          "pixel_sha256": "cee9d5e8c279c717ded760de2c134135572d86aa808c92bcac50bf0caaa916b3",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r11",
+      "folio": "186r",
+      "physical_number_0_based": 11,
+      "parts": [
+        "O12",
+        "P01"
+      ],
+      "code_runs": [
+        "P01"
+      ],
+      "literal_working_text": "[verité?] qui sera maintenant trouuée telle que Je lay tousiours dicte aux ⫽ DESPENS DE MA TESTE COMMENCANT A [lacune P01:28–36]",
+      "primary_windows": [
+        {
+          "row": "O12",
+          "folio": "186r",
+          "bbox_xyxy": [
+            770,
+            2200,
+            2450,
+            2340
+          ],
+          "file": "rows/O12.png",
+          "pixel_sha256": "cb609c41a678ef2ecd35f255219f00b772c0e022985efb1c1965bad5d7d03dd9",
+          "coverage": "all stored source pixels"
+        },
+        {
+          "row": "P01",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2350,
+            2120,
+            4100,
+            2370
+          ],
+          "file": "rows/P01.png",
+          "pixel_sha256": "f0c07ac4cb4a43d8100a7648d41b4d427050cd646bf494e8f7b9ba94cf8f940c",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r12",
+      "folio": "186r",
+      "physical_number_0_based": 12,
+      "parts": [
+        "I01",
+        "P02"
+      ],
+      "code_runs": [
+        "P02"
+      ],
+      "literal_working_text": "jusqua ce qui [cy / icy / en?] reste Et ⫽ QUE EULX SEULX ONT PLUS APORTE DE RUINE AUX AFFAIRES QUE LES ENNEMIS TANT ILZ",
+      "primary_windows": [
+        {
+          "row": "I01",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            2290,
+            1370,
+            2440
+          ],
+          "file": "rows/I01.png",
+          "pixel_sha256": "79efdbfaac43aee655a018d755b442d95f16e1382e133e8afa64fc3ecd28891e",
+          "coverage": "all stored source pixels"
+        },
+        {
+          "row": "P02",
+          "folio": "186r",
+          "bbox_xyxy": [
+            790,
+            2300,
+            4090,
+            2590
+          ],
+          "file": "rows/P02.png",
+          "pixel_sha256": "c85b4ee6eb4898d9690b2c6caa4578719848e6bb2fcdae607bda510374d062b6",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r13",
+      "folio": "186r",
+      "physical_number_0_based": 13,
+      "parts": [
+        "P03",
+        "I02"
+      ],
+      "code_runs": [
+        "P03"
+      ],
+      "literal_working_text": "ONT ESTE REMPLIS DE IE NE SAI QUELLE CHOSE ⫽ qui ne nous est point propre [ou de?] peu de pratique [de/Et?] nos [humeurs?] Et passions",
+      "primary_windows": [
+        {
+          "row": "P03",
+          "folio": "186r",
+          "bbox_xyxy": [
+            780,
+            2370,
+            2830,
+            2550
+          ],
+          "file": "rows/P03.png",
+          "pixel_sha256": "ddab9eebe693bac0b76545b6264b9c566f67bd925530aed59cb552a5218c292c",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "I02",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2190,
+            2340,
+            4020,
+            2530
+          ],
+          "file": "rows/I02.png",
+          "pixel_sha256": "578b1695162bf0b756787000ef537541282c8e98c8a8deef73bdec561a1e34ff",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r14",
+      "folio": "186r",
+      "physical_number_0_based": 14,
+      "parts": [
+        "P04"
+      ],
+      "code_runs": [
+        "P04"
+      ],
+      "literal_working_text": "ET SI IAY RIEN MIS EN AUANT AU DISCOURS QUE IE DONNE A [lacune P04:40–40] SUR LES DEPORTEMENS DU DIT [MATEUCI?]",
+      "primary_windows": [
+        {
+          "row": "P04",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            2470,
+            4100,
+            2770
+          ],
+          "file": "rows/P04.png",
+          "pixel_sha256": "dac8263206705306a2a316cba79a340bbc7689fe4f147bd913413f0d8dd26555",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r15",
+      "folio": "186r",
+      "physical_number_0_based": 15,
+      "parts": [
+        "P05",
+        "I03",
+        "B0_tail"
+      ],
+      "code_runs": [
+        "P05",
+        "B0_tail"
+      ],
+      "literal_working_text": "LA MOINDRE LETTE QUE LON ⫽ [me / m’en?], scauroit escrire me fera tousiours paroistre en tous lieux que lon voudra pour luy maintenir ⫽ DE [X2] DE",
+      "primary_windows": [
+        {
+          "row": "P05",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            2570,
+            2450,
+            2750
+          ],
+          "file": "rows/P05.png",
+          "pixel_sha256": "a1c574a8c7303f8015f26cf13e25d9eb48f95ef6801d2e4050b790cf47a4de27",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "I03",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1550,
+            2490,
+            3750,
+            2670
+          ],
+          "file": "rows/I03.png",
+          "pixel_sha256": "11e5ae9d6b116c67472ee14b95bf59b9f61d71e396ca13d7dfe3676514181ee5",
+          "coverage": "all stored source pixels"
+        },
+        {
+          "row": "B0_tail",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2950,
+            2520,
+            4040,
+            2640
+          ],
+          "file": "rows/B0_tail.png",
+          "pixel_sha256": "cc19f906fe85eb80b23d91573a30cbd7ca79e94ce71817623400ca571a9e593a",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r16",
+      "folio": "186r",
+      "physical_number_0_based": 16,
+      "parts": [
+        "B1"
+      ],
+      "code_runs": [
+        "B1"
+      ],
+      "literal_working_text": "[lacune B1:1–9] IE N Y ESTOIS LORS QUI LZ SONT ENTREZ EN MAUUAIS MESNAGE [X3]ET LUY TOUTESFOIS",
+      "primary_windows": [
+        {
+          "row": "B1",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            2660,
+            1905,
+            2770
+          ],
+          "file": "rows/B1-1.png",
+          "pixel_sha256": "568b2f8410f4729a17f338e22503125f7248e2f0d8d583b8e155b769b3490efb",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B1",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1870,
+            2625,
+            3030,
+            2750
+          ],
+          "file": "rows/B1-2.png",
+          "pixel_sha256": "801d1c4def41eb8317d235826d68f7d9107dfc11076fae200eca9c5261f3059e",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B1",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2970,
+            2580,
+            3960,
+            2710
+          ],
+          "file": "rows/B1-3.png",
+          "pixel_sha256": "dd72631e2ccfd5b3298a13ffbb3058f9db2a3485badedd295f942eea10ffb038",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r17",
+      "folio": "186r",
+      "physical_number_0_based": 17,
+      "parts": [
+        "B2_prefix",
+        "I04",
+        "B2_tail"
+      ],
+      "code_runs": [
+        "B2_prefix",
+        "B2_tail"
+      ],
+      "literal_working_text": "LE NEUEU DE [X2][X4] M EN A FAIT SES PLAINTES AUSSI QUI L EST ⫽ mal aisé [de/et?] [contredire?] a ung [bruit?] [gñal?] Et ⫽ DE SOY MES-",
+      "primary_windows": [
+        {
+          "row": "B2_prefix",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            2760,
+            1900,
+            2890
+          ],
+          "file": "rows/B2_prefix-1.png",
+          "pixel_sha256": "293edbb7a677b75138a72804d7498638a5cb80d953dc91f2064be319859f2324",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B2_prefix",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1880,
+            2710,
+            3000,
+            2850
+          ],
+          "file": "rows/B2_prefix-2.png",
+          "pixel_sha256": "e2cb95450d423d75bf4c1b973b3ea42396e7a83fdba58710fae28f9f002b3f78",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "I04",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2590,
+            2670,
+            3610,
+            2830
+          ],
+          "file": "rows/I04.png",
+          "pixel_sha256": "da10e4a2d6b41984bb1e04ace9e57d5461f8e991e4ee02ce7af275904351b890",
+          "coverage": "all stored source pixels"
+        },
+        {
+          "row": "B2_tail",
+          "folio": "186r",
+          "bbox_xyxy": [
+            2980,
+            2660,
+            4020,
+            2820
+          ],
+          "file": "rows/B2_tail.png",
+          "pixel_sha256": "374f6bd06c5b0b6c3ee279118537c9aa34c294d02087e7c0875fe7c92f17d1fe",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r18",
+      "folio": "186r",
+      "physical_number_0_based": 18,
+      "parts": [
+        "B3"
+      ],
+      "code_runs": [
+        "B3"
+      ],
+      "literal_working_text": "ME ELLE PEUT CONSIDERER QUE L ARMEE DU [X5] N A RIEN FAIT SINON DE DEMEURER SUR LA FRONTIERE",
+      "primary_windows": [
+        {
+          "row": "B3",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            2840,
+            1900,
+            2980
+          ],
+          "file": "rows/B3-1.png",
+          "pixel_sha256": "905cd144338adbeb6b08b5e3b8bc8a97c9e1c9e9a8044dbcda46dee9c336a740",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B3",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1880,
+            2800,
+            3020,
+            2940
+          ],
+          "file": "rows/B3-2.png",
+          "pixel_sha256": "df72d8bedcbd393232cbf95d09f2cdac7a67280091985d635b7f3ae41734a31d",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B3",
+          "folio": "186r",
+          "bbox_xyxy": [
+            3000,
+            2760,
+            4040,
+            2900
+          ],
+          "file": "rows/B3-3.png",
+          "pixel_sha256": "4ea289d94cb0688d613be8a520a0328563def41d89d8f555f60e12289c912dcd",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r19",
+      "folio": "186r",
+      "physical_number_0_based": 19,
+      "parts": [
+        "B4"
+      ],
+      "code_runs": [
+        "B4"
+      ],
+      "literal_working_text": "SERUANT DOPROBRE A UN SI GRAND MONARQUE ET QUI S EST RETIREE SEULEMENT SUR UN BRUIT QUE [lacune B4:67–67]",
+      "primary_windows": [
+        {
+          "row": "B4",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            2940,
+            1900,
+            3070
+          ],
+          "file": "rows/B4-1.png",
+          "pixel_sha256": "079d8d6ef89c4679f32a5e9bcc2da73a0b23a343d475619e6e9cc104f2368564",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B4",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1880,
+            2900,
+            3020,
+            3030
+          ],
+          "file": "rows/B4-2.png",
+          "pixel_sha256": "28eea2b50306221d53b92390bd7f0877775d809280e074de8012b015a33f15e1",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B4",
+          "folio": "186r",
+          "bbox_xyxy": [
+            3000,
+            2850,
+            4040,
+            2990
+          ],
+          "file": "rows/B4-3.png",
+          "pixel_sha256": "231958ec0c534b249d87e21a2ad0505482af275e0565b428d2b3925a1fb56b40",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r20",
+      "folio": "186r",
+      "physical_number_0_based": 20,
+      "parts": [
+        "B5"
+      ],
+      "code_runs": [
+        "B5"
+      ],
+      "literal_working_text": "L ALOIT CHERCHER ET OUTRE [X2][X4] SANS CONSIDERATION QUELCONQUE UEULT QUE NOUS EN UENIO-",
+      "primary_windows": [
+        {
+          "row": "B5",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            3040,
+            1900,
+            3180
+          ],
+          "file": "rows/B5-1.png",
+          "pixel_sha256": "b7ad73f6010d2d98b5d303b55a372a9debabbb37ebc0b1a406a225aaec6c45e5",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B5",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1880,
+            3000,
+            3020,
+            3140
+          ],
+          "file": "rows/B5-2.png",
+          "pixel_sha256": "eceaff995943abd83b2cf04c23d0706b58a91614b386c043a20f25cfa511b07d",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B5",
+          "folio": "186r",
+          "bbox_xyxy": [
+            3000,
+            2940,
+            4040,
+            3090
+          ],
+          "file": "rows/B5-3.png",
+          "pixel_sha256": "00246cf6842d174363715adfa31ea98146bc6d2d333986825aa4621a6dd5f839",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r21",
+      "folio": "186r",
+      "physical_number_0_based": 21,
+      "parts": [
+        "B6"
+      ],
+      "code_runs": [
+        "B6"
+      ],
+      "literal_working_text": "NS A LELECTION DUN ROY LORS QUE LENNEMY COMMENCE A GAGNER LES UOIX DE BEAUCOUP QUI LUY EST",
+      "primary_windows": [
+        {
+          "row": "B6",
+          "folio": "186r",
+          "bbox_xyxy": [
+            775,
+            3140,
+            1900,
+            3270
+          ],
+          "file": "rows/B6-1.png",
+          "pixel_sha256": "a31cc50e111c5c9317622dc0f08269d902875abec1ccd451890289058816561a",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B6",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1880,
+            3100,
+            3020,
+            3230
+          ],
+          "file": "rows/B6-2.png",
+          "pixel_sha256": "1552878cdd19a262e62135b1b2c029fc884047fcf3ab879870c42a53ad344d02",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "B6",
+          "folio": "186r",
+          "bbox_xyxy": [
+            3000,
+            3050,
+            4040,
+            3190
+          ],
+          "file": "rows/B6-3.png",
+          "pixel_sha256": "d28a8677a78db3aba5153401d1c9b2e6ef2482e6c1519a15b64825e3cedcd0d9",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r22",
+      "folio": "186r",
+      "physical_number_0_based": 22,
+      "parts": [
+        "M1"
+      ],
+      "code_runs": [
+        "M1"
+      ],
+      "literal_working_text": "OIENT ENNEMIS [lacune M1:13–13] L APARANCE QUI L FAIT DE SE UOULOIR FAIRE CATOLIQUE ET DOIT DIMANC",
+      "primary_windows": [
+        {
+          "row": "M1",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3200,
+            4000,
+            3320
+          ],
+          "file": "rows/M1.png",
+          "pixel_sha256": "dd731d8c81be3fbdadbbd4c9e3c9bfdfe260ada7e6644ead98d9fee5fefb74a2",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r23",
+      "folio": "186r",
+      "physical_number_0_based": 23,
+      "parts": [
+        "M2"
+      ],
+      "code_runs": [
+        "M2"
+      ],
+      "literal_working_text": "HE ALLER A LA MESSE [lacune M2:16–25] POUR LUY RESISTER SINON DES PROMESSES OU LON A TANT",
+      "primary_windows": [
+        {
+          "row": "M2",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3300,
+            4000,
+            3420
+          ],
+          "file": "rows/M2.png",
+          "pixel_sha256": "47f69b99d73cc9b02339eabae023b45b34b64dec8d38a797b936da7740bc3df0",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r24",
+      "folio": "186r",
+      "physical_number_0_based": 24,
+      "parts": [
+        "M3"
+      ],
+      "code_runs": [
+        "M3"
+      ],
+      "literal_working_text": "ESTE TROMPE IL FAUDROIT BEAUCOUP D EFFECTZ AUANT QUE DE NOUS FAIRE REIECTER LA P",
+      "primary_windows": [
+        {
+          "row": "M3",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3400,
+            4000,
+            3510
+          ],
+          "file": "rows/M3.png",
+          "pixel_sha256": "d436f6a7e4ebdff60551221104f3b54119dd89aec1f5a35a352b3c73bce55154",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r25",
+      "folio": "186r",
+      "physical_number_0_based": 25,
+      "parts": [
+        "M4"
+      ],
+      "code_runs": [
+        "M4"
+      ],
+      "literal_working_text": "ARENCE D UNE PAIX ET NE SERA CE [lacune M4:24–24] FAIT SI NOUS LA MODERONS [lacune M4:45–64]",
+      "primary_windows": [
+        {
+          "row": "M4",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3490,
+            4000,
+            3615
+          ],
+          "file": "rows/M4.png",
+          "pixel_sha256": "b7be8ea65aa5b8c308bb41f899148486deb6a8266c3665bc1b051d85daf935e6",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r26",
+      "folio": "186r",
+      "physical_number_0_based": 26,
+      "parts": [
+        "M5"
+      ],
+      "code_runs": [
+        "M5"
+      ],
+      "literal_working_text": "TANT LAS DE SERUIR DE FABLE A TOUTE LA CRESTIENTE ET DE SE UOIR ABANDONNEZ [lacune M5:60–60] ENSI",
+      "primary_windows": [
+        {
+          "row": "M5",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3590,
+            4000,
+            3725
+          ],
+          "file": "rows/M5.png",
+          "pixel_sha256": "43a570cc508f766248bc6a8cc551702230d94b2f9033cf959ae6be93ec550827",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r27",
+      "folio": "186r",
+      "physical_number_0_based": 27,
+      "parts": [
+        "M6"
+      ],
+      "code_runs": [
+        "M6"
+      ],
+      "literal_working_text": "A RENDRE LES ABOIS CAR POUR DES PROMESSES NOS ENNEMIS N EN SONT PAS DESPOURUEUS ET OFF",
+      "primary_windows": [
+        {
+          "row": "M6",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3690,
+            4000,
+            3790
+          ],
+          "file": "rows/M6.png",
+          "pixel_sha256": "0e7e65e3e597b400b4a316274feed7c2631fb1d8fcf9d082d1fe9d86d51512f5",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r28",
+      "folio": "186r",
+      "physical_number_0_based": 28,
+      "parts": [
+        "M7",
+        "A01"
+      ],
+      "code_runs": [
+        "M7"
+      ],
+      "literal_working_text": "RENT DE MONSTRER [lacune M7:15–25] EN CAS QUI L SE FACE CATOLIQUE D ESTRE RECEU LE [lacune M7:61–61] SI ⫽ [V.?] S. Illme",
+      "primary_windows": [
+        {
+          "row": "M7",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3775,
+            4000,
+            3875
+          ],
+          "file": "rows/M7.png",
+          "pixel_sha256": "dcbf411bb6e6a6abb2f8992aa716aa0a920c556ab6effa3abc8a80dd00268a47",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "A01",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1750,
+            3730,
+            2150,
+            3900
+          ],
+          "file": "rows/A01.png",
+          "pixel_sha256": "e82579b782a37e5c86eae996fc98b046d7599b3fe738b048ddec7d9ed2a417aa",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r29",
+      "folio": "186r",
+      "physical_number_0_based": 29,
+      "parts": [
+        "M8"
+      ],
+      "code_runs": [
+        "M8"
+      ],
+      "literal_working_text": "EGE LASSE DE CONTINUER SA DESPENCE QUE LON PEU [lacune M8:37–37; classe F/S ou G/T] DIRE AUOIR ESTE QUELQUE CHOSE DURANT LE",
+      "primary_windows": [
+        {
+          "row": "M8",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3870,
+            4000,
+            3965
+          ],
+          "file": "rows/M8.png",
+          "pixel_sha256": "01945a1a2290d0c2ac63171416bdaec42d50a0064f622260b67591bf73f28178",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r30",
+      "folio": "186r",
+      "physical_number_0_based": 30,
+      "parts": [
+        "M9"
+      ],
+      "code_runs": [
+        "M9"
+      ],
+      "literal_working_text": "PONTIFICAT DU [lacune M9:13–13] GREGOIRE MAIS DEPUIS IL LUY EUST MIEULX ESTE ET DE TOUT POINT ON NOUS EU",
+      "primary_windows": [
+        {
+          "row": "M9",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            3960,
+            4000,
+            4070
+          ],
+          "file": "rows/M9.png",
+          "pixel_sha256": "fb78bd6c26faa157153e7b2c0d600bd2564a0191f04d747ac1c5cfc9635fb4aa",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r31",
+      "folio": "186r",
+      "physical_number_0_based": 31,
+      "parts": [
+        "M10"
+      ],
+      "code_runs": [
+        "M10"
+      ],
+      "literal_working_text": "[lacune M10:1–8] TOUTE ESPERANCE DE SECOURS AFFIN DE NOUS FAIRE PRENDRE UNE CERTAIN RES",
+      "primary_windows": [
+        {
+          "row": "M10",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            4055,
+            4000,
+            4160
+          ],
+          "file": "rows/M10.png",
+          "pixel_sha256": "11390404e2f4cfd3d2f72d1894392cc4bf9d82971be28b484d1f46ed602e7617",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r32",
+      "folio": "186r",
+      "physical_number_0_based": 32,
+      "parts": [
+        "M11",
+        "A02"
+      ],
+      "code_runs": [
+        "M11"
+      ],
+      "literal_working_text": "OLUTION ET MAIS QUE [lacune M11:14–14] SE SOUBIENNE AUEC [lacune M11:30–47] DEMANDE UN DE LA MA ⫽ [V.?] S. I.",
+      "primary_windows": [
+        {
+          "row": "M11",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            4145,
+            4000,
+            4270
+          ],
+          "file": "rows/M11.png",
+          "pixel_sha256": "e086e4fac6c4b02f5e8f5ce28468f88259a555b2b2dbdc21aae6b7fbfc319f45",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "A02",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1390,
+            4090,
+            1720,
+            4280
+          ],
+          "file": "rows/A02.png",
+          "pixel_sha256": "8190b83851450db2c5136b7735869f420ae6375fabc56b2becd069bf99244558",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r33",
+      "folio": "186r",
+      "physical_number_0_based": 33,
+      "parts": [
+        "M12"
+      ],
+      "code_runs": [
+        "M12"
+      ],
+      "literal_working_text": "ISON DE BOURBON ET LE REFUS QUI M EN FUST FAIT APRES LE MARIAGE DE [lacune M12:50–50] AUEC UN DE NOS PRI",
+      "primary_windows": [
+        {
+          "row": "M12",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            4240,
+            4000,
+            4365
+          ],
+          "file": "rows/M12.png",
+          "pixel_sha256": "80ffafaef704b3819bee8c621e3e83433a4e1079910f738bb98e00aae3a1931b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r34",
+      "folio": "186r",
+      "physical_number_0_based": 34,
+      "parts": [
+        "M13"
+      ],
+      "code_runs": [
+        "M13"
+      ],
+      "literal_working_text": "NCES DE TOUT POINT ON M EN FIST REFUS S EN REMETTANT A [lacune M13:43–44] ET AU DUC DE [lacune M13:53–63]",
+      "primary_windows": [
+        {
+          "row": "M13",
+          "folio": "186r",
+          "bbox_xyxy": [
+            750,
+            4335,
+            4000,
+            4450
+          ],
+          "file": "rows/M13.png",
+          "pixel_sha256": "a6b1e35f7598930e7698c5454ac73462affe4f5bdf2eb0f0caa8a67694edcac4",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r35",
+      "folio": "186r",
+      "physical_number_0_based": 35,
+      "parts": [
+        "L01"
+      ],
+      "code_runs": [
+        "L01"
+      ],
+      "literal_working_text": "[lacune L01:1–26] QUE IAMAIS [lacune L01:34–44] NOSTRE RELIGION HONNEU",
+      "primary_windows": [
+        {
+          "row": "L01",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4425,
+            4090,
+            4569
+          ],
+          "file": "rows/L01.png",
+          "pixel_sha256": "fec482147c82c0160c4b96e455b134a3b8c811adc544c82e69038456dc6b2209",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r36",
+      "folio": "186r",
+      "physical_number_0_based": 36,
+      "parts": [
+        "L02"
+      ],
+      "code_runs": [
+        "L02"
+      ],
+      "literal_working_text": "RS ET [BIENS / VIES : segmentation H/B, E-component and F/A unresolved] SANS ESTRE AUTREMENT ASSEURES ET QUE [lacune L02:37–44] PLUS CLAIR PAR DAUTRES ASSEU",
+      "primary_windows": [
+        {
+          "row": "L02",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4524,
+            4090,
+            4668
+          ],
+          "file": "rows/L02.png",
+          "pixel_sha256": "2b8d6a999988c065f83696f79dd1208e656a3bd0ea713cfe088525677ff5cb4a",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r37",
+      "folio": "186r",
+      "physical_number_0_based": 37,
+      "parts": [
+        "L03"
+      ],
+      "code_runs": [
+        "L03"
+      ],
+      "literal_working_text": "RANCES QUE CELLE NOUS NEN UOULONS POINT EN ESTANT LA PLUS INTERESSEE [lacune L03:56–65]",
+      "primary_windows": [
+        {
+          "row": "L03",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4623,
+            4090,
+            4767
+          ],
+          "file": "rows/L03.png",
+          "pixel_sha256": "c836d5bbb88bf7e4b8badf7999353ea2423d53380aa50df10888745db8a72808",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r38",
+      "folio": "186r",
+      "physical_number_0_based": 38,
+      "parts": [
+        "L04"
+      ],
+      "code_runs": [
+        "L04"
+      ],
+      "literal_working_text": "T PAS POUR FAIRE MIEULX A LADUENIR QUE [lacune L04:27–27] LE PASSE ET EUSSE ESTE BIEN IMPRUDENT DEN USER AU",
+      "primary_windows": [
+        {
+          "row": "L04",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4722,
+            4090,
+            4866
+          ],
+          "file": "rows/L04.png",
+          "pixel_sha256": "db112ffab67f94537045bfb67eab1c55c6adaf2d4c2d90dde9d5d8c5bd59f13b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r39",
+      "folio": "186r",
+      "physical_number_0_based": 39,
+      "parts": [
+        "L05"
+      ],
+      "code_runs": [
+        "L05"
+      ],
+      "literal_working_text": "TREMENT MOY QUI COGNOIST LES ESPAGNOLS QUI ME FEIST REIECTER CE SUIECT QUI ME FUST",
+      "primary_windows": [
+        {
+          "row": "L05",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4821,
+            4090,
+            4965
+          ],
+          "file": "rows/L05.png",
+          "pixel_sha256": "4c61ffe0fc0a0ab69b12ac01380e2f94cb9f293e7672f314b7393f5d28212f30",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r40",
+      "folio": "186r",
+      "physical_number_0_based": 40,
+      "parts": [
+        "L06"
+      ],
+      "code_runs": [
+        "L06"
+      ],
+      "literal_working_text": "PROPOSE DE [lacune L06:10–10] QUE A LA UERITE EUST ESTE LE MEILLEUR MAIS IL Y FALOIT UOIR UNE LUMIERE",
+      "primary_windows": [
+        {
+          "row": "L06",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            4920,
+            4090,
+            5074
+          ],
+          "file": "rows/L06.png",
+          "pixel_sha256": "2b384fafb143dd4aadcbc9fb41a4bda8c5a3b01ce9d9cd5888dd3c3520f3faf9",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r41",
+      "folio": "186r",
+      "physical_number_0_based": 41,
+      "parts": [
+        "L07",
+        "A03"
+      ],
+      "code_runs": [
+        "L07"
+      ],
+      "literal_working_text": "ASSEUREE AUSSI ORES QUE MON [lacune L07:22–59] ⫽ M[te?]",
+      "primary_windows": [
+        {
+          "row": "L07",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5019,
+            4090,
+            5173
+          ],
+          "file": "rows/L07.png",
+          "pixel_sha256": "44f33292cf643a756b8af80c2aed987efe79d8c4753e1f8ba6341c27dad28bff",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        },
+        {
+          "row": "A03",
+          "folio": "186r",
+          "bbox_xyxy": [
+            1770,
+            4960,
+            2080,
+            5160
+          ],
+          "file": "rows/A03.png",
+          "pixel_sha256": "e582615ccea52cdabebbf496b59bb0cbd12e42b5d34204fec626f34a2bb84f06",
+          "coverage": "all stored source pixels"
+        }
+      ]
+    },
+    {
+      "line": "r42",
+      "folio": "186r",
+      "physical_number_0_based": 42,
+      "parts": [
+        "L08"
+      ],
+      "code_runs": [
+        "L08"
+      ],
+      "literal_working_text": "EUST PLUS FAIT DE RESISTANCE QUE MOY ET OU EN SEROIT IL MAINTENAT SES ENNEMI",
+      "primary_windows": [
+        {
+          "row": "L08",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5118,
+            4090,
+            5272
+          ],
+          "file": "rows/L08.png",
+          "pixel_sha256": "fcfe19f156f8791eabaf535b0408b15afa6eb815c936023de5e73beab6ebe06b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r43",
+      "folio": "186r",
+      "physical_number_0_based": 43,
+      "parts": [
+        "L09"
+      ],
+      "code_runs": [
+        "L09"
+      ],
+      "literal_working_text": "[lacune L09:1–15] DE FAIRE UOIR UNE LETTRE DE [lacune L09:38–38] ADRESSANT A [lacune L09:49–51] LAQUELLE IL LUY MA",
+      "primary_windows": [
+        {
+          "row": "L09",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5170,
+            4090,
+            5317
+          ],
+          "file": "rows/L09.png",
+          "pixel_sha256": "7ffc8d9cd2c5c6a51fba2541631d115dc9204e4216480edba7c2996e6fe3947f",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r44",
+      "folio": "186r",
+      "physical_number_0_based": 44,
+      "parts": [
+        "L10"
+      ],
+      "code_runs": [
+        "L10"
+      ],
+      "literal_working_text": "NDE DE NE RIEN FAIRE AU PREIUDICE DE LA MAISO DE BOURBON CONTRE LES LOIS FONDAMENT",
+      "primary_windows": [
+        {
+          "row": "L10",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5258,
+            4090,
+            5409
+          ],
+          "file": "rows/L10.png",
+          "pixel_sha256": "c6d147cca5a9d029f5f5d081186fa46cd592fa9629279df7fef2fc0e2caf25ea",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r45",
+      "folio": "186r",
+      "physical_number_0_based": 45,
+      "parts": [
+        "L11"
+      ],
+      "code_runs": [
+        "L11"
+      ],
+      "literal_working_text": "ALES DU ROIAUME [lacune L11:14–21] LES CATOLIQUES QUI ASSISTENT [lacune L11:45–45] CHOSE BIEN CONTRAIRES A TA",
+      "primary_windows": [
+        {
+          "row": "L11",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5346,
+            4090,
+            5501
+          ],
+          "file": "rows/L11.png",
+          "pixel_sha256": "314521ad0bf3b7a34bb82b585c33c25292386d09fd25a8900e40e909f9441726",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r46",
+      "folio": "186r",
+      "physical_number_0_based": 46,
+      "parts": [
+        "L12"
+      ],
+      "code_runs": [
+        "L12"
+      ],
+      "literal_working_text": "NT DE PROTESTATIONS QUE LON MA FAITES IE LAY DIT ET LE DIRAY IUSQUES A LA MORT QUE SI LE [lacune L12:65–68]",
+      "primary_windows": [
+        {
+          "row": "L12",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5434,
+            4090,
+            5593
+          ],
+          "file": "rows/L12.png",
+          "pixel_sha256": "8050b78b499b1405c7e27d2e8ad630afb535b514a7d8c1bd90ef1c31a938bfbe",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r47",
+      "folio": "186r",
+      "physical_number_0_based": 47,
+      "parts": [
+        "L13"
+      ],
+      "code_runs": [
+        "L13"
+      ],
+      "literal_working_text": "[lacune L13:1–6] QUE LON LA UOULU AISI CAR ON NA PAS MANQUE DE REMONSTRER TOUT CE QUI SE PEUT SANS",
+      "primary_windows": [
+        {
+          "row": "L13",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5522,
+            4090,
+            5685
+          ],
+          "file": "rows/L13.png",
+          "pixel_sha256": "074b2bfb166a5770fc56ec55b6420c4dcb562ca830c1cea638efa5cad6694c26",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r48",
+      "folio": "186r",
+      "physical_number_0_based": 48,
+      "parts": [
+        "L14"
+      ],
+      "code_runs": [
+        "L14"
+      ],
+      "literal_working_text": "AUOIR EU AUTRE PASSION QUE LA RELIGION MAIS ENTRE CES INCERTITUDES ON DEMEURE ET SI",
+      "primary_windows": [
+        {
+          "row": "L14",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5611,
+            4090,
+            5777
+          ],
+          "file": "rows/L14.png",
+          "pixel_sha256": "18630fd05c7f9734f882fcd09ecfe1768d1208a2a5a4df31e67716b70272d31d",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r49",
+      "folio": "186r",
+      "physical_number_0_based": 49,
+      "parts": [
+        "L15"
+      ],
+      "code_runs": [
+        "L15"
+      ],
+      "literal_working_text": "LES AUTRES SE SERUENT DE LOCCASION NE [FONT / SONT : F/S unresolved] ILZ BIEN ENCORES POUR RECONPENSE DE TOUTES NO",
+      "primary_windows": [
+        {
+          "row": "L15",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5699,
+            4090,
+            5869
+          ],
+          "file": "rows/L15.png",
+          "pixel_sha256": "0e03791f6dfdccce89fd8677c1527284a396c33e7f2bcfb01a33f1e6081bede4",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r50",
+      "folio": "186r",
+      "physical_number_0_based": 50,
+      "parts": [
+        "L16"
+      ],
+      "code_runs": [
+        "L16"
+      ],
+      "literal_working_text": "S PEINES IE NATTENS UN MONDE DE REPROCHES TOUTES TOMBANTES SUR [lacune L16:53–53] QUI FAIT PLUS [lacune L16:63–68]",
+      "primary_windows": [
+        {
+          "row": "L16",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5787,
+            4090,
+            5961
+          ],
+          "file": "rows/L16.png",
+          "pixel_sha256": "a441c150e40b84b71aadb6221a7923dc317ce112d90f3d9d81e88cf6445fd525",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "r51",
+      "folio": "186r",
+      "physical_number_0_based": 51,
+      "parts": [
+        "L17"
+      ],
+      "code_runs": [
+        "L17"
+      ],
+      "literal_working_text": "UEOIT SANS AUCUNE APREHENTION CAR LHONNEUR UAULT MIEULX [lacune L17:49–58] APARANCES",
+      "primary_windows": [
+        {
+          "row": "L17",
+          "folio": "186r",
+          "bbox_xyxy": [
+            720,
+            5875,
+            4090,
+            6053
+          ],
+          "file": "rows/L17.png",
+          "pixel_sha256": "288d403f926843d793e26bb236bb19079cafab1ab9bb68d9f21f60a8ea63ed50",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v00",
+      "folio": "186v",
+      "physical_number_0_based": 0,
+      "parts": [
+        "V01"
+      ],
+      "code_runs": [
+        "V01"
+      ],
+      "literal_working_text": "RECHERCHEES [lacune V01:12–12] LA PLUS PART DES HOMMES IOINT QUE LA FIN CORONNERA LOEUURE CAR AU TEMPS QUE [lacune V01:70–70; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V01",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1138,
+            4180,
+            1294
+          ],
+          "file": "rows/V01.png",
+          "pixel_sha256": "636529cb62fdb488732e0e757949e6f4b7d19b79336610100b8c38a1d5fa1781",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v01",
+      "folio": "186v",
+      "physical_number_0_based": 1,
+      "parts": [
+        "V02"
+      ],
+      "code_runs": [
+        "V02"
+      ],
+      "literal_working_text": "[lacune V02:1–2] UN EST BANDE POUR DESCHIRER NOSTRE ESTAT QUI AMENEROIT EN APRES LA RUINE DE LA CRESTI [lacune V02:68–68; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V02",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1237,
+            4180,
+            1398
+          ],
+          "file": "rows/V02.png",
+          "pixel_sha256": "9db67609792a3d5d72963700e8fccdc549c34571a0419e4c3eebae4223b2e012",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v02",
+      "folio": "186v",
+      "physical_number_0_based": 2,
+      "parts": [
+        "V03"
+      ],
+      "code_runs": [
+        "V03"
+      ],
+      "literal_working_text": "[lacune V03:1–3] ABANDONNE DE TOUT LE MONDE NEGLIGE TOUS SES ADUERTISSEMENS ET SUR ICEULX [lacune V03:64–66]",
+      "primary_windows": [
+        {
+          "row": "V03",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1344,
+            4180,
+            1483
+          ],
+          "file": "rows/V03.png",
+          "pixel_sha256": "fbcc8c7773d38e6f27edc1af68f783e321d132ed5c7fd001fdb3bd3858d68982",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v03",
+      "folio": "186v",
+      "physical_number_0_based": 3,
+      "parts": [
+        "V04"
+      ],
+      "code_runs": [
+        "V04"
+      ],
+      "literal_working_text": "[lacune V04:1–3] DE PERSONNES [lacune V04:15–20] LEUR QUALITE DESTRE MINISTRES DUN GRAND [lacune V04:55–61] QUI NE SEROIENT",
+      "primary_windows": [
+        {
+          "row": "V04",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1433,
+            4180,
+            1581
+          ],
+          "file": "rows/V04.png",
+          "pixel_sha256": "905400efdf51a629eb40e05b4c5375c54bdc60ad22b23770976ec611744cd981",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v04",
+      "folio": "186v",
+      "physical_number_0_based": 4,
+      "parts": [
+        "V05"
+      ],
+      "code_runs": [
+        "V05"
+      ],
+      "literal_working_text": "PAS HORS DE RANC NY DE TROP BONNE MAISON POUR TENIR LIEU DE SERUITEURS PRENS [lacune V05:60–66; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V05",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1536,
+            4180,
+            1677
+          ],
+          "file": "rows/V05.png",
+          "pixel_sha256": "36c5edd2240b04c3b086560f7d8cb54a3d8ae1c5ad67cf35f1030d4586ff2e83",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v05",
+      "folio": "186v",
+      "physical_number_0_based": 5,
+      "parts": [
+        "V06"
+      ],
+      "code_runs": [
+        "V06"
+      ],
+      "literal_working_text": "[lacune V06:1–4] TOUTES SORTES DE TEMPESTES POUR FAIRE LE SOUUERAIN ET SEUL REMEDE QUE SA PRESENCE [lacune V06:67–71]",
+      "primary_windows": [
+        {
+          "row": "V06",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1629,
+            4180,
+            1773
+          ],
+          "file": "rows/V06.png",
+          "pixel_sha256": "321f29b4d400269823fb113fd38168953ec151c72bdc0de99e364b226c63a252",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v06",
+      "folio": "186v",
+      "physical_number_0_based": 6,
+      "parts": [
+        "V07"
+      ],
+      "code_runs": [
+        "V07"
+      ],
+      "literal_working_text": "[lacune V07:1–10] DUNE PROCHAINE CHEUTE L'ESTAT ET LA RELIGION IL NE FAUT POINT DOUTER QU'IL N'Y",
+      "primary_windows": [
+        {
+          "row": "V07",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1731,
+            4180,
+            1859
+          ],
+          "file": "rows/V07.png",
+          "pixel_sha256": "6f180a4a1825e169e88fc650ec2d6b8b8f95c6c4c6a60f979628076fb2cdb33d",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v07",
+      "folio": "186v",
+      "physical_number_0_based": 7,
+      "parts": [
+        "V08"
+      ],
+      "code_runs": [
+        "V08"
+      ],
+      "literal_working_text": "EN AIT QUI NE UEUILLENT SELON LEUR COUSTUME COUURIR LEURS MALICES [lacune V08:54–54] UN MONDE DE [lacune V08:64–66]",
+      "primary_windows": [
+        {
+          "row": "V08",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1838,
+            4180,
+            1959
+          ],
+          "file": "rows/V08.png",
+          "pixel_sha256": "b65882ea3348ca895816269bd16733c1bd3e75dd2826f516a790284a3b6bf7c9",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v08",
+      "folio": "186v",
+      "physical_number_0_based": 8,
+      "parts": [
+        "V09"
+      ],
+      "code_runs": [
+        "V09"
+      ],
+      "literal_working_text": "[lacune V09:1–6] MAIS SI ON [lacune V09:15–18] RENDRE LEUR DESSOIN UAIN IL NE MAQUE PAS DE PERSONNES POUR POU [lacune V09:67–67; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V09",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            1951,
+            4180,
+            2072
+          ],
+          "file": "rows/V09.png",
+          "pixel_sha256": "d363e2fd32d7cf5de5b268fbe3229fedc08382699421caabf3ee282723880ea6",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v09",
+      "folio": "186v",
+      "physical_number_0_based": 9,
+      "parts": [
+        "V10"
+      ],
+      "code_runs": [
+        "V10"
+      ],
+      "literal_working_text": "OIR ESCRIRE DE BONNES APOLOGIES ET FERONT RETOMBER LA HONTE QUE L'ON UOUDROIT [lacune V10:62–65; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V10",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2043,
+            4180,
+            2167
+          ],
+          "file": "rows/V10.png",
+          "pixel_sha256": "fbd1eaaca512022ac1eb85eea8271cfdc053849f323682a44414aeab32241292",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v10",
+      "folio": "186v",
+      "physical_number_0_based": 10,
+      "parts": [
+        "V11"
+      ],
+      "code_runs": [
+        "V11"
+      ],
+      "literal_working_text": "[lacune V11:1–1] SUR LA FACE DE CEULX SUR LESQUELZ IL N'IA QUE MARQUE D'HONNEUR ET DE MAGNANIMITE ET PLEUS",
+      "primary_windows": [
+        {
+          "row": "V11",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2144,
+            4180,
+            2258
+          ],
+          "file": "rows/V11.png",
+          "pixel_sha256": "ba05eedf8b88f3f2a631f755010bfc07f45d11787740a461811a1266f9e2971b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v11",
+      "folio": "186v",
+      "physical_number_0_based": 11,
+      "parts": [
+        "V12"
+      ],
+      "code_runs": [
+        "V12"
+      ],
+      "literal_working_text": "T A [lacune V12:3–6] QUE [lacune V12:8–8] SEUST COMME [lacune V12:19–22] LA FACON DONT ONT USE SES MINISTRES LEUR INTEREST ET DE [lacune V12:67–68; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V12",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2230,
+            4140,
+            2350
+          ],
+          "file": "rows/V12.png",
+          "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v12",
+      "folio": "186v",
+      "physical_number_0_based": 12,
+      "parts": [
+        "V13"
+      ],
+      "code_runs": [
+        "V13"
+      ],
+      "literal_working_text": "UY [lacune V13:3–3] MONSTRE [lacune V13:11–12] ESTRE QUE RELIGIEU [lacune V13:27–30] LIEU QUI [lacune V13:36–39] QUE PURE AMBITION TROP DESCOUUERTE [lacune V13:68–70; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V13",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2330,
+            4140,
+            2450
+          ],
+          "file": "rows/V13.png",
+          "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v13",
+      "folio": "186v",
+      "physical_number_0_based": 13,
+      "parts": [
+        "V14"
+      ],
+      "code_runs": [
+        "V14"
+      ],
+      "literal_working_text": "OBSTANT UN NOMBRE DE PROTESTATIONS AU CONTRAIRE ET OU IL NY AUOIT NUL MOIEN DE [lacune V14:64–65; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V14",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2430,
+            4140,
+            2550
+          ],
+          "file": "rows/V14.png",
+          "pixel_sha256": "785314cdc0a5d5b780bcc8591459a0f0c6c5ca197287c4cf37499b702c551816",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v14",
+      "folio": "186v",
+      "physical_number_0_based": 14,
+      "parts": [
+        "V15"
+      ],
+      "code_runs": [
+        "V15"
+      ],
+      "literal_working_text": "UUOIR RESPONDRE SI [lacune V15:17–18] NE SI FUST POINT ENTREMIS OU LHONNEUR DE [lacune V15:52–52] Y A ESTE GRANDE [lacune V15:65–66; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V15",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2530,
+            4140,
+            2650
+          ],
+          "file": "rows/V15.png",
+          "pixel_sha256": "ced5ec293263e2307625e0da520a155e9cd3e8436e7eff6cb2511b0b630966ee",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v15",
+      "folio": "186v",
+      "physical_number_0_based": 15,
+      "parts": [
+        "V16",
+        "V-ORD16"
+      ],
+      "code_runs": [
+        "V16"
+      ],
+      "literal_working_text": "NT [lacune V16:3–11] IE [lacune V16:14–14] LE DE [lacune V16:19–21] AFFAIRES A [lacune V16:31–31] AUEC BEAUCOUP DE LANGAGE AUSSI SI IE NE [lacune V16:64–65; longueur inconnue au bord / sous encre] ⫽ [B/S.s.J.?]",
+      "primary_windows": [
+        {
+          "row": "V16",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2630,
+            4140,
+            2750
+          ],
+          "file": "rows/V16.png",
+          "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v16",
+      "folio": "186v",
+      "physical_number_0_based": 16,
+      "parts": [
+        "V17",
+        "V-ORD17"
+      ],
+      "code_runs": [
+        "V17"
+      ],
+      "literal_working_text": "AIGNOIS DE L IMPORTUNER ⫽ [Il?] y auroi[t?] pour en remplir [deux?] [rames / rame?] de papier Et pour ne estre trop ennuyeulx Je luy diray que",
+      "primary_windows": [
+        {
+          "row": "V17",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2735,
+            4180,
+            2870
+          ],
+          "file": "rows/V17.png",
+          "pixel_sha256": "c78b96ab9d86478948a0b8591f77887fff0a518305a1d490928c30da93fd64e2",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v17",
+      "folio": "186v",
+      "physical_number_0_based": 17,
+      "parts": [
+        "V18"
+      ],
+      "code_runs": [
+        "V18"
+      ],
+      "literal_working_text": "SI ELLE SAUOIT COMME MOY L ARTIFICE DE NOS AMIS [lacune V18:39–50] LEUR FOI [lacune V18:58–58] LESSE COMM [lacune V18:68–68; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V18",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2835,
+            4190,
+            2980
+          ],
+          "file": "rows/V18.png",
+          "pixel_sha256": "e6e95e64ddff932cef83d3cb734e6e55b93d120256224a67d8eb75ff6c81f71f",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v18",
+      "folio": "186v",
+      "physical_number_0_based": 18,
+      "parts": [
+        "V19"
+      ],
+      "code_runs": [
+        "V19"
+      ],
+      "literal_working_text": "[lacune V19:1–2] S EST MONSTRE LEUR [lacune V19:18–31] NOSTRE PAUURE ESTAT AU PREIUDICE DE L HON-",
+      "primary_windows": [
+        {
+          "row": "V19",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            2935,
+            4190,
+            3090
+          ],
+          "file": "rows/V19.png",
+          "pixel_sha256": "5d77a6e4225c91d9a3c7d8db524c4ae38756504a196db475993629f829aefc5f",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v19",
+      "folio": "186v",
+      "physical_number_0_based": 19,
+      "parts": [
+        "V20"
+      ],
+      "code_runs": [
+        "V20"
+      ],
+      "literal_working_text": "NEUR DU [X4] SIEGE ET UN MONDE DAUTRES CHOSES ELLE S ESTONNEROIT MIL ET MIL FOIS DE LA",
+      "primary_windows": [
+        {
+          "row": "V20",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            3035,
+            4190,
+            3190
+          ],
+          "file": "rows/V20.png",
+          "pixel_sha256": "55e7619cfde4fcf768af455a110f21794bf1a895f649a5484079ef6e898491cd",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v20",
+      "folio": "186v",
+      "physical_number_0_based": 20,
+      "parts": [
+        "V21"
+      ],
+      "code_runs": [
+        "V21"
+      ],
+      "literal_working_text": "PATIENCE DE [X3] QUI S EST PORTEE IUSQUES A UOULOIR ACCEPTER [X2][X7] POUR ROY POURUEU QUE LON L [lacune V21:61–61; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V21",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            3130,
+            4190,
+            3290
+          ],
+          "file": "rows/V21.png",
+          "pixel_sha256": "7a338c3db3db46651a38e04bbeed89a613c8453c446809c60c5a21f81bccf964",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v21",
+      "folio": "186v",
+      "physical_number_0_based": 21,
+      "parts": [
+        "V22"
+      ],
+      "code_runs": [
+        "V22"
+      ],
+      "literal_working_text": "FEIST UOIR LE MOIEN DE LE POUUOIR DEFFENDRE MAIS ON UEUT QUE LON CROIRE A PAROLES [lacune V22:65–66; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V22",
+          "folio": "186v",
+          "bbox_xyxy": [
+            850,
+            3230,
+            4190,
+            3385
+          ],
+          "file": "rows/V22.png",
+          "pixel_sha256": "b9ce4631a572e9187b56f858ea57418d3dec0282dd40e417a0d9d3f0c024aa49",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v22",
+      "folio": "186v",
+      "physical_number_0_based": 22,
+      "parts": [
+        "V23"
+      ],
+      "code_runs": [
+        "V23"
+      ],
+      "literal_working_text": "MES IL Y AUOIT APARANCE DE PLUS ADIOUSTER FOY A DES GENS QUI NE NOUS FIRENT [lacune V23:59–63; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V23",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3385,
+            4200,
+            3480
+          ],
+          "file": "rows/V23.png",
+          "pixel_sha256": "4fce50ae56db66c384b9859cc62c891b044e6498ade59963d0daeb977f10a996",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v23",
+      "folio": "186v",
+      "physical_number_0_based": 23,
+      "parts": [
+        "V24"
+      ],
+      "code_runs": [
+        "V24"
+      ],
+      "literal_working_text": "S PAROISTRE [lacune V24:11–11] AUOIR ET QUI ONT POUR MAXIME DE NOUS UOULOIR TROMPER PARAUANTURE [lacune V24:60–64; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V24",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3490,
+            4200,
+            3585
+          ],
+          "file": "rows/V24.png",
+          "pixel_sha256": "9f5cf1f596c353bf6aef30fdf0220e7e15a7ff58f6e59b228359f220c97d42c6",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v24",
+      "folio": "186v",
+      "physical_number_0_based": 24,
+      "parts": [
+        "V25"
+      ],
+      "code_runs": [
+        "V25"
+      ],
+      "literal_working_text": "[lacune V25:1–13] ESTRANGE QUE IE UOUS NY REMARQUE LES DEUX POINS QUE SONT [lacune V25:56–65; longueur inconnue au bord / sous encre]",
+      "primary_windows": [
+        {
+          "row": "V25",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3585,
+            4200,
+            3685
+          ],
+          "file": "rows/V25.png",
+          "pixel_sha256": "b790a98accf79753392b87468abc51ec916e1cf27e9b695c8348aaa6e003de0a",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v25",
+      "folio": "186v",
+      "physical_number_0_based": 25,
+      "parts": [
+        "V26",
+        "V-LOW1",
+        "V-LOW2"
+      ],
+      "code_runs": [
+        "V26"
+      ],
+      "literal_working_text": "S ENNEMIS TANT DE LA LETTRE DE [lacune V26:25–25] QUE DE CELLE DE [lacune V26:36–36] EN ⫽ S.S.[…] ⫽ [par-/pa… with raised mark] [main/ma…] il me semble quil est bon quelle soit",
+      "primary_windows": [
+        {
+          "row": "V26",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3685,
+            4200,
+            3800
+          ],
+          "file": "rows/V26.png",
+          "pixel_sha256": "e02eb128311da41d0cf322f392f5b2df514de8377ee7fae7282c847c36ce4a5b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v26",
+      "folio": "186v",
+      "physical_number_0_based": 26,
+      "parts": [
+        "V27",
+        "V-LOW3"
+      ],
+      "code_runs": [
+        "V27"
+      ],
+      "literal_working_text": "[lacune V27:1–1] DE ME FAIRE [lacune V27:11–12] DE SES ⫽ aduertie du tout pour y pouruoir Il est vray Je lay assez protesté [il foit/faut?] que sil plaist a [cancelled ink]",
+      "primary_windows": [
+        {
+          "row": "V27",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3780,
+            4200,
+            3885
+          ],
+          "file": "rows/V27.png",
+          "pixel_sha256": "f6379502ea4a4696e2ef0eca73a7a25171ec5f38a6d52effd456091c08725224",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v27",
+      "folio": "186v",
+      "physical_number_0_based": 27,
+      "parts": [
+        "V28"
+      ],
+      "code_runs": [
+        "V28"
+      ],
+      "literal_working_text": "INTENTIONS [lacune V28:11–27] IL ME PRENDRA POUR LUY QUE SES COMMANDEMENS",
+      "primary_windows": [
+        {
+          "row": "V28",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3885,
+            4200,
+            3970
+          ],
+          "file": "rows/V28.png",
+          "pixel_sha256": "645905af5f3fc72b620dd7d999a659a7871006d610f96b444b423fc747bc470a",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v28",
+      "folio": "186v",
+      "physical_number_0_based": 28,
+      "parts": [
+        "V29"
+      ],
+      "code_runs": [
+        "V29"
+      ],
+      "literal_working_text": "ET PUIS LES CHOSES EN SONT [lacune V29:21–24] EULX EN TELZ TERMES QUE SANS LE RESPECT [lacune V29:55–57] IL NE SE",
+      "primary_windows": [
+        {
+          "row": "V29",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            3980,
+            4200,
+            4075
+          ],
+          "file": "rows/V29.png",
+          "pixel_sha256": "f2aed60c0410fe2ac3201cfe80513d8a1ab44649e620099f711f876d7b68f4bd",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v29",
+      "folio": "186v",
+      "physical_number_0_based": 29,
+      "parts": [
+        "V30"
+      ],
+      "code_runs": [
+        "V30"
+      ],
+      "literal_working_text": "IOUEROIT PLUS SI LONGEMPS A SES DESPENS [lacune V30:34–35] DE LA RUINE DE TOUS CEULX DE SA MAIS",
+      "primary_windows": [
+        {
+          "row": "V30",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            4080,
+            4200,
+            4190
+          ],
+          "file": "rows/V30.png",
+          "pixel_sha256": "2507ea795943cec3fa587382f8f745be21ce194bcae7756faa97a3ff05b96ca0",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v30",
+      "folio": "186v",
+      "physical_number_0_based": 30,
+      "parts": [
+        "V31"
+      ],
+      "code_runs": [
+        "V31"
+      ],
+      "literal_working_text": "ON MESMES IL A ESTE SI PEU RESPECTUEUX QUIL LUY A DONNE UNE APREHENTION DE [lacune V31:59–59] DE",
+      "primary_windows": [
+        {
+          "row": "V31",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            4190,
+            4200,
+            4295
+          ],
+          "file": "rows/V31.png",
+          "pixel_sha256": "b436db24fefd69423451952c23c3c52755f3d0ace2ca725fbaf55d5c780fee87",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v31",
+      "folio": "186v",
+      "physical_number_0_based": 31,
+      "parts": [
+        "V32"
+      ],
+      "code_runs": [
+        "V32"
+      ],
+      "literal_working_text": "STRE EN SA MAUUAISE GRACE [lacune V32:22–31] UN CHACUN PENSE ESTRE ARTIFICE POUR PARUENIR A",
+      "primary_windows": [
+        {
+          "row": "V32",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            4295,
+            4200,
+            4400
+          ],
+          "file": "rows/V32.png",
+          "pixel_sha256": "c28ef91c4fe0b6b352a3727e6b01152e17efe1ccb60d7987b402c1062f773e4b",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    },
+    {
+      "line": "v32",
+      "folio": "186v",
+      "physical_number_0_based": 32,
+      "parts": [
+        "V33"
+      ],
+      "code_runs": [
+        "V33"
+      ],
+      "literal_working_text": "SES DESSEINS AFFIN DOBLIGER LESPAGNOL [lacune V33:34–38] TOUSIOURS SA PRINCIPALE FIN",
+      "primary_windows": [
+        {
+          "row": "V33",
+          "folio": "186v",
+          "bbox_xyxy": [
+            840,
+            4405,
+            4200,
+            4510
+          ],
+          "file": "rows/V33.png",
+          "pixel_sha256": "58a06cf2c24283975aab89041624425ae353833a35c65c46cb99de56f880aa6f",
+          "coverage": "all stored source pixels; no missing-tile interpolation"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "bbox_xyxy": [
+        700,
+        5180,
+        2000,
+        5480
+      ],
+      "file": "images/closing_header.png",
+      "diplomatic": "Illustrissime Monseigneur"
+    },
+    {
+      "bbox_xyxy": [
+        820,
+        5390,
+        2500,
+        5620
+      ],
+      "file": "images/closing_line_left.png",
+      "diplomatic": "Je supplie tres humblement le Createur donner a [V… S…]",
+      "note": "No silently supplied de before donner; honorific expansion bracketed."
+    },
+    {
+      "bbox_xyxy": [
+        2450,
+        5370,
+        4180,
+        5620
+      ],
+      "file": "images/closing_line_right.png",
+      "diplomatic": "[Ill…] tres heureuse et tres longue vie A Paris ce xxij Juillet /1593",
+      "note": "Visible roman date xxij supports22 July1593; word Paris read from closing itself."
+    },
+    {
+      "bbox_xyxy": [
+        770,
+        5680,
+        1550,
+        6050
+      ],
+      "file": "images/closing_initials.png",
+      "diplomatic": "D. V. S. I.",
+      "note": "Do not silently expand initials."
+    },
+    {
+      "bbox_xyxy": [
+        2700,
+        5970,
+        4170,
+        6380
+      ],
+      "file": "images/closing_sign.png",
+      "diplomatic": "tres humble et tres obeissant serviteur / Desportes",
+      "note": "Signature read as Desportes; large leading flourish is not a separate deciphered word."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "compatible_conditional": 32,
+  "not_compatible": 40,
+  "not_testable": 2,
+  "ordinary": 11,
+  "limit": "Old local modern-candidate test summary only; not independent correctness; not reproducible without externally supplied candidate text. No full candidate transcript, projections or consumed arrays bundled."
+}

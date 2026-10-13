@@ -1,0 +1,428 @@
+[
+  {
+    "id": "P04:1",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B0_tail:3",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X2",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B1:53",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X3",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B1:54",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B2_prefix:10",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X2",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B2_prefix:11",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X4",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B3:30",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X5",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B4:34",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B5:15",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B5:21",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X2",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "B5:22",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X4",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "M6:19",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X3",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V12:64",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V14:42",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X1",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V20:7",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X4",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V21:11",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X3",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V21:46",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X2",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "V21:47",
+    "kind": "special/ordinary/placeholder class outside frozen-gap list",
+    "class": "X7",
+    "scope_caution": "X labels are block-local; no global name dictionary assumed. Some values have earlier primary support, which was not repeated in this step.",
+    "test": "new proposal grammar leaves this unit unconstrained; independent named-label provenance needed for an exact expansion"
+  },
+  {
+    "id": "r01:[deux sy : d’eux s’y?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r01",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r04:[rie]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r04",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r05:[te]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r05",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r06:[mouuemens?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r06",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r06:[nos / mes?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r06",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r07:[lettres?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r07",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r08:[en/et?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r08",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r08:[terme(s)?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r08",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r09:[rie]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r09",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r09:[faic?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r09",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r09:[assez très fort?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r09",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r10:[que Je sois autheur de cella / celler?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r10",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r10:[lieu?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r10",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r10:[e]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r10",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r11:[verité?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r11",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r12:[cy / icy / en?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r12",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r13:[ou de?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r13",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r13:[de/Et?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r13",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r13:[humeurs?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r13",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r14:[MATEUCI?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r14",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r15:[me / m’en?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r15",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r15:[X2]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r15",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r16:[X3]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r16",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[X2]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[X4]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[de/et?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[contredire?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[bruit?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r17:[gñal?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r17",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r18:[X5]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r18",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r20:[X2]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r20",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r20:[X4]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r20",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r28:[V.?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r28",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r32:[V.?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r32",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r36:[BIENS / VIES : segmentation H/B, E-component and F/A unresolved]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r36",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "r41:[te?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "r41",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v15:[B/S.s.J.?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v15",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v16:[Il?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v16",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v16:[t?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v16",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v16:[deux?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v16",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v16:[rames / rame?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v16",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v19:[X4]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v19",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v20:[X3]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v20",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v20:[X2]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v20",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v20:[X7]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v20",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v25:[…]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v25",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v25:[par-/pa… with raised mark]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v25",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v25:[main/ma…]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v25",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v26:[il foit/faut?]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v26",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  },
+  {
+    "id": "v26:[cancelled ink]",
+    "kind": "ordinary/reading/expansion uncertainty",
+    "source_line": "v26",
+    "test": "native linked context plus letter boundaries; expansion and reconstruction remain explicit"
+  }
+]

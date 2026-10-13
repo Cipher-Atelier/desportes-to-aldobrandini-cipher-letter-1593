@@ -1,0 +1,1693 @@
+{
+  "source": "primary-acquisition.json",
+  "dimensions": {
+    "f347": [
+      4950,
+      6656
+    ],
+    "f348": [
+      4952,
+      6657
+    ]
+  },
+  "coordinate_policy": "xyxy exclusive right/bottom, source pixels; reading windows exact, glyph boundaries not certified",
+  "windows": [
+    {
+      "row": "P01",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2350,
+        2120,
+        4100,
+        2370
+      ],
+      "file": "rows/P01.png",
+      "pixel_sha256": "f0c07ac4cb4a43d8100a7648d41b4d427050cd646bf494e8f7b9ba94cf8f940c",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "P02",
+      "folio": "186r",
+      "bbox_xyxy": [
+        790,
+        2300,
+        4090,
+        2590
+      ],
+      "file": "rows/P02.png",
+      "pixel_sha256": "c85b4ee6eb4898d9690b2c6caa4578719848e6bb2fcdae607bda510374d062b6",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "P03",
+      "folio": "186r",
+      "bbox_xyxy": [
+        780,
+        2370,
+        2830,
+        2550
+      ],
+      "file": "rows/P03.png",
+      "pixel_sha256": "ddab9eebe693bac0b76545b6264b9c566f67bd925530aed59cb552a5218c292c",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "P04",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        2470,
+        4100,
+        2770
+      ],
+      "file": "rows/P04.png",
+      "pixel_sha256": "dac8263206705306a2a316cba79a340bbc7689fe4f147bd913413f0d8dd26555",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "P05",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        2570,
+        2450,
+        2750
+      ],
+      "file": "rows/P05.png",
+      "pixel_sha256": "a1c574a8c7303f8015f26cf13e25d9eb48f95ef6801d2e4050b790cf47a4de27",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B0_tail",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2950,
+        2520,
+        4040,
+        2640
+      ],
+      "file": "rows/B0_tail.png",
+      "pixel_sha256": "cc19f906fe85eb80b23d91573a30cbd7ca79e94ce71817623400ca571a9e593a",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B1",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        2660,
+        1905,
+        2770
+      ],
+      "file": "rows/B1-1.png",
+      "pixel_sha256": "568b2f8410f4729a17f338e22503125f7248e2f0d8d583b8e155b769b3490efb",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B1",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1870,
+        2625,
+        3030,
+        2750
+      ],
+      "file": "rows/B1-2.png",
+      "pixel_sha256": "801d1c4def41eb8317d235826d68f7d9107dfc11076fae200eca9c5261f3059e",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B1",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2970,
+        2580,
+        3960,
+        2710
+      ],
+      "file": "rows/B1-3.png",
+      "pixel_sha256": "dd72631e2ccfd5b3298a13ffbb3058f9db2a3485badedd295f942eea10ffb038",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B2_prefix",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        2760,
+        1900,
+        2890
+      ],
+      "file": "rows/B2_prefix-1.png",
+      "pixel_sha256": "293edbb7a677b75138a72804d7498638a5cb80d953dc91f2064be319859f2324",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B2_prefix",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1880,
+        2710,
+        3000,
+        2850
+      ],
+      "file": "rows/B2_prefix-2.png",
+      "pixel_sha256": "e2cb95450d423d75bf4c1b973b3ea42396e7a83fdba58710fae28f9f002b3f78",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B2_tail",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2980,
+        2660,
+        4020,
+        2820
+      ],
+      "file": "rows/B2_tail.png",
+      "pixel_sha256": "374f6bd06c5b0b6c3ee279118537c9aa34c294d02087e7c0875fe7c92f17d1fe",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B3",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        2840,
+        1900,
+        2980
+      ],
+      "file": "rows/B3-1.png",
+      "pixel_sha256": "905cd144338adbeb6b08b5e3b8bc8a97c9e1c9e9a8044dbcda46dee9c336a740",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B3",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1880,
+        2800,
+        3020,
+        2940
+      ],
+      "file": "rows/B3-2.png",
+      "pixel_sha256": "df72d8bedcbd393232cbf95d09f2cdac7a67280091985d635b7f3ae41734a31d",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B3",
+      "folio": "186r",
+      "bbox_xyxy": [
+        3000,
+        2760,
+        4040,
+        2900
+      ],
+      "file": "rows/B3-3.png",
+      "pixel_sha256": "4ea289d94cb0688d613be8a520a0328563def41d89d8f555f60e12289c912dcd",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B4",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        2940,
+        1900,
+        3070
+      ],
+      "file": "rows/B4-1.png",
+      "pixel_sha256": "079d8d6ef89c4679f32a5e9bcc2da73a0b23a343d475619e6e9cc104f2368564",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B4",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1880,
+        2900,
+        3020,
+        3030
+      ],
+      "file": "rows/B4-2.png",
+      "pixel_sha256": "28eea2b50306221d53b92390bd7f0877775d809280e074de8012b015a33f15e1",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B4",
+      "folio": "186r",
+      "bbox_xyxy": [
+        3000,
+        2850,
+        4040,
+        2990
+      ],
+      "file": "rows/B4-3.png",
+      "pixel_sha256": "231958ec0c534b249d87e21a2ad0505482af275e0565b428d2b3925a1fb56b40",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B5",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        3040,
+        1900,
+        3180
+      ],
+      "file": "rows/B5-1.png",
+      "pixel_sha256": "b7ad73f6010d2d98b5d303b55a372a9debabbb37ebc0b1a406a225aaec6c45e5",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B5",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1880,
+        3000,
+        3020,
+        3140
+      ],
+      "file": "rows/B5-2.png",
+      "pixel_sha256": "eceaff995943abd83b2cf04c23d0706b58a91614b386c043a20f25cfa511b07d",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B5",
+      "folio": "186r",
+      "bbox_xyxy": [
+        3000,
+        2940,
+        4040,
+        3090
+      ],
+      "file": "rows/B5-3.png",
+      "pixel_sha256": "00246cf6842d174363715adfa31ea98146bc6d2d333986825aa4621a6dd5f839",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B6",
+      "folio": "186r",
+      "bbox_xyxy": [
+        775,
+        3140,
+        1900,
+        3270
+      ],
+      "file": "rows/B6-1.png",
+      "pixel_sha256": "a31cc50e111c5c9317622dc0f08269d902875abec1ccd451890289058816561a",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B6",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1880,
+        3100,
+        3020,
+        3230
+      ],
+      "file": "rows/B6-2.png",
+      "pixel_sha256": "1552878cdd19a262e62135b1b2c029fc884047fcf3ab879870c42a53ad344d02",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "B6",
+      "folio": "186r",
+      "bbox_xyxy": [
+        3000,
+        3050,
+        4040,
+        3190
+      ],
+      "file": "rows/B6-3.png",
+      "pixel_sha256": "d28a8677a78db3aba5153401d1c9b2e6ef2482e6c1519a15b64825e3cedcd0d9",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M1",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3200,
+        4000,
+        3320
+      ],
+      "file": "rows/M1.png",
+      "pixel_sha256": "dd731d8c81be3fbdadbbd4c9e3c9bfdfe260ada7e6644ead98d9fee5fefb74a2",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M2",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3300,
+        4000,
+        3420
+      ],
+      "file": "rows/M2.png",
+      "pixel_sha256": "47f69b99d73cc9b02339eabae023b45b34b64dec8d38a797b936da7740bc3df0",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M3",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3400,
+        4000,
+        3510
+      ],
+      "file": "rows/M3.png",
+      "pixel_sha256": "d436f6a7e4ebdff60551221104f3b54119dd89aec1f5a35a352b3c73bce55154",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M4",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3490,
+        4000,
+        3615
+      ],
+      "file": "rows/M4.png",
+      "pixel_sha256": "b7be8ea65aa5b8c308bb41f899148486deb6a8266c3665bc1b051d85daf935e6",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M5",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3590,
+        4000,
+        3725
+      ],
+      "file": "rows/M5.png",
+      "pixel_sha256": "43a570cc508f766248bc6a8cc551702230d94b2f9033cf959ae6be93ec550827",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M6",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3690,
+        4000,
+        3790
+      ],
+      "file": "rows/M6.png",
+      "pixel_sha256": "0e7e65e3e597b400b4a316274feed7c2631fb1d8fcf9d082d1fe9d86d51512f5",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M7",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3775,
+        4000,
+        3875
+      ],
+      "file": "rows/M7.png",
+      "pixel_sha256": "dcbf411bb6e6a6abb2f8992aa716aa0a920c556ab6effa3abc8a80dd00268a47",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M8",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3870,
+        4000,
+        3965
+      ],
+      "file": "rows/M8.png",
+      "pixel_sha256": "01945a1a2290d0c2ac63171416bdaec42d50a0064f622260b67591bf73f28178",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M9",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3960,
+        4000,
+        4070
+      ],
+      "file": "rows/M9.png",
+      "pixel_sha256": "fb78bd6c26faa157153e7b2c0d600bd2564a0191f04d747ac1c5cfc9635fb4aa",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M10",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        4055,
+        4000,
+        4160
+      ],
+      "file": "rows/M10.png",
+      "pixel_sha256": "11390404e2f4cfd3d2f72d1894392cc4bf9d82971be28b484d1f46ed602e7617",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M11",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        4145,
+        4000,
+        4270
+      ],
+      "file": "rows/M11.png",
+      "pixel_sha256": "e086e4fac6c4b02f5e8f5ce28468f88259a555b2b2dbdc21aae6b7fbfc319f45",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M12",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        4240,
+        4000,
+        4365
+      ],
+      "file": "rows/M12.png",
+      "pixel_sha256": "80ffafaef704b3819bee8c621e3e83433a4e1079910f738bb98e00aae3a1931b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "M13",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        4335,
+        4000,
+        4450
+      ],
+      "file": "rows/M13.png",
+      "pixel_sha256": "a6b1e35f7598930e7698c5454ac73462affe4f5bdf2eb0f0caa8a67694edcac4",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L01",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4425,
+        4090,
+        4569
+      ],
+      "file": "rows/L01.png",
+      "pixel_sha256": "fec482147c82c0160c4b96e455b134a3b8c811adc544c82e69038456dc6b2209",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L02",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4524,
+        4090,
+        4668
+      ],
+      "file": "rows/L02.png",
+      "pixel_sha256": "2b8d6a999988c065f83696f79dd1208e656a3bd0ea713cfe088525677ff5cb4a",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L03",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4623,
+        4090,
+        4767
+      ],
+      "file": "rows/L03.png",
+      "pixel_sha256": "c836d5bbb88bf7e4b8badf7999353ea2423d53380aa50df10888745db8a72808",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L04",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4722,
+        4090,
+        4866
+      ],
+      "file": "rows/L04.png",
+      "pixel_sha256": "db112ffab67f94537045bfb67eab1c55c6adaf2d4c2d90dde9d5d8c5bd59f13b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L05",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4821,
+        4090,
+        4965
+      ],
+      "file": "rows/L05.png",
+      "pixel_sha256": "4c61ffe0fc0a0ab69b12ac01380e2f94cb9f293e7672f314b7393f5d28212f30",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L06",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        4920,
+        4090,
+        5074
+      ],
+      "file": "rows/L06.png",
+      "pixel_sha256": "2b384fafb143dd4aadcbc9fb41a4bda8c5a3b01ce9d9cd5888dd3c3520f3faf9",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L07",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5019,
+        4090,
+        5173
+      ],
+      "file": "rows/L07.png",
+      "pixel_sha256": "44f33292cf643a756b8af80c2aed987efe79d8c4753e1f8ba6341c27dad28bff",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L08",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5118,
+        4090,
+        5272
+      ],
+      "file": "rows/L08.png",
+      "pixel_sha256": "fcfe19f156f8791eabaf535b0408b15afa6eb815c936023de5e73beab6ebe06b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L09",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5170,
+        4090,
+        5317
+      ],
+      "file": "rows/L09.png",
+      "pixel_sha256": "7ffc8d9cd2c5c6a51fba2541631d115dc9204e4216480edba7c2996e6fe3947f",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L10",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5258,
+        4090,
+        5409
+      ],
+      "file": "rows/L10.png",
+      "pixel_sha256": "c6d147cca5a9d029f5f5d081186fa46cd592fa9629279df7fef2fc0e2caf25ea",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L11",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5346,
+        4090,
+        5501
+      ],
+      "file": "rows/L11.png",
+      "pixel_sha256": "314521ad0bf3b7a34bb82b585c33c25292386d09fd25a8900e40e909f9441726",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L12",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5434,
+        4090,
+        5593
+      ],
+      "file": "rows/L12.png",
+      "pixel_sha256": "8050b78b499b1405c7e27d2e8ad630afb535b514a7d8c1bd90ef1c31a938bfbe",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L13",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5522,
+        4090,
+        5685
+      ],
+      "file": "rows/L13.png",
+      "pixel_sha256": "074b2bfb166a5770fc56ec55b6420c4dcb562ca830c1cea638efa5cad6694c26",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L14",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5611,
+        4090,
+        5777
+      ],
+      "file": "rows/L14.png",
+      "pixel_sha256": "18630fd05c7f9734f882fcd09ecfe1768d1208a2a5a4df31e67716b70272d31d",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L15",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5699,
+        4090,
+        5869
+      ],
+      "file": "rows/L15.png",
+      "pixel_sha256": "0e03791f6dfdccce89fd8677c1527284a396c33e7f2bcfb01a33f1e6081bede4",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L16",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5787,
+        4090,
+        5961
+      ],
+      "file": "rows/L16.png",
+      "pixel_sha256": "a441c150e40b84b71aadb6221a7923dc317ce112d90f3d9d81e88cf6445fd525",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "L17",
+      "folio": "186r",
+      "bbox_xyxy": [
+        720,
+        5875,
+        4090,
+        6053
+      ],
+      "file": "rows/L17.png",
+      "pixel_sha256": "288d403f926843d793e26bb236bb19079cafab1ab9bb68d9f21f60a8ea63ed50",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V01",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1138,
+        4180,
+        1294
+      ],
+      "file": "rows/V01.png",
+      "pixel_sha256": "636529cb62fdb488732e0e757949e6f4b7d19b79336610100b8c38a1d5fa1781",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V02",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1237,
+        4180,
+        1398
+      ],
+      "file": "rows/V02.png",
+      "pixel_sha256": "9db67609792a3d5d72963700e8fccdc549c34571a0419e4c3eebae4223b2e012",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V03",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1344,
+        4180,
+        1483
+      ],
+      "file": "rows/V03.png",
+      "pixel_sha256": "fbcc8c7773d38e6f27edc1af68f783e321d132ed5c7fd001fdb3bd3858d68982",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V04",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1433,
+        4180,
+        1581
+      ],
+      "file": "rows/V04.png",
+      "pixel_sha256": "905400efdf51a629eb40e05b4c5375c54bdc60ad22b23770976ec611744cd981",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V05",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1536,
+        4180,
+        1677
+      ],
+      "file": "rows/V05.png",
+      "pixel_sha256": "36c5edd2240b04c3b086560f7d8cb54a3d8ae1c5ad67cf35f1030d4586ff2e83",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V06",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1629,
+        4180,
+        1773
+      ],
+      "file": "rows/V06.png",
+      "pixel_sha256": "321f29b4d400269823fb113fd38168953ec151c72bdc0de99e364b226c63a252",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V07",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1731,
+        4180,
+        1859
+      ],
+      "file": "rows/V07.png",
+      "pixel_sha256": "6f180a4a1825e169e88fc650ec2d6b8b8f95c6c4c6a60f979628076fb2cdb33d",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V08",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1838,
+        4180,
+        1959
+      ],
+      "file": "rows/V08.png",
+      "pixel_sha256": "b65882ea3348ca895816269bd16733c1bd3e75dd2826f516a790284a3b6bf7c9",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V09",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        1951,
+        4180,
+        2072
+      ],
+      "file": "rows/V09.png",
+      "pixel_sha256": "d363e2fd32d7cf5de5b268fbe3229fedc08382699421caabf3ee282723880ea6",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V10",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2043,
+        4180,
+        2167
+      ],
+      "file": "rows/V10.png",
+      "pixel_sha256": "fbd1eaaca512022ac1eb85eea8271cfdc053849f323682a44414aeab32241292",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V11",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2144,
+        4180,
+        2258
+      ],
+      "file": "rows/V11.png",
+      "pixel_sha256": "ba05eedf8b88f3f2a631f755010bfc07f45d11787740a461811a1266f9e2971b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V12",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2230,
+        4140,
+        2350
+      ],
+      "file": "rows/V12.png",
+      "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V13",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2330,
+        4140,
+        2450
+      ],
+      "file": "rows/V13.png",
+      "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V14",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2430,
+        4140,
+        2550
+      ],
+      "file": "rows/V14.png",
+      "pixel_sha256": "785314cdc0a5d5b780bcc8591459a0f0c6c5ca197287c4cf37499b702c551816",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V15",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2530,
+        4140,
+        2650
+      ],
+      "file": "rows/V15.png",
+      "pixel_sha256": "ced5ec293263e2307625e0da520a155e9cd3e8436e7eff6cb2511b0b630966ee",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V16",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2630,
+        4140,
+        2750
+      ],
+      "file": "rows/V16.png",
+      "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V17",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2735,
+        4180,
+        2870
+      ],
+      "file": "rows/V17.png",
+      "pixel_sha256": "c78b96ab9d86478948a0b8591f77887fff0a518305a1d490928c30da93fd64e2",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V18",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2835,
+        4190,
+        2980
+      ],
+      "file": "rows/V18.png",
+      "pixel_sha256": "e6e95e64ddff932cef83d3cb734e6e55b93d120256224a67d8eb75ff6c81f71f",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V19",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        2935,
+        4190,
+        3090
+      ],
+      "file": "rows/V19.png",
+      "pixel_sha256": "5d77a6e4225c91d9a3c7d8db524c4ae38756504a196db475993629f829aefc5f",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V20",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        3035,
+        4190,
+        3190
+      ],
+      "file": "rows/V20.png",
+      "pixel_sha256": "55e7619cfde4fcf768af455a110f21794bf1a895f649a5484079ef6e898491cd",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V21",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        3130,
+        4190,
+        3290
+      ],
+      "file": "rows/V21.png",
+      "pixel_sha256": "7a338c3db3db46651a38e04bbeed89a613c8453c446809c60c5a21f81bccf964",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V22",
+      "folio": "186v",
+      "bbox_xyxy": [
+        850,
+        3230,
+        4190,
+        3385
+      ],
+      "file": "rows/V22.png",
+      "pixel_sha256": "b9ce4631a572e9187b56f858ea57418d3dec0282dd40e417a0d9d3f0c024aa49",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V23",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3385,
+        4200,
+        3480
+      ],
+      "file": "rows/V23.png",
+      "pixel_sha256": "4fce50ae56db66c384b9859cc62c891b044e6498ade59963d0daeb977f10a996",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V24",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3490,
+        4200,
+        3585
+      ],
+      "file": "rows/V24.png",
+      "pixel_sha256": "9f5cf1f596c353bf6aef30fdf0220e7e15a7ff58f6e59b228359f220c97d42c6",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V25",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3585,
+        4200,
+        3685
+      ],
+      "file": "rows/V25.png",
+      "pixel_sha256": "b790a98accf79753392b87468abc51ec916e1cf27e9b695c8348aaa6e003de0a",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V26",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3685,
+        4200,
+        3800
+      ],
+      "file": "rows/V26.png",
+      "pixel_sha256": "e02eb128311da41d0cf322f392f5b2df514de8377ee7fae7282c847c36ce4a5b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V27",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3780,
+        4200,
+        3885
+      ],
+      "file": "rows/V27.png",
+      "pixel_sha256": "f6379502ea4a4696e2ef0eca73a7a25171ec5f38a6d52effd456091c08725224",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V28",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3885,
+        4200,
+        3970
+      ],
+      "file": "rows/V28.png",
+      "pixel_sha256": "645905af5f3fc72b620dd7d999a659a7871006d610f96b444b423fc747bc470a",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V29",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3980,
+        4200,
+        4075
+      ],
+      "file": "rows/V29.png",
+      "pixel_sha256": "f2aed60c0410fe2ac3201cfe80513d8a1ab44649e620099f711f876d7b68f4bd",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V30",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        4080,
+        4200,
+        4190
+      ],
+      "file": "rows/V30.png",
+      "pixel_sha256": "2507ea795943cec3fa587382f8f745be21ce194bcae7756faa97a3ff05b96ca0",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V31",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        4190,
+        4200,
+        4295
+      ],
+      "file": "rows/V31.png",
+      "pixel_sha256": "b436db24fefd69423451952c23c3c52755f3d0ace2ca725fbaf55d5c780fee87",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V32",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        4295,
+        4200,
+        4400
+      ],
+      "file": "rows/V32.png",
+      "pixel_sha256": "c28ef91c4fe0b6b352a3727e6b01152e17efe1ccb60d7987b402c1062f773e4b",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "V33",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        4405,
+        4200,
+        4510
+      ],
+      "file": "rows/V33.png",
+      "pixel_sha256": "58a06cf2c24283975aab89041624425ae353833a35c65c46cb99de56f880aa6f",
+      "coverage": "all stored source pixels; no missing-tile interpolation"
+    },
+    {
+      "row": "H_DATE",
+      "folio": "186r",
+      "bbox_xyxy": [
+        900,
+        975,
+        1620,
+        1130
+      ],
+      "file": "rows/H_DATE.png",
+      "pixel_sha256": "e79205978c405289d8af94c150887564ae1f81721bf9fcea997cc48d8b8031ab",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "H_TITLE",
+      "folio": "186r",
+      "bbox_xyxy": [
+        705,
+        1010,
+        1780,
+        1210
+      ],
+      "file": "rows/H_TITLE.png",
+      "pixel_sha256": "3df1d9966c324895cf715072090b932f6d76da4371d9ac5ead4c837b1272c535",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "H_FOLIO",
+      "folio": "186r",
+      "bbox_xyxy": [
+        3330,
+        1030,
+        3700,
+        1220
+      ],
+      "file": "rows/H_FOLIO.png",
+      "pixel_sha256": "d86dae1f017614a8165730f6fc8b78bbadf561cb3f2099fa87eeb867c617cdf4",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O01",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1170,
+        3960,
+        1300
+      ],
+      "file": "rows/O01.png",
+      "pixel_sha256": "d77e48efca5bddedaf12a5aa376a9aee80dd78f6c46224e298a0a9f7e6e4ab36",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O02",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1250,
+        3950,
+        1400
+      ],
+      "file": "rows/O02.png",
+      "pixel_sha256": "b83a747ae24955fbcc0684ce71f30c6a4bc899cd90013870bc2a691d6aaa4b49",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O03",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1335,
+        3950,
+        1490
+      ],
+      "file": "rows/O03.png",
+      "pixel_sha256": "8c6451f24071168025901afc54df4f5b6cd89a2ed27e8a221d3132d663d741b1",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O04",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1430,
+        3950,
+        1590
+      ],
+      "file": "rows/O04.png",
+      "pixel_sha256": "8efcf96031df713286e6eb3e74c8cfa07ae60a3bf8d74ef39283fb1e6b9551fb",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O05",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1535,
+        4030,
+        1660
+      ],
+      "file": "rows/O05.png",
+      "pixel_sha256": "24ed4c4a99ee052d5d29677dffd1a025903b2cb8d7874dc0351dd899f3032b48",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O06",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1620,
+        4030,
+        1780
+      ],
+      "file": "rows/O06.png",
+      "pixel_sha256": "90bac5f435299b6765709b14c96ead6e67acabf0e4cc5fdb3eca74399bb92caf",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O07",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1730,
+        4030,
+        1865
+      ],
+      "file": "rows/O07.png",
+      "pixel_sha256": "d7457848c3ffdcbc477d44cd165e212e2ca03dfa8f2205779d53a029ec1c8f28",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O08",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1810,
+        4030,
+        1950
+      ],
+      "file": "rows/O08.png",
+      "pixel_sha256": "460ace9f9df662257c51d431bfbc1ce2f0548c0f655bfa8bb343b7127a57e89e",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O09",
+      "folio": "186r",
+      "bbox_xyxy": [
+        780,
+        1890,
+        3980,
+        2060
+      ],
+      "file": "rows/O09.png",
+      "pixel_sha256": "9adcdf5bf30ebb585d20f72c8e595fc73812cd84fe3004bf9cb62bdb4f377b3d",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O10",
+      "folio": "186r",
+      "bbox_xyxy": [
+        780,
+        2010,
+        3980,
+        2170
+      ],
+      "file": "rows/O10.png",
+      "pixel_sha256": "b4aa46c57c02a80e97015b61957f287ffe5d31930f63da7aa6b88c931c20ae0d",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O11",
+      "folio": "186r",
+      "bbox_xyxy": [
+        780,
+        2100,
+        3980,
+        2270
+      ],
+      "file": "rows/O11.png",
+      "pixel_sha256": "cee9d5e8c279c717ded760de2c134135572d86aa808c92bcac50bf0caaa916b3",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O12",
+      "folio": "186r",
+      "bbox_xyxy": [
+        770,
+        2200,
+        2450,
+        2340
+      ],
+      "file": "rows/O12.png",
+      "pixel_sha256": "cb609c41a678ef2ecd35f255219f00b772c0e022985efb1c1965bad5d7d03dd9",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "I01",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        2290,
+        1370,
+        2440
+      ],
+      "file": "rows/I01.png",
+      "pixel_sha256": "79efdbfaac43aee655a018d755b442d95f16e1382e133e8afa64fc3ecd28891e",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "I02",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2190,
+        2340,
+        4020,
+        2530
+      ],
+      "file": "rows/I02.png",
+      "pixel_sha256": "578b1695162bf0b756787000ef537541282c8e98c8a8deef73bdec561a1e34ff",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "I03",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1550,
+        2490,
+        3750,
+        2670
+      ],
+      "file": "rows/I03.png",
+      "pixel_sha256": "11e5ae9d6b116c67472ee14b95bf59b9f61d71e396ca13d7dfe3676514181ee5",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "I04",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2590,
+        2670,
+        3610,
+        2830
+      ],
+      "file": "rows/I04.png",
+      "pixel_sha256": "da10e4a2d6b41984bb1e04ace9e57d5461f8e991e4ee02ce7af275904351b890",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "A01",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1750,
+        3730,
+        2150,
+        3900
+      ],
+      "file": "rows/A01.png",
+      "pixel_sha256": "e82579b782a37e5c86eae996fc98b046d7599b3fe738b048ddec7d9ed2a417aa",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "A02",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1390,
+        4090,
+        1720,
+        4280
+      ],
+      "file": "rows/A02.png",
+      "pixel_sha256": "8190b83851450db2c5136b7735869f420ae6375fabc56b2becd069bf99244558",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "A03",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1770,
+        4960,
+        2080,
+        5160
+      ],
+      "file": "rows/A03.png",
+      "pixel_sha256": "e582615ccea52cdabebbf496b59bb0cbd12e42b5d34204fec626f34a2bb84f06",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "O09-word",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1400,
+        1880,
+        2500,
+        2060
+      ],
+      "file": "tests/O09-word.png",
+      "pixel_sha256": "fcfa25f08fbe5589a7e73e7ed1ce5f4848902254e4f68aeeebc7042c2c95c1c3",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "M8-full-new",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        3870,
+        4000,
+        3975
+      ],
+      "file": "tests/M8-full-new.png",
+      "pixel_sha256": "2d577ec8faa72643a495cf783840ef12eeec09399f9ce12fb30934f36590d813",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "V28-full-new",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        3885,
+        4200,
+        3970
+      ],
+      "file": "tests/V28-full-new.png",
+      "pixel_sha256": "645905af5f3fc72b620dd7d999a659a7871006d610f96b444b423fc747bc470a",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "V30-full-new",
+      "folio": "186v",
+      "bbox_xyxy": [
+        840,
+        4080,
+        4200,
+        4190
+      ],
+      "file": "tests/V30-full-new.png",
+      "pixel_sha256": "2507ea795943cec3fa587382f8f745be21ce194bcae7756faa97a3ff05b96ca0",
+      "coverage": "all stored source pixels"
+    },
+    {
+      "row": "M8-PEU-glyph",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2140,
+        3865,
+        2760,
+        3985
+      ],
+      "file": "tests/M8-PEU-glyph.png",
+      "pixel_sha256": "13b72c8569932dcd951adc8cffb9f7200a95d7a511a9c03a38254bdd7be04b16",
+      "coverage": "stored native source pixels"
+    },
+    {
+      "row": "V28-ILME",
+      "folio": "186v",
+      "bbox_xyxy": [
+        2210,
+        3865,
+        3020,
+        3990
+      ],
+      "file": "tests/V28-ILME.png",
+      "pixel_sha256": "da26f3b983a6e32d2f7d0eea2a4e1fb19b65ff144255db2365bf9ee81f8aebbc",
+      "coverage": "stored native source pixels"
+    },
+    {
+      "row": "V30-prefix",
+      "folio": "186v",
+      "bbox_xyxy": [
+        830,
+        4060,
+        1450,
+        4230
+      ],
+      "file": "tests/V30-prefix.png",
+      "pixel_sha256": "63c76e4df114cd4117d5a9eb3fed92954b26264138ae6c8389a36afd64e0bfee",
+      "coverage": "stored native source pixels"
+    },
+    {
+      "row": "O09-full-context",
+      "folio": "186r",
+      "bbox_xyxy": [
+        750,
+        1880,
+        4090,
+        2070
+      ],
+      "file": "tests/O09-full-context.png",
+      "pixel_sha256": "8b674046ee2a2d2ca2da7858f33d21ad2aca42881f4e4f7504abd8e95fa0b96c",
+      "coverage": "stored native source pixels"
+    },
+    {
+      "row": "O02-deux-sy-context",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1900,
+        1220,
+        2820,
+        1420
+      ],
+      "file": "tests/O02-deux-sy-context.png",
+      "pixel_sha256": "65e118a37bc65fc1c3c51cfa3da21a2e3540a43298839262be21746de0322fff",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "O03-es-context",
+      "folio": "186r",
+      "bbox_xyxy": [
+        1900,
+        1320,
+        2820,
+        1510
+      ],
+      "file": "tests/O03-es-context.png",
+      "pixel_sha256": "ee4f8cb2247edd1f98254288013bb0d70a5015067c6d0456024032b74dbdbfac",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "O07-final-word",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2880,
+        1700,
+        4030,
+        1900
+      ],
+      "file": "tests/O07-final-word.png",
+      "pixel_sha256": "04ef42bf30801931cba551db4f71c08bfb725fe097d1b6c885e72447e4796b0f",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "O02-DEUX",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2250,
+        1260,
+        2415,
+        1420
+      ],
+      "file": "tests/O02-DEUX.png",
+      "pixel_sha256": "5d4d74e220a8b12a0b267776443a98702beefdfe02936c3c3cbc637042ad5ab2",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "O03-final-es",
+      "folio": "186r",
+      "bbox_xyxy": [
+        2150,
+        1340,
+        2260,
+        1510
+      ],
+      "file": "tests/O03-final-es.png",
+      "pixel_sha256": "6573392caf7a063c798b995e69eaa563b77a55b6ab9c25f0922e0e50145a8301",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "V17-DEUX",
+      "folio": "186v",
+      "bbox_xyxy": [
+        2570,
+        2745,
+        2680,
+        2850
+      ],
+      "file": "tests/V17-DEUX.png",
+      "pixel_sha256": "648d1b2d3fc1cc3ff8848eb9a1c0327cd2633a1841adb511c71a39b790f0317a",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "V17-final-es",
+      "folio": "186v",
+      "bbox_xyxy": [
+        2755,
+        2750,
+        2820,
+        2850
+      ],
+      "file": "tests/V17-final-es.png",
+      "pixel_sha256": "bfff367d1ee473b7cda8514df7309d292194120d2c18133045527c9538121237",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "FOOTER-1",
+      "folio": "186v",
+      "bbox_xyxy": [
+        700,
+        5180,
+        2000,
+        5480
+      ],
+      "file": "rows/FOOTER-1.png",
+      "pixel_sha256": "44154c86bac16ce87fd8b4697b67d9c0631a6d2b26ba3e93d9f7db082b873947",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "FOOTER-2",
+      "folio": "186v",
+      "bbox_xyxy": [
+        820,
+        5390,
+        2500,
+        5620
+      ],
+      "file": "rows/FOOTER-2.png",
+      "pixel_sha256": "301ee72aa209f3cfc86b95c7a74e44b98fa5ca8f86bdad627b163e457cd06968",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "FOOTER-3",
+      "folio": "186v",
+      "bbox_xyxy": [
+        2450,
+        5370,
+        4180,
+        5620
+      ],
+      "file": "rows/FOOTER-3.png",
+      "pixel_sha256": "4fc7971273b2df8e183ba8943caac34ac0a1b8f1b009c631962306ef74d97e58",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "FOOTER-4",
+      "folio": "186v",
+      "bbox_xyxy": [
+        770,
+        5680,
+        1550,
+        6050
+      ],
+      "file": "rows/FOOTER-4.png",
+      "pixel_sha256": "7127e0950ecd351b32a6fe224c2f437b10fd4b111be77707b630c1f3d8f037ef",
+      "coverage": "stored native pixels"
+    },
+    {
+      "row": "FOOTER-5",
+      "folio": "186v",
+      "bbox_xyxy": [
+        2700,
+        5970,
+        4170,
+        6380
+      ],
+      "file": "rows/FOOTER-5.png",
+      "pixel_sha256": "c299db0bda2c1343f59bbb60d948315d6402bd75dd252301bb01cc193b1251a3",
+      "coverage": "stored native pixels"
+    }
+  ]
+}

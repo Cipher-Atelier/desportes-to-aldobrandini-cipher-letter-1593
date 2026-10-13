@@ -1,0 +1,51 @@
+{
+  "test": "first previously untested short cipher group in f352 / contemporary f345",
+  "pre_registered": true,
+  "status": "INCONCLUSIVE_FOR_TARGET",
+  "official_primary_pixels_obtained": true,
+  "native_tiles": 18,
+  "sources": [
+    "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f345",
+    "https://gallica.bnf.fr/ark:/12148/btv1b9060633d/f352"
+  ],
+  "pair_supported_by_own_open_text_anchors": [
+    "Lestat des affaires est tout en tel terme ...",
+    "... nul changement ... chacun recongnoissant bien ..."
+  ],
+  "initial_LESTAT_control_ineligible": "LESTAT is clear script in both sheets; not cipher-letter control. This is a recorded exclusion, not a positive result.",
+  "first_actual_cipher_window": [
+    3370,
+    660,
+    4110,
+    805
+  ],
+  "cipher_group_provisional_classes": [
+    "L",
+    "B",
+    "F",
+    "G",
+    "A",
+    "C",
+    "L",
+    "E",
+    "F"
+  ],
+  "compatible_candidate": "L O S T A C L E S (LOSTACLES); classification and exact prefix are provisional",
+  "contemporary_plain_word_window": [
+    1130,
+    620,
+    1800,
+    785
+  ],
+  "contemporary_plain_word_alternatives": [
+    "l'ostacles",
+    "les obstacles / l'obstacles"
+  ],
+  "reason_no_certified_values": "The office copy’s leading signs/abbreviation and b/s spelling are not independently resolved. Matching a normalized OBSTACLES would change count. No such repair admitted. Clean control topology also does not resolve detached E or comparably blotted A.",
+  "secondary_check": "Rosson gold/f188v.txt starts at cipher line2 and supplies no line1 control; current pair and the corrected cipher-spelling method are his pre-existing work, not our discovery.",
+  "independently_admitted_target_deciding_values": 0,
+  "L02_r36": "unresolved",
+  "V17_v16": "unresolved",
+  "scope": "one registered fragment; no selection of another fragment to manufacture a positive result",
+  "timestamp_utc": "2026-10-13T11:37:00.653782+00:00"
+}

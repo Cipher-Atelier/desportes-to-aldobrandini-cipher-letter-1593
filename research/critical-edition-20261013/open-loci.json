@@ -1,0 +1,4897 @@
+[
+  {
+    "id": "P01:28-36",
+    "run": "P01",
+    "indices_in_frozen_record": [
+      28,
+      36
+    ],
+    "recorded_classes": [
+      "X",
+      "M",
+      "A",
+      "G",
+      "E",
+      "B",
+      "H",
+      "C",
+      "I"
+    ],
+    "source_windows": [
+      {
+        "row": "P01",
+        "folio": "186r",
+        "bbox_xyxy": [
+          2350,
+          2120,
+          4100,
+          2370
+        ],
+        "file": "rows/P01.png",
+        "pixel_sha256": "f0c07ac4cb4a43d8100a7648d41b4d427050cd646bf494e8f7b9ba94cf8f940c",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "P04:40-40",
+    "run": "P04",
+    "indices_in_frozen_record": [
+      40,
+      40
+    ],
+    "recorded_classes": [
+      "X2"
+    ],
+    "source_windows": [
+      {
+        "row": "P04",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          2470,
+          4100,
+          2770
+        ],
+        "file": "rows/P04.png",
+        "pixel_sha256": "dac8263206705306a2a316cba79a340bbc7689fe4f147bd913413f0d8dd26555",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "B1:1-9",
+    "run": "B1",
+    "indices_in_frozen_record": [
+      1,
+      9
+    ],
+    "recorded_classes": [
+      "M",
+      "A",
+      "L",
+      "H",
+      "B",
+      "I",
+      "F",
+      "I",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "B1",
+        "folio": "186r",
+        "bbox_xyxy": [
+          775,
+          2660,
+          1905,
+          2770
+        ],
+        "file": "rows/B1-1.png",
+        "pixel_sha256": "568b2f8410f4729a17f338e22503125f7248e2f0d8d583b8e155b769b3490efb",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      },
+      {
+        "row": "B1",
+        "folio": "186r",
+        "bbox_xyxy": [
+          1870,
+          2625,
+          3030,
+          2750
+        ],
+        "file": "rows/B1-2.png",
+        "pixel_sha256": "801d1c4def41eb8317d235826d68f7d9107dfc11076fae200eca9c5261f3059e",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      },
+      {
+        "row": "B1",
+        "folio": "186r",
+        "bbox_xyxy": [
+          2970,
+          2580,
+          3960,
+          2710
+        ],
+        "file": "rows/B1-3.png",
+        "pixel_sha256": "dd72631e2ccfd5b3298a13ffbb3058f9db2a3485badedd295f942eea10ffb038",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "B4:67-67",
+    "run": "B4",
+    "indices_in_frozen_record": [
+      67,
+      67
+    ],
+    "recorded_classes": [
+      "QUI"
+    ],
+    "source_windows": [
+      {
+        "row": "B4",
+        "folio": "186r",
+        "bbox_xyxy": [
+          775,
+          2940,
+          1900,
+          3070
+        ],
+        "file": "rows/B4-1.png",
+        "pixel_sha256": "079d8d6ef89c4679f32a5e9bcc2da73a0b23a343d475619e6e9cc104f2368564",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      },
+      {
+        "row": "B4",
+        "folio": "186r",
+        "bbox_xyxy": [
+          1880,
+          2900,
+          3020,
+          3030
+        ],
+        "file": "rows/B4-2.png",
+        "pixel_sha256": "28eea2b50306221d53b92390bd7f0877775d809280e074de8012b015a33f15e1",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      },
+      {
+        "row": "B4",
+        "folio": "186r",
+        "bbox_xyxy": [
+          3000,
+          2850,
+          4040,
+          2990
+        ],
+        "file": "rows/B4-3.png",
+        "pixel_sha256": "231958ec0c534b249d87e21a2ad0505482af275e0565b428d2b3925a1fb56b40",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M1:13-13",
+    "run": "M1",
+    "indices_in_frozen_record": [
+      13,
+      13
+    ],
+    "recorded_classes": [
+      "X1"
+    ],
+    "source_windows": [
+      {
+        "row": "M1",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3200,
+          4000,
+          3320
+        ],
+        "file": "rows/M1.png",
+        "pixel_sha256": "dd731d8c81be3fbdadbbd4c9e3c9bfdfe260ada7e6644ead98d9fee5fefb74a2",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M2:16-25",
+    "run": "M2",
+    "indices_in_frozen_record": [
+      16,
+      25
+    ],
+    "recorded_classes": [
+      "A",
+      "A",
+      "H",
+      "B",
+      "I",
+      "E",
+      "E",
+      "I",
+      "E",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "M2",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3300,
+          4000,
+          3420
+        ],
+        "file": "rows/M2.png",
+        "pixel_sha256": "47f69b99d73cc9b02339eabae023b45b34b64dec8d38a797b936da7740bc3df0",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M4:24-24",
+    "run": "M4",
+    "indices_in_frozen_record": [
+      24,
+      24
+    ],
+    "recorded_classes": [
+      "H"
+    ],
+    "source_windows": [
+      {
+        "row": "M4",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3490,
+          4000,
+          3615
+        ],
+        "file": "rows/M4.png",
+        "pixel_sha256": "b7be8ea65aa5b8c308bb41f899148486deb6a8266c3665bc1b051d85daf935e6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M4:45-64",
+    "run": "M4",
+    "indices_in_frozen_record": [
+      45,
+      64
+    ],
+    "recorded_classes": [
+      "X1",
+      "H",
+      "A",
+      "E",
+      "G",
+      "E",
+      "E",
+      "F",
+      "H",
+      "E",
+      "H",
+      "A",
+      "C",
+      "H",
+      "A",
+      "C",
+      "H",
+      "A",
+      "E",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "M4",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3490,
+          4000,
+          3615
+        ],
+        "file": "rows/M4.png",
+        "pixel_sha256": "b7be8ea65aa5b8c308bb41f899148486deb6a8266c3665bc1b051d85daf935e6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M5:60-60",
+    "run": "M5",
+    "indices_in_frozen_record": [
+      60,
+      60
+    ],
+    "recorded_classes": [
+      "X3"
+    ],
+    "source_windows": [
+      {
+        "row": "M5",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3590,
+          4000,
+          3725
+        ],
+        "file": "rows/M5.png",
+        "pixel_sha256": "43a570cc508f766248bc6a8cc551702230d94b2f9033cf959ae6be93ec550827",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M7:15-25",
+    "run": "M7",
+    "indices_in_frozen_record": [
+      15,
+      25
+    ],
+    "recorded_classes": [
+      "L",
+      "E",
+      "F",
+      "G",
+      "E",
+      "E",
+      "F",
+      "D",
+      "E",
+      "PLAINTEXT_S_S_Beatme",
+      "X3"
+    ],
+    "source_windows": [
+      {
+        "row": "M7",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3775,
+          4000,
+          3875
+        ],
+        "file": "rows/M7.png",
+        "pixel_sha256": "dcbf411bb6e6a6abb2f8992aa716aa0a920c556ab6effa3abc8a80dd00268a47",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M7:61-61",
+    "run": "M7",
+    "indices_in_frozen_record": [
+      61,
+      61
+    ],
+    "recorded_classes": [
+      "X2t"
+    ],
+    "source_windows": [
+      {
+        "row": "M7",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3775,
+          4000,
+          3875
+        ],
+        "file": "rows/M7.png",
+        "pixel_sha256": "dcbf411bb6e6a6abb2f8992aa716aa0a920c556ab6effa3abc8a80dd00268a47",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M8:37-37",
+    "run": "M8",
+    "indices_in_frozen_record": [
+      37,
+      37
+    ],
+    "recorded_classes": [
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "M8",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3870,
+          4000,
+          3965
+        ],
+        "file": "rows/M8.png",
+        "pixel_sha256": "01945a1a2290d0c2ac63171416bdaec42d50a0064f622260b67591bf73f28178",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M9:13-13",
+    "run": "M9",
+    "indices_in_frozen_record": [
+      13,
+      13
+    ],
+    "recorded_classes": [
+      "X4"
+    ],
+    "source_windows": [
+      {
+        "row": "M9",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          3960,
+          4000,
+          4070
+        ],
+        "file": "rows/M9.png",
+        "pixel_sha256": "fb78bd6c26faa157153e7b2c0d600bd2564a0191f04d747ac1c5cfc9635fb4aa",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M10:1-8",
+    "run": "M10",
+    "indices_in_frozen_record": [
+      1,
+      8
+    ],
+    "recorded_classes": [
+      "F",
+      "G",
+      "D",
+      "E",
+      "F",
+      "A",
+      "I",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "M10",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4055,
+          4000,
+          4160
+        ],
+        "file": "rows/M10.png",
+        "pixel_sha256": "11390404e2f4cfd3d2f72d1894392cc4bf9d82971be28b484d1f46ed602e7617",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M11:14-14",
+    "run": "M11",
+    "indices_in_frozen_record": [
+      14,
+      14
+    ],
+    "recorded_classes": [
+      "PLAINTEXT_S_S_T"
+    ],
+    "source_windows": [
+      {
+        "row": "M11",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4145,
+          4000,
+          4270
+        ],
+        "file": "rows/M11.png",
+        "pixel_sha256": "e086e4fac6c4b02f5e8f5ce28468f88259a555b2b2dbdc21aae6b7fbfc319f45",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M11:30-47",
+    "run": "M11",
+    "indices_in_frozen_record": [
+      30,
+      47
+    ],
+    "recorded_classes": [
+      "D",
+      "E",
+      "H",
+      "E",
+      "L",
+      "L",
+      "E",
+      "I",
+      "A",
+      "F",
+      "F",
+      "A",
+      "A",
+      "C",
+      "E",
+      "I",
+      "A",
+      "L"
+    ],
+    "source_windows": [
+      {
+        "row": "M11",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4145,
+          4000,
+          4270
+        ],
+        "file": "rows/M11.png",
+        "pixel_sha256": "e086e4fac6c4b02f5e8f5ce28468f88259a555b2b2dbdc21aae6b7fbfc319f45",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M12:50-50",
+    "run": "M12",
+    "indices_in_frozen_record": [
+      50,
+      50
+    ],
+    "recorded_classes": [
+      "XMM"
+    ],
+    "source_windows": [
+      {
+        "row": "M12",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4240,
+          4000,
+          4365
+        ],
+        "file": "rows/M12.png",
+        "pixel_sha256": "80ffafaef704b3819bee8c621e3e83433a4e1079910f738bb98e00aae3a1931b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M13:43-44",
+    "run": "M13",
+    "indices_in_frozen_record": [
+      43,
+      44
+    ],
+    "recorded_classes": [
+      "X6",
+      "X7"
+    ],
+    "source_windows": [
+      {
+        "row": "M13",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4335,
+          4000,
+          4450
+        ],
+        "file": "rows/M13.png",
+        "pixel_sha256": "a6b1e35f7598930e7698c5454ac73462affe4f5bdf2eb0f0caa8a67694edcac4",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "M13:53-63",
+    "run": "M13",
+    "indices_in_frozen_record": [
+      53,
+      63
+    ],
+    "recorded_classes": [
+      "F",
+      "E",
+      "I",
+      "A",
+      "B",
+      "H",
+      "I",
+      "E",
+      "C",
+      "E",
+      "C"
+    ],
+    "source_windows": [
+      {
+        "row": "M13",
+        "folio": "186r",
+        "bbox_xyxy": [
+          750,
+          4335,
+          4000,
+          4450
+        ],
+        "file": "rows/M13.png",
+        "pixel_sha256": "a6b1e35f7598930e7698c5454ac73462affe4f5bdf2eb0f0caa8a67694edcac4",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L01:1-26",
+    "run": "L01",
+    "indices_in_frozen_record": [
+      1,
+      26
+    ],
+    "recorded_classes": [
+      "F",
+      "E",
+      "A",
+      "H",
+      "B",
+      "I",
+      "E",
+      "A",
+      "F",
+      "F",
+      "E",
+      "F",
+      "F",
+      "A",
+      "I",
+      "G",
+      "C",
+      "B",
+      "G",
+      "C",
+      "B",
+      "I",
+      "F",
+      "G",
+      "E",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "L01",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4425,
+          4090,
+          4569
+        ],
+        "file": "rows/L01.png",
+        "pixel_sha256": "fec482147c82c0160c4b96e455b134a3b8c811adc544c82e69038456dc6b2209",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L01:34-44",
+    "run": "L01",
+    "indices_in_frozen_record": [
+      34,
+      44
+    ],
+    "recorded_classes": [
+      "A",
+      "A",
+      "F",
+      "A",
+      "E",
+      "D",
+      "E",
+      "E",
+      "I",
+      "B",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "L01",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4425,
+          4090,
+          4569
+        ],
+        "file": "rows/L01.png",
+        "pixel_sha256": "fec482147c82c0160c4b96e455b134a3b8c811adc544c82e69038456dc6b2209",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L02:37-44",
+    "run": "L02",
+    "indices_in_frozen_record": [
+      37,
+      44
+    ],
+    "recorded_classes": [
+      "X",
+      "A",
+      "E",
+      "X",
+      "L",
+      "A",
+      "F",
+      "G"
+    ],
+    "source_windows": [
+      {
+        "row": "L02",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4524,
+          4090,
+          4668
+        ],
+        "file": "rows/L02.png",
+        "pixel_sha256": "2b8d6a999988c065f83696f79dd1208e656a3bd0ea713cfe088525677ff5cb4a",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L03:56-65",
+    "run": "L03",
+    "indices_in_frozen_record": [
+      56,
+      65
+    ],
+    "recorded_classes": [
+      "QUE",
+      "L",
+      "B",
+      "A",
+      "A",
+      "E",
+      "F",
+      "E",
+      "B",
+      "I"
+    ],
+    "source_windows": [
+      {
+        "row": "L03",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4623,
+          4090,
+          4767
+        ],
+        "file": "rows/L03.png",
+        "pixel_sha256": "c836d5bbb88bf7e4b8badf7999353ea2423d53380aa50df10888745db8a72808",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L04:27-27",
+    "run": "L04",
+    "indices_in_frozen_record": [
+      27,
+      27
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L04",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4722,
+          4090,
+          4866
+        ],
+        "file": "rows/L04.png",
+        "pixel_sha256": "db112ffab67f94537045bfb67eab1c55c6adaf2d4c2d90dde9d5d8c5bd59f13b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L06:10-10",
+    "run": "L06",
+    "indices_in_frozen_record": [
+      10,
+      10
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L06",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          4920,
+          4090,
+          5074
+        ],
+        "file": "rows/L06.png",
+        "pixel_sha256": "2b384fafb143dd4aadcbc9fb41a4bda8c5a3b01ce9d9cd5888dd3c3520f3faf9",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L07:22-59",
+    "run": "L07",
+    "indices_in_frozen_record": [
+      22,
+      59
+    ],
+    "recorded_classes": [
+      "CLEAR_ABBREVIATION",
+      "G",
+      "I",
+      "F",
+      "H",
+      "F",
+      "G",
+      "H",
+      "B",
+      "H",
+      "L",
+      "H",
+      "L",
+      "A",
+      "I",
+      "F",
+      "F",
+      "E",
+      "A",
+      "L",
+      "L",
+      "E",
+      "E",
+      "I",
+      "L",
+      "A",
+      "L",
+      "E",
+      "A",
+      "A",
+      "C",
+      "B",
+      "A",
+      "G",
+      "QUI",
+      "L",
+      "H",
+      "L"
+    ],
+    "source_windows": [
+      {
+        "row": "L07",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5019,
+          4090,
+          5173
+        ],
+        "file": "rows/L07.png",
+        "pixel_sha256": "44f33292cf643a756b8af80c2aed987efe79d8c4753e1f8ba6341c27dad28bff",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L09:1-15",
+    "run": "L09",
+    "indices_in_frozen_record": [
+      1,
+      15
+    ],
+    "recorded_classes": [
+      "F",
+      "B",
+      "F",
+      "F",
+      "E",
+      "A",
+      "A",
+      "G",
+      "E",
+      "A",
+      "C",
+      "B",
+      "E",
+      "E",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "L09",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5170,
+          4090,
+          5317
+        ],
+        "file": "rows/L09.png",
+        "pixel_sha256": "7ffc8d9cd2c5c6a51fba2541631d115dc9204e4216480edba7c2996e6fe3947f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L09:38-38",
+    "run": "L09",
+    "indices_in_frozen_record": [
+      38,
+      38
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L09",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5170,
+          4090,
+          5317
+        ],
+        "file": "rows/L09.png",
+        "pixel_sha256": "7ffc8d9cd2c5c6a51fba2541631d115dc9204e4216480edba7c2996e6fe3947f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L09:49-51",
+    "run": "L09",
+    "indices_in_frozen_record": [
+      49,
+      51
+    ],
+    "recorded_classes": [
+      "X",
+      "X",
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L09",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5170,
+          4090,
+          5317
+        ],
+        "file": "rows/L09.png",
+        "pixel_sha256": "7ffc8d9cd2c5c6a51fba2541631d115dc9204e4216480edba7c2996e6fe3947f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L11:14-21",
+    "run": "L11",
+    "indices_in_frozen_record": [
+      14,
+      21
+    ],
+    "recorded_classes": [
+      "A",
+      "L",
+      "C",
+      "B",
+      "A",
+      "G",
+      "E",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "L11",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5346,
+          4090,
+          5501
+        ],
+        "file": "rows/L11.png",
+        "pixel_sha256": "314521ad0bf3b7a34bb82b585c33c25292386d09fd25a8900e40e909f9441726",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L11:45-45",
+    "run": "L11",
+    "indices_in_frozen_record": [
+      45,
+      45
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L11",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5346,
+          4090,
+          5501
+        ],
+        "file": "rows/L11.png",
+        "pixel_sha256": "314521ad0bf3b7a34bb82b585c33c25292386d09fd25a8900e40e909f9441726",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L12:65-68",
+    "run": "L12",
+    "indices_in_frozen_record": [
+      65,
+      68
+    ],
+    "recorded_classes": [
+      "A",
+      "A",
+      "E",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "L12",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5434,
+          4090,
+          5593
+        ],
+        "file": "rows/L12.png",
+        "pixel_sha256": "8050b78b499b1405c7e27d2e8ad630afb535b514a7d8c1bd90ef1c31a938bfbe",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L13:1-6",
+    "run": "L13",
+    "indices_in_frozen_record": [
+      1,
+      6
+    ],
+    "recorded_classes": [
+      "I",
+      "H",
+      "E",
+      "M",
+      "A",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "L13",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5522,
+          4090,
+          5685
+        ],
+        "file": "rows/L13.png",
+        "pixel_sha256": "074b2bfb166a5770fc56ec55b6420c4dcb562ca830c1cea638efa5cad6694c26",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L16:53-53",
+    "run": "L16",
+    "indices_in_frozen_record": [
+      53,
+      53
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "L16",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5787,
+          4090,
+          5961
+        ],
+        "file": "rows/L16.png",
+        "pixel_sha256": "a441c150e40b84b71aadb6221a7923dc317ce112d90f3d9d81e88cf6445fd525",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L16:63-68",
+    "run": "L16",
+    "indices_in_frozen_record": [
+      63,
+      68
+    ],
+    "recorded_classes": [
+      "QUI",
+      "L",
+      "A",
+      "E",
+      "D",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "L16",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5787,
+          4090,
+          5961
+        ],
+        "file": "rows/L16.png",
+        "pixel_sha256": "a441c150e40b84b71aadb6221a7923dc317ce112d90f3d9d81e88cf6445fd525",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "L17:49-58",
+    "run": "L17",
+    "indices_in_frozen_record": [
+      49,
+      58
+    ],
+    "recorded_classes": [
+      "QUE",
+      "G",
+      "B",
+      "H",
+      "G",
+      "E",
+      "F",
+      "G",
+      "E",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "L17",
+        "folio": "186r",
+        "bbox_xyxy": [
+          720,
+          5875,
+          4090,
+          6053
+        ],
+        "file": "rows/L17.png",
+        "pixel_sha256": "288d403f926843d793e26bb236bb19079cafab1ab9bb68d9f21f60a8ea63ed50",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V01:12-12",
+    "run": "V01",
+    "indices_in_frozen_record": [
+      12,
+      12
+    ],
+    "recorded_classes": [
+      "X3"
+    ],
+    "source_windows": [
+      {
+        "row": "V01",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1138,
+          4180,
+          1294
+        ],
+        "file": "rows/V01.png",
+        "pixel_sha256": "636529cb62fdb488732e0e757949e6f4b7d19b79336610100b8c38a1d5fa1781",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "number": 12,
+        "original_centre_xy": [
+          1360,
+          1187
+        ],
+        "confidence": "low",
+        "alternatives": [],
+        "note": "",
+        "independent_class": "X3",
+        "class": "X3"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V01:70-70",
+    "run": "V01",
+    "indices_in_frozen_record": [
+      70,
+      70
+    ],
+    "recorded_classes": [
+      "XR1"
+    ],
+    "source_windows": [
+      {
+        "row": "V01",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1138,
+          4180,
+          1294
+        ],
+        "file": "rows/V01.png",
+        "pixel_sha256": "636529cb62fdb488732e0e757949e6f4b7d19b79336610100b8c38a1d5fa1781",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "number": 70,
+        "original_centre_xy": [
+          4105,
+          1234
+        ],
+        "confidence": "low",
+        "alternatives": [],
+        "note": "",
+        "independent_class": "XR1",
+        "class": "XR1"
+      }
+    ],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V02:1-2",
+    "run": "V02",
+    "indices_in_frozen_record": [
+      1,
+      2
+    ],
+    "recorded_classes": [
+      "A",
+      "D"
+    ],
+    "source_windows": [
+      {
+        "row": "V02",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1237,
+          4180,
+          1398
+        ],
+        "file": "rows/V02.png",
+        "pixel_sha256": "9db67609792a3d5d72963700e8fccdc549c34571a0419e4c3eebae4223b2e012",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "number": 1,
+        "original_centre_xy": [
+          890,
+          1283
+        ],
+        "confidence": "medium",
+        "alternatives": [
+          "A",
+          "C"
+        ],
+        "note": "First sign has a curled right tail; A preferred, C alternative.",
+        "independent_class": "A",
+        "class": "A"
+      },
+      {
+        "number": 2,
+        "original_centre_xy": [
+          957,
+          1283
+        ],
+        "confidence": "high",
+        "alternatives": [],
+        "note": "",
+        "independent_class": "D",
+        "class": "D"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_testable",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V02:68-68",
+    "run": "V02",
+    "indices_in_frozen_record": [
+      68,
+      68
+    ],
+    "recorded_classes": [
+      "XR2"
+    ],
+    "source_windows": [
+      {
+        "row": "V02",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1237,
+          4180,
+          1398
+        ],
+        "file": "rows/V02.png",
+        "pixel_sha256": "9db67609792a3d5d72963700e8fccdc549c34571a0419e4c3eebae4223b2e012",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "number": 68,
+        "original_centre_xy": [
+          4110,
+          1338
+        ],
+        "confidence": "low",
+        "alternatives": [],
+        "note": "",
+        "independent_class": "XR2",
+        "class": "XR2"
+      }
+    ],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_testable",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V03:1-3",
+    "run": "V03",
+    "indices_in_frozen_record": [
+      1,
+      3
+    ],
+    "recorded_classes": [
+      "G",
+      "E",
+      "H"
+    ],
+    "source_windows": [
+      {
+        "row": "V03",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1344,
+          4180,
+          1483
+        ],
+        "file": "rows/V03.png",
+        "pixel_sha256": "fbcc8c7773d38e6f27edc1af68f783e321d132ed5c7fd001fdb3bd3858d68982",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "G",
+        "number": 1,
+        "original_centre_xy": [
+          894,
+          1390
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 2,
+        "class": "E",
+        "number": 2,
+        "original_centre_xy": [
+          930,
+          1390
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 3,
+        "class": "H",
+        "number": 3,
+        "original_centre_xy": [
+          995,
+          1390
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V03:64-66",
+    "run": "V03",
+    "indices_in_frozen_record": [
+      64,
+      66
+    ],
+    "recorded_classes": [
+      "B",
+      "A",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "V03",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1344,
+          4180,
+          1483
+        ],
+        "file": "rows/V03.png",
+        "pixel_sha256": "fbcc8c7773d38e6f27edc1af68f783e321d132ed5c7fd001fdb3bd3858d68982",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 63,
+        "class": "B",
+        "number": 64,
+        "original_centre_xy": [
+          4007,
+          1423
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 64,
+        "class": "A",
+        "number": 65,
+        "original_centre_xy": [
+          4060,
+          1423
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 65,
+        "class": "F",
+        "number": 66,
+        "original_centre_xy": [
+          4105,
+          1423
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V04:1-3",
+    "run": "V04",
+    "indices_in_frozen_record": [
+      1,
+      3
+    ],
+    "recorded_classes": [
+      "B",
+      "H",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V04",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1433,
+          4180,
+          1581
+        ],
+        "file": "rows/V04.png",
+        "pixel_sha256": "905400efdf51a629eb40e05b4c5375c54bdc60ad22b23770976ec611744cd981",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "B",
+        "number": 1,
+        "original_centre_xy": [
+          902,
+          1479
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 2,
+        "class": "H",
+        "number": 2,
+        "original_centre_xy": [
+          957,
+          1479
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 3,
+        "class": "E",
+        "number": 3,
+        "original_centre_xy": [
+          999,
+          1479
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_testable",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V04:15-20",
+    "run": "V04",
+    "indices_in_frozen_record": [
+      15,
+      20
+    ],
+    "recorded_classes": [
+      "E",
+      "B",
+      "E",
+      "M",
+      "I",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "V04",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1433,
+          4180,
+          1581
+        ],
+        "file": "rows/V04.png",
+        "pixel_sha256": "905400efdf51a629eb40e05b4c5375c54bdc60ad22b23770976ec611744cd981",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 15,
+        "class": "E",
+        "number": 15,
+        "original_centre_xy": [
+          1555,
+          1488
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 16,
+        "class": "B",
+        "number": 16,
+        "original_centre_xy": [
+          1610,
+          1489
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 17,
+        "class": "E",
+        "number": 17,
+        "original_centre_xy": [
+          1658,
+          1490
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 18,
+        "class": "M",
+        "number": 18,
+        "original_centre_xy": [
+          1703,
+          1492
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 19,
+        "class": "I",
+        "number": 19,
+        "original_centre_xy": [
+          1746,
+          1493
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 20,
+        "class": "F",
+        "number": 20,
+        "original_centre_xy": [
+          1780,
+          1494
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_testable",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V04:55-61",
+    "run": "V04",
+    "indices_in_frozen_record": [
+      55,
+      61
+    ],
+    "recorded_classes": [
+      "C",
+      "E",
+      "H",
+      "I",
+      "A",
+      "C",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V04",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1433,
+          4180,
+          1581
+        ],
+        "file": "rows/V04.png",
+        "pixel_sha256": "905400efdf51a629eb40e05b4c5375c54bdc60ad22b23770976ec611744cd981",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 55,
+        "class": "C",
+        "number": 55,
+        "original_centre_xy": [
+          3373,
+          1518
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 56,
+        "class": "E",
+        "number": 56,
+        "original_centre_xy": [
+          3412,
+          1518
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 57,
+        "class": "H",
+        "number": 57,
+        "original_centre_xy": [
+          3448,
+          1518
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 58,
+        "class": "I",
+        "number": 58,
+        "original_centre_xy": [
+          3475,
+          1519
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 59,
+        "class": "A",
+        "number": 59,
+        "original_centre_xy": [
+          3500,
+          1519
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 60,
+        "class": "C",
+        "number": 60,
+        "original_centre_xy": [
+          3550,
+          1519
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 61,
+        "class": "E",
+        "number": 61,
+        "original_centre_xy": [
+          3587,
+          1519
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_testable",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V05:60-66",
+    "run": "V05",
+    "indices_in_frozen_record": [
+      60,
+      66
+    ],
+    "recorded_classes": [
+      "C",
+      "B",
+      "E",
+      "H",
+      "E",
+      "C",
+      "XR5"
+    ],
+    "source_windows": [
+      {
+        "row": "V05",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1536,
+          4180,
+          1677
+        ],
+        "file": "rows/V05.png",
+        "pixel_sha256": "36c5edd2240b04c3b086560f7d8cb54a3d8ae1c5ad67cf35f1030d4586ff2e83",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 60,
+        "class": "C",
+        "number": 60,
+        "original_centre_xy": [
+          3877,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 61,
+        "class": "B",
+        "number": 61,
+        "original_centre_xy": [
+          3920,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 62,
+        "class": "E",
+        "number": 62,
+        "original_centre_xy": [
+          3970,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 63,
+        "class": "H",
+        "number": 63,
+        "original_centre_xy": [
+          4010,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 64,
+        "class": "E",
+        "number": 64,
+        "original_centre_xy": [
+          4048,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 65,
+        "class": "C",
+        "number": 65,
+        "original_centre_xy": [
+          4090,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": [
+          66
+        ],
+        "class": "XR5",
+        "region_glyph_count": "unknown",
+        "number": 66,
+        "original_centre_xy": [
+          4125,
+          1617
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "low"
+      }
+    ],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V06:1-4",
+    "run": "V06",
+    "indices_in_frozen_record": [
+      1,
+      4
+    ],
+    "recorded_classes": [
+      "A",
+      "G",
+      "E",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V06",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1629,
+          4180,
+          1773
+        ],
+        "file": "rows/V06.png",
+        "pixel_sha256": "321f29b4d400269823fb113fd38168953ec151c72bdc0de99e364b226c63a252",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "A",
+        "number": 1,
+        "original_centre_xy": [
+          895,
+          1675
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 2,
+        "class": "G",
+        "number": 2,
+        "original_centre_xy": [
+          961,
+          1675
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 3,
+        "class": "E",
+        "number": 3,
+        "original_centre_xy": [
+          997,
+          1675
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 4,
+        "class": "E",
+        "number": 4,
+        "original_centre_xy": [
+          1037,
+          1675
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V06:67-71",
+    "run": "V06",
+    "indices_in_frozen_record": [
+      67,
+      71
+    ],
+    "recorded_classes": [
+      "A",
+      "F",
+      "G",
+      "I",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "V06",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1629,
+          4180,
+          1773
+        ],
+        "file": "rows/V06.png",
+        "pixel_sha256": "321f29b4d400269823fb113fd38168953ec151c72bdc0de99e364b226c63a252",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 67,
+        "class": "A",
+        "number": 67,
+        "original_centre_xy": [
+          3949,
+          1713
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 68,
+        "class": "F",
+        "number": 68,
+        "original_centre_xy": [
+          3993,
+          1713
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 69,
+        "class": "G",
+        "number": 69,
+        "original_centre_xy": [
+          4040,
+          1713
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 70,
+        "class": "I",
+        "number": 70,
+        "original_centre_xy": [
+          4069,
+          1713
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 71,
+        "class": "A",
+        "number": 71,
+        "original_centre_xy": [
+          4115,
+          1713
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V07:1-10",
+    "run": "V07",
+    "indices_in_frozen_record": [
+      1,
+      10
+    ],
+    "recorded_classes": [
+      "D",
+      "E",
+      "E",
+      "C",
+      "E",
+      "F",
+      "C",
+      "H",
+      "B",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V07",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1731,
+          4180,
+          1859
+        ],
+        "file": "rows/V07.png",
+        "pixel_sha256": "6f180a4a1825e169e88fc650ec2d6b8b8f95c6c4c6a60f979628076fb2cdb33d",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "D",
+        "number": 1,
+        "original_centre_xy": [
+          895,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 2,
+        "class": "E",
+        "number": 2,
+        "original_centre_xy": [
+          946,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 3,
+        "class": "E",
+        "number": 3,
+        "original_centre_xy": [
+          987,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 4,
+        "class": "C",
+        "number": 4,
+        "original_centre_xy": [
+          1030,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 5,
+        "class": "E",
+        "number": 5,
+        "original_centre_xy": [
+          1070,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 6,
+        "class": "F",
+        "number": 6,
+        "original_centre_xy": [
+          1120,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 7,
+        "class": "C",
+        "number": 7,
+        "original_centre_xy": [
+          1163,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 8,
+        "class": "H",
+        "number": 8,
+        "original_centre_xy": [
+          1190,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 9,
+        "class": "B",
+        "number": 9,
+        "original_centre_xy": [
+          1224,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 10,
+        "class": "E",
+        "number": 10,
+        "original_centre_xy": [
+          1260,
+          1777
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V08:54-54",
+    "run": "V08",
+    "indices_in_frozen_record": [
+      54,
+      54
+    ],
+    "recorded_classes": [
+      "X3"
+    ],
+    "source_windows": [
+      {
+        "row": "V08",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1838,
+          4180,
+          1959
+        ],
+        "file": "rows/V08.png",
+        "pixel_sha256": "b65882ea3348ca895816269bd16733c1bd3e75dd2826f516a790284a3b6bf7c9",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 54,
+        "class": "X3",
+        "number": 54,
+        "original_centre_xy": [
+          3490,
+          1898
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V08:64-66",
+    "run": "V08",
+    "indices_in_frozen_record": [
+      64,
+      66
+    ],
+    "recorded_classes": [
+      "E",
+      "F",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "V08",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1838,
+          4180,
+          1959
+        ],
+        "file": "rows/V08.png",
+        "pixel_sha256": "b65882ea3348ca895816269bd16733c1bd3e75dd2826f516a790284a3b6bf7c9",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 64,
+        "class": "E",
+        "number": 64,
+        "original_centre_xy": [
+          3992,
+          1897
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 65,
+        "class": "F",
+        "number": 65,
+        "original_centre_xy": [
+          4050,
+          1897
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 66,
+        "class": "A",
+        "number": 66,
+        "original_centre_xy": [
+          4094,
+          1897
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V09:1-6",
+    "run": "V09",
+    "indices_in_frozen_record": [
+      1,
+      6
+    ],
+    "recorded_classes": [
+      "H",
+      "C",
+      "E",
+      "G",
+      "E",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "V09",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1951,
+          4180,
+          2072
+        ],
+        "file": "rows/V09.png",
+        "pixel_sha256": "d363e2fd32d7cf5de5b268fbe3229fedc08382699421caabf3ee282723880ea6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "H",
+        "number": 1,
+        "original_centre_xy": [
+          899,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 2,
+        "class": "C",
+        "number": 2,
+        "original_centre_xy": [
+          951,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 3,
+        "class": "E",
+        "number": 3,
+        "original_centre_xy": [
+          998,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 4,
+        "class": "G",
+        "number": 4,
+        "original_centre_xy": [
+          1040,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 5,
+        "class": "E",
+        "number": 5,
+        "original_centre_xy": [
+          1081,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 6,
+        "class": "F",
+        "number": 6,
+        "original_centre_xy": [
+          1120,
+          1997
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V09:15-18",
+    "run": "V09",
+    "indices_in_frozen_record": [
+      15,
+      18
+    ],
+    "recorded_classes": [
+      "A",
+      "F",
+      "E",
+      "H"
+    ],
+    "source_windows": [
+      {
+        "row": "V09",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1951,
+          4180,
+          2072
+        ],
+        "file": "rows/V09.png",
+        "pixel_sha256": "d363e2fd32d7cf5de5b268fbe3229fedc08382699421caabf3ee282723880ea6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 15,
+        "class": "A",
+        "number": 15,
+        "original_centre_xy": [
+          1647,
+          2000
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 16,
+        "class": "F",
+        "number": 16,
+        "original_centre_xy": [
+          1704,
+          2000
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": 17,
+        "class": "E",
+        "number": 17,
+        "original_centre_xy": [
+          1744,
+          2000
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 18,
+        "class": "H",
+        "number": 18,
+        "original_centre_xy": [
+          1793,
+          2000
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V09:67-67",
+    "run": "V09",
+    "indices_in_frozen_record": [
+      67,
+      67
+    ],
+    "recorded_classes": [
+      "XR9"
+    ],
+    "source_windows": [
+      {
+        "row": "V09",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          1951,
+          4180,
+          2072
+        ],
+        "file": "rows/V09.png",
+        "pixel_sha256": "d363e2fd32d7cf5de5b268fbe3229fedc08382699421caabf3ee282723880ea6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": [
+          67
+        ],
+        "class": "XR9",
+        "region_glyph_count": "unknown",
+        "number": 67,
+        "original_centre_xy": [
+          4110,
+          2012
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "low"
+      }
+    ],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V10:62-65",
+    "run": "V10",
+    "indices_in_frozen_record": [
+      62,
+      65
+    ],
+    "recorded_classes": [
+      "G",
+      "E",
+      "C",
+      "XR10"
+    ],
+    "source_windows": [
+      {
+        "row": "V10",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2043,
+          4180,
+          2167
+        ],
+        "file": "rows/V10.png",
+        "pixel_sha256": "fbd1eaaca512022ac1eb85eea8271cfdc053849f323682a44414aeab32241292",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 62,
+        "class": "G",
+        "number": 62,
+        "original_centre_xy": [
+          3982,
+          2103
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 63,
+        "class": "E",
+        "number": 63,
+        "original_centre_xy": [
+          4020,
+          2103
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      },
+      {
+        "locked_index": 64,
+        "class": "C",
+        "number": 64,
+        "original_centre_xy": [
+          4060,
+          2103
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "medium"
+      },
+      {
+        "locked_index": [
+          65,
+          66
+        ],
+        "class": "XR10",
+        "region_glyph_count": "unknown",
+        "number": 65,
+        "original_centre_xy": [
+          4110,
+          2103
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "low"
+      }
+    ],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V11:1-1",
+    "run": "V11",
+    "indices_in_frozen_record": [
+      1,
+      1
+    ],
+    "recorded_classes": [
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V11",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2144,
+          4180,
+          2258
+        ],
+        "file": "rows/V11.png",
+        "pixel_sha256": "ba05eedf8b88f3f2a631f755010bfc07f45d11787740a461811a1266f9e2971b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "locked_index": 1,
+        "class": "E",
+        "number": 1,
+        "original_centre_xy": [
+          900,
+          2190
+        ],
+        "centre_precision": "Approximate visually placed x on glyph body; y is observed baseline interpolation, not a bounding-box centroid.",
+        "class_confidence": "high"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V12:3-6",
+    "run": "V12",
+    "indices_in_frozen_record": [
+      3,
+      6
+    ],
+    "recorded_classes": [
+      "[D?]",
+      "I",
+      "E",
+      "H"
+    ],
+    "source_windows": [
+      {
+        "row": "V12",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2230,
+          4140,
+          2350
+        ],
+        "file": "rows/V12.png",
+        "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V12:8-8",
+    "run": "V12",
+    "indices_in_frozen_record": [
+      8,
+      8
+    ],
+    "recorded_classes": [
+      "[Xcross]"
+    ],
+    "source_windows": [
+      {
+        "row": "V12",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2230,
+          4140,
+          2350
+        ],
+        "file": "rows/V12.png",
+        "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V12:19-22",
+    "run": "V12",
+    "indices_in_frozen_record": [
+      19,
+      22
+    ],
+    "recorded_classes": [
+      "M",
+      "[omega?]",
+      "B",
+      "L"
+    ],
+    "source_windows": [
+      {
+        "row": "V12",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2230,
+          4140,
+          2350
+        ],
+        "file": "rows/V12.png",
+        "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V12:67-68",
+    "run": "V12",
+    "indices_in_frozen_record": [
+      67,
+      68
+    ],
+    "recorded_classes": [
+      "C",
+      "XR12"
+    ],
+    "source_windows": [
+      {
+        "row": "V12",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2230,
+          4140,
+          2350
+        ],
+        "file": "rows/V12.png",
+        "pixel_sha256": "7b2c01afff36cb93ddc4d5765a92545053ffa87d40e927546f8cd716a6e71afd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V13:3-3",
+    "run": "V13",
+    "indices_in_frozen_record": [
+      3,
+      3
+    ],
+    "recorded_classes": [
+      "[Xlowcross]"
+    ],
+    "source_windows": [
+      {
+        "row": "V13",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2330,
+          4140,
+          2450
+        ],
+        "file": "rows/V13.png",
+        "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V13:11-12",
+    "run": "V13",
+    "indices_in_frozen_record": [
+      11,
+      12
+    ],
+    "recorded_classes": [
+      "C",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "V13",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2330,
+          4140,
+          2450
+        ],
+        "file": "rows/V13.png",
+        "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V13:27-30",
+    "run": "V13",
+    "indices_in_frozen_record": [
+      27,
+      30
+    ],
+    "recorded_classes": [
+      "L",
+      "I",
+      "A",
+      "H"
+    ],
+    "source_windows": [
+      {
+        "row": "V13",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2330,
+          4140,
+          2450
+        ],
+        "file": "rows/V13.png",
+        "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V13:36-39",
+    "run": "V13",
+    "indices_in_frozen_record": [
+      36,
+      39
+    ],
+    "recorded_classes": [
+      "L",
+      "A",
+      "I",
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "V13",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2330,
+          4140,
+          2450
+        ],
+        "file": "rows/V13.png",
+        "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V13:68-70",
+    "run": "V13",
+    "indices_in_frozen_record": [
+      68,
+      70
+    ],
+    "recorded_classes": [
+      "A",
+      "B",
+      "XR13"
+    ],
+    "source_windows": [
+      {
+        "row": "V13",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2330,
+          4140,
+          2450
+        ],
+        "file": "rows/V13.png",
+        "pixel_sha256": "887bb5b426492ab07e0d126e1a3c82bfd15858d0ddc5f1257dd179254f608404",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V14:64-65",
+    "run": "V14",
+    "indices_in_frozen_record": [
+      64,
+      65
+    ],
+    "recorded_classes": [
+      "C",
+      "XR14"
+    ],
+    "source_windows": [
+      {
+        "row": "V14",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2430,
+          4140,
+          2550
+        ],
+        "file": "rows/V14.png",
+        "pixel_sha256": "785314cdc0a5d5b780bcc8591459a0f0c6c5ca197287c4cf37499b702c551816",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V15:17-18",
+    "run": "V15",
+    "indices_in_frozen_record": [
+      17,
+      18
+    ],
+    "recorded_classes": [
+      "[Xcross]",
+      "[small-g]"
+    ],
+    "source_windows": [
+      {
+        "row": "V15",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2530,
+          4140,
+          2650
+        ],
+        "file": "rows/V15.png",
+        "pixel_sha256": "ced5ec293263e2307625e0da520a155e9cd3e8436e7eff6cb2511b0b630966ee",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V15:52-52",
+    "run": "V15",
+    "indices_in_frozen_record": [
+      52,
+      52
+    ],
+    "recorded_classes": [
+      "[Xcross]"
+    ],
+    "source_windows": [
+      {
+        "row": "V15",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2530,
+          4140,
+          2650
+        ],
+        "file": "rows/V15.png",
+        "pixel_sha256": "ced5ec293263e2307625e0da520a155e9cd3e8436e7eff6cb2511b0b630966ee",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V15:65-66",
+    "run": "V15",
+    "indices_in_frozen_record": [
+      65,
+      66
+    ],
+    "recorded_classes": [
+      "M",
+      "XR15"
+    ],
+    "source_windows": [
+      {
+        "row": "V15",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2530,
+          4140,
+          2650
+        ],
+        "file": "rows/V15.png",
+        "pixel_sha256": "ced5ec293263e2307625e0da520a155e9cd3e8436e7eff6cb2511b0b630966ee",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V16:3-11",
+    "run": "V16",
+    "indices_in_frozen_record": [
+      3,
+      11
+    ],
+    "recorded_classes": [
+      "I",
+      "A",
+      "G",
+      "E",
+      "E",
+      "E",
+      "[F/G]",
+      "F",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V16",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2630,
+          4140,
+          2750
+        ],
+        "file": "rows/V16.png",
+        "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V16:14-14",
+    "run": "V16",
+    "indices_in_frozen_record": [
+      14,
+      14
+    ],
+    "recorded_classes": [
+      "[Xloop]"
+    ],
+    "source_windows": [
+      {
+        "row": "V16",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2630,
+          4140,
+          2750
+        ],
+        "file": "rows/V16.png",
+        "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V16:19-21",
+    "run": "V16",
+    "indices_in_frozen_record": [
+      19,
+      21
+    ],
+    "recorded_classes": [
+      "F",
+      "E",
+      "[F/G]"
+    ],
+    "source_windows": [
+      {
+        "row": "V16",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2630,
+          4140,
+          2750
+        ],
+        "file": "rows/V16.png",
+        "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V16:31-31",
+    "run": "V16",
+    "indices_in_frozen_record": [
+      31,
+      31
+    ],
+    "recorded_classes": [
+      "[clear-abbreviation]"
+    ],
+    "source_windows": [
+      {
+        "row": "V16",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2630,
+          4140,
+          2750
+        ],
+        "file": "rows/V16.png",
+        "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V16:64-65",
+    "run": "V16",
+    "indices_in_frozen_record": [
+      64,
+      65
+    ],
+    "recorded_classes": [
+      "C",
+      "XR16"
+    ],
+    "source_windows": [
+      {
+        "row": "V16",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2630,
+          4140,
+          2750
+        ],
+        "file": "rows/V16.png",
+        "pixel_sha256": "ae4a3fbb3298eb21201392b52b108d263bce57ecb72f280f535db2ae38517844",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V18:39-50",
+    "run": "V18",
+    "indices_in_frozen_record": [
+      39,
+      50
+    ],
+    "recorded_classes": [
+      "C",
+      "E",
+      "QUI",
+      "L",
+      "[M/special?]",
+      "B",
+      "A",
+      "G",
+      "F",
+      "B",
+      "A",
+      "G"
+    ],
+    "source_windows": [
+      {
+        "row": "V18",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2835,
+          4190,
+          2980
+        ],
+        "file": "rows/V18.png",
+        "pixel_sha256": "e6e95e64ddff932cef83d3cb734e6e55b93d120256224a67d8eb75ff6c81f71f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V18:58-58",
+    "run": "V18",
+    "indices_in_frozen_record": [
+      58,
+      58
+    ],
+    "recorded_classes": [
+      "[B/E]"
+    ],
+    "source_windows": [
+      {
+        "row": "V18",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2835,
+          4190,
+          2980
+        ],
+        "file": "rows/V18.png",
+        "pixel_sha256": "e6e95e64ddff932cef83d3cb734e6e55b93d120256224a67d8eb75ff6c81f71f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V18:68-68",
+    "run": "V18",
+    "indices_in_frozen_record": [
+      68,
+      68
+    ],
+    "recorded_classes": [
+      "XR18"
+    ],
+    "source_windows": [
+      {
+        "row": "V18",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2835,
+          4190,
+          2980
+        ],
+        "file": "rows/V18.png",
+        "pixel_sha256": "e6e95e64ddff932cef83d3cb734e6e55b93d120256224a67d8eb75ff6c81f71f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V19:1-2",
+    "run": "V19",
+    "indices_in_frozen_record": [
+      1,
+      2
+    ],
+    "recorded_classes": [
+      "X2",
+      "X4"
+    ],
+    "source_windows": [
+      {
+        "row": "V19",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2935,
+          4190,
+          3090
+        ],
+        "file": "rows/V19.png",
+        "pixel_sha256": "5d77a6e4225c91d9a3c7d8db524c4ae38756504a196db475993629f829aefc5f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V19:18-31",
+    "run": "V19",
+    "indices_in_frozen_record": [
+      18,
+      31
+    ],
+    "recorded_classes": [
+      "X6",
+      "G",
+      "I",
+      "F",
+      "A",
+      "POUR",
+      "A",
+      "E",
+      "F",
+      "C",
+      "H",
+      "I",
+      "E",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V19",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          2935,
+          4190,
+          3090
+        ],
+        "file": "rows/V19.png",
+        "pixel_sha256": "5d77a6e4225c91d9a3c7d8db524c4ae38756504a196db475993629f829aefc5f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V21:61-61",
+    "run": "V21",
+    "indices_in_frozen_record": [
+      61,
+      61
+    ],
+    "recorded_classes": [
+      "XR21"
+    ],
+    "source_windows": [
+      {
+        "row": "V21",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          3130,
+          4190,
+          3290
+        ],
+        "file": "rows/V21.png",
+        "pixel_sha256": "7a338c3db3db46651a38e04bbeed89a613c8453c446809c60c5a21f81bccf964",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V22:65-66",
+    "run": "V22",
+    "indices_in_frozen_record": [
+      65,
+      66
+    ],
+    "recorded_classes": [
+      "C",
+      "XR22"
+    ],
+    "source_windows": [
+      {
+        "row": "V22",
+        "folio": "186v",
+        "bbox_xyxy": [
+          850,
+          3230,
+          4190,
+          3385
+        ],
+        "file": "rows/V22.png",
+        "pixel_sha256": "b9ce4631a572e9187b56f858ea57418d3dec0282dd40e417a0d9d3f0c024aa49",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [],
+    "glyph_extent": "unknown",
+    "distinct_test": "native-gutter occlusion + conditional length/key test",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "Occluded/overinked topology or glyph count is not recoverable from recorded pixels."
+  },
+  {
+    "id": "V23:59-63",
+    "run": "V23",
+    "indices_in_frozen_record": [
+      59,
+      63
+    ],
+    "recorded_classes": [
+      "I",
+      "A",
+      "M",
+      "A",
+      "I"
+    ],
+    "source_windows": [
+      {
+        "row": "V23",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3385,
+          4200,
+          3480
+        ],
+        "file": "rows/V23.png",
+        "pixel_sha256": "4fce50ae56db66c384b9859cc62c891b044e6498ade59963d0daeb977f10a996",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 59,
+        "x_center_original_approx": 3902.5,
+        "y_center_original_approx": 3422.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 60,
+        "x_center_original_approx": 3953.4,
+        "y_center_original_approx": 3415.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 61,
+        "x_center_original_approx": 4008.4,
+        "y_center_original_approx": 3422.7,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 62,
+        "x_center_original_approx": 4042.3,
+        "y_center_original_approx": 3410.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 63,
+        "x_center_original_approx": 4094.5,
+        "y_center_original_approx": 3426.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V24:11-11",
+    "run": "V24",
+    "indices_in_frozen_record": [
+      11,
+      11
+    ],
+    "recorded_classes": [
+      "A"
+    ],
+    "source_windows": [
+      {
+        "row": "V24",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3490,
+          4200,
+          3585
+        ],
+        "file": "rows/V24.png",
+        "pixel_sha256": "9f5cf1f596c353bf6aef30fdf0220e7e15a7ff58f6e59b228359f220c97d42c6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 11,
+        "x_center_original_approx": 1409.7,
+        "y_center_original_approx": 3532.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V24:60-64",
+    "run": "V24",
+    "indices_in_frozen_record": [
+      60,
+      64
+    ],
+    "recorded_classes": [
+      "M",
+      "E",
+      "F",
+      "M",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V24",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3490,
+          4200,
+          3585
+        ],
+        "file": "rows/V24.png",
+        "pixel_sha256": "9f5cf1f596c353bf6aef30fdf0220e7e15a7ff58f6e59b228359f220c97d42c6",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 60,
+        "x_center_original_approx": 3879.8,
+        "y_center_original_approx": 3529.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 61,
+        "x_center_original_approx": 3924.1,
+        "y_center_original_approx": 3526.6,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 62,
+        "x_center_original_approx": 3988.7,
+        "y_center_original_approx": 3532.9,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 63,
+        "x_center_original_approx": 4041.2,
+        "y_center_original_approx": 3528.2,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 64,
+        "x_center_original_approx": 4095.7,
+        "y_center_original_approx": 3524.2,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V25:1-13",
+    "run": "V25",
+    "indices_in_frozen_record": [
+      1,
+      13
+    ],
+    "recorded_classes": [
+      "G",
+      "E",
+      "B",
+      "A",
+      "H",
+      "E",
+      "E",
+      "E",
+      "F",
+      "H",
+      "B",
+      "H",
+      "G"
+    ],
+    "source_windows": [
+      {
+        "row": "V25",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3585,
+          4200,
+          3685
+        ],
+        "file": "rows/V25.png",
+        "pixel_sha256": "b790a98accf79753392b87468abc51ec916e1cf27e9b695c8348aaa6e003de0a",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 1,
+        "x_center_original_approx": 906,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 2,
+        "x_center_original_approx": 940,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 3,
+        "x_center_original_approx": 982,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 4,
+        "x_center_original_approx": 1030,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 5,
+        "x_center_original_approx": 1075,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 6,
+        "x_center_original_approx": 1126,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 7,
+        "x_center_original_approx": 1174,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 8,
+        "x_center_original_approx": 1230,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 9,
+        "x_center_original_approx": 1270,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 10,
+        "x_center_original_approx": 1330,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 11,
+        "x_center_original_approx": 1380,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 12,
+        "x_center_original_approx": 1430,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 13,
+        "x_center_original_approx": 1490,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V25:56-65",
+    "run": "V25",
+    "indices_in_frozen_record": [
+      56,
+      65
+    ],
+    "recorded_classes": [
+      "Xdel",
+      "E",
+      "C",
+      "B",
+      "H",
+      "E",
+      "I",
+      "E",
+      "L",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V25",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3585,
+          4200,
+          3685
+        ],
+        "file": "rows/V25.png",
+        "pixel_sha256": "b790a98accf79753392b87468abc51ec916e1cf27e9b695c8348aaa6e003de0a",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 56,
+        "x_center_original_approx": 3670,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 57,
+        "x_center_original_approx": 3716,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 58,
+        "x_center_original_approx": 3770,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 59,
+        "x_center_original_approx": 3830,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 60,
+        "x_center_original_approx": 3890,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 61,
+        "x_center_original_approx": 3950,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 62,
+        "x_center_original_approx": 3990,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 63,
+        "x_center_original_approx": 4030,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 64,
+        "x_center_original_approx": 4090,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      },
+      {
+        "position": 65,
+        "x_center_original_approx": 4120,
+        "y_center_original_approx": 3630,
+        "uncertainty": "x from independent visual check; y approximate row baseline"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V26:25-25",
+    "run": "V26",
+    "indices_in_frozen_record": [
+      25,
+      25
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "V26",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3685,
+          4200,
+          3800
+        ],
+        "file": "rows/V26.png",
+        "pixel_sha256": "e02eb128311da41d0cf322f392f5b2df514de8377ee7fae7282c847c36ce4a5b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 25,
+        "x_center_original_approx": 2050.7,
+        "y_center_original_approx": 3734.0,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V26:36-36",
+    "run": "V26",
+    "indices_in_frozen_record": [
+      36,
+      36
+    ],
+    "recorded_classes": [
+      "CLEAR_SSJ"
+    ],
+    "source_windows": [
+      {
+        "row": "V26",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3685,
+          4200,
+          3800
+        ],
+        "file": "rows/V26.png",
+        "pixel_sha256": "e02eb128311da41d0cf322f392f5b2df514de8377ee7fae7282c847c36ce4a5b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 36,
+        "x_center_original_approx": 2650,
+        "y_center_original_approx": 3756.0,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V27:1-1",
+    "run": "V27",
+    "indices_in_frozen_record": [
+      1,
+      1
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "V27",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3780,
+          4200,
+          3885
+        ],
+        "file": "rows/V27.png",
+        "pixel_sha256": "f6379502ea4a4696e2ef0eca73a7a25171ec5f38a6d52effd456091c08725224",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 1,
+        "x_center_original_approx": 3233.0,
+        "y_center_original_approx": 3826.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V27:11-12",
+    "run": "V27",
+    "indices_in_frozen_record": [
+      11,
+      12
+    ],
+    "recorded_classes": [
+      "X",
+      "G"
+    ],
+    "source_windows": [
+      {
+        "row": "V27",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3780,
+          4200,
+          3885
+        ],
+        "file": "rows/V27.png",
+        "pixel_sha256": "f6379502ea4a4696e2ef0eca73a7a25171ec5f38a6d52effd456091c08725224",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 11,
+        "x_center_original_approx": 3702.5,
+        "y_center_original_approx": 3829.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 12,
+        "x_center_original_approx": 3768.7,
+        "y_center_original_approx": 3819.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V28:11-27",
+    "run": "V28",
+    "indices_in_frozen_record": [
+      11,
+      27
+    ],
+    "recorded_classes": [
+      "A",
+      "X",
+      "F",
+      "A",
+      "F",
+      "L",
+      "I",
+      "A",
+      "G",
+      "E",
+      "C",
+      "B",
+      "F",
+      "E",
+      "E",
+      "X",
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "V28",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3885,
+          4200,
+          3970
+        ],
+        "file": "rows/V28.png",
+        "pixel_sha256": "645905af5f3fc72b620dd7d999a659a7871006d610f96b444b423fc747bc470a",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 11,
+        "x_center_original_approx": 1501.3,
+        "y_center_original_approx": 3927.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 12,
+        "x_center_original_approx": 1539.8,
+        "y_center_original_approx": 3926.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 13,
+        "x_center_original_approx": 1599.5,
+        "y_center_original_approx": 3909.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 14,
+        "x_center_original_approx": 1657.6,
+        "y_center_original_approx": 3922.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 15,
+        "x_center_original_approx": 1719.6,
+        "y_center_original_approx": 3927.9,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 16,
+        "x_center_original_approx": 1767.9,
+        "y_center_original_approx": 3923.9,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 17,
+        "x_center_original_approx": 1839.7,
+        "y_center_original_approx": 3913.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 18,
+        "x_center_original_approx": 1900.9,
+        "y_center_original_approx": 3922.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 19,
+        "x_center_original_approx": 1966.2,
+        "y_center_original_approx": 3932.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 20,
+        "x_center_original_approx": 2011.9,
+        "y_center_original_approx": 3928.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 21,
+        "x_center_original_approx": 2050.1,
+        "y_center_original_approx": 3930.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 22,
+        "x_center_original_approx": 2100.3,
+        "y_center_original_approx": 3931.7,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 23,
+        "x_center_original_approx": 2143.6,
+        "y_center_original_approx": 3942.6,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 24,
+        "x_center_original_approx": 2198.0,
+        "y_center_original_approx": 3937.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 25,
+        "x_center_original_approx": 2260.4,
+        "y_center_original_approx": 3927.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 26,
+        "x_center_original_approx": 2304.8,
+        "y_center_original_approx": 3934.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 27,
+        "x_center_original_approx": 2345.4,
+        "y_center_original_approx": 3936.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V29:21-24",
+    "run": "V29",
+    "indices_in_frozen_record": [
+      21,
+      24
+    ],
+    "recorded_classes": [
+      "E",
+      "A",
+      "G",
+      "E"
+    ],
+    "source_windows": [
+      {
+        "row": "V29",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3980,
+          4200,
+          4075
+        ],
+        "file": "rows/V29.png",
+        "pixel_sha256": "f2aed60c0410fe2ac3201cfe80513d8a1ab44649e620099f711f876d7b68f4bd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 21,
+        "x_center_original_approx": 1993.1,
+        "y_center_original_approx": 4025.6,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 22,
+        "x_center_original_approx": 2045.8,
+        "y_center_original_approx": 4021.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 23,
+        "x_center_original_approx": 2092.5,
+        "y_center_original_approx": 4027.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 24,
+        "x_center_original_approx": 2131.0,
+        "y_center_original_approx": 4029.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V29:55-57",
+    "run": "V29",
+    "indices_in_frozen_record": [
+      55,
+      57
+    ],
+    "recorded_classes": [
+      "A",
+      "B",
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "V29",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          3980,
+          4200,
+          4075
+        ],
+        "file": "rows/V29.png",
+        "pixel_sha256": "f2aed60c0410fe2ac3201cfe80513d8a1ab44649e620099f711f876d7b68f4bd",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 55,
+        "x_center_original_approx": 3678.5,
+        "y_center_original_approx": 4022.6,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 56,
+        "x_center_original_approx": 3733.9,
+        "y_center_original_approx": 4005.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 57,
+        "x_center_original_approx": 3795.9,
+        "y_center_original_approx": 4020.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V30:34-35",
+    "run": "V30",
+    "indices_in_frozen_record": [
+      34,
+      35
+    ],
+    "recorded_classes": [
+      "A",
+      "L"
+    ],
+    "source_windows": [
+      {
+        "row": "V30",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          4080,
+          4200,
+          4190
+        ],
+        "file": "rows/V30.png",
+        "pixel_sha256": "2507ea795943cec3fa587382f8f745be21ce194bcae7756faa97a3ff05b96ca0",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 34,
+        "x_center_original_approx": 2634.3,
+        "y_center_original_approx": 4138.7,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 35,
+        "x_center_original_approx": 2682.6,
+        "y_center_original_approx": 4131.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V31:59-59",
+    "run": "V31",
+    "indices_in_frozen_record": [
+      59,
+      59
+    ],
+    "recorded_classes": [
+      "X"
+    ],
+    "source_windows": [
+      {
+        "row": "V31",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          4190,
+          4200,
+          4295
+        ],
+        "file": "rows/V31.png",
+        "pixel_sha256": "b436db24fefd69423451952c23c3c52755f3d0ace2ca725fbaf55d5c780fee87",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 59,
+        "x_center_original_approx": 3965.1,
+        "y_center_original_approx": 4236.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "special-sign provenance in paired contemporary document + position/shape check",
+    "test_executed": "candidate grammar treated this unit as unconstrained; registered contemporary-pair test supplied no target-deciding label. No named value certified.",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V32:22-31",
+    "run": "V32",
+    "indices_in_frozen_record": [
+      22,
+      31
+    ],
+    "recorded_classes": [
+      "QUE",
+      "A",
+      "E",
+      "A",
+      "H",
+      "M",
+      "B",
+      "I",
+      "A",
+      "F"
+    ],
+    "source_windows": [
+      {
+        "row": "V32",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          4295,
+          4200,
+          4400
+        ],
+        "file": "rows/V32.png",
+        "pixel_sha256": "c28ef91c4fe0b6b352a3727e6b01152e17efe1ccb60d7987b402c1062f773e4b",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 22,
+        "x_center_original_approx": 1943.8,
+        "y_center_original_approx": 4343.2,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 23,
+        "x_center_original_approx": 1983.5,
+        "y_center_original_approx": 4345.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 24,
+        "x_center_original_approx": 2032.9,
+        "y_center_original_approx": 4346.0,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 25,
+        "x_center_original_approx": 2075.9,
+        "y_center_original_approx": 4341.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 26,
+        "x_center_original_approx": 2121.4,
+        "y_center_original_approx": 4334.0,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 27,
+        "x_center_original_approx": 2166.1,
+        "y_center_original_approx": 4349.4,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 28,
+        "x_center_original_approx": 2234.2,
+        "y_center_original_approx": 4336.6,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 29,
+        "x_center_original_approx": 2287.2,
+        "y_center_original_approx": 4345.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 30,
+        "x_center_original_approx": 2327.3,
+        "y_center_original_approx": 4342.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 31,
+        "x_center_original_approx": 2377.8,
+        "y_center_original_approx": 4336.9,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "compatible_conditional",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  },
+  {
+    "id": "V33:34-38",
+    "run": "V33",
+    "indices_in_frozen_record": [
+      34,
+      38
+    ],
+    "recorded_classes": [
+      "QUI",
+      "A",
+      "E",
+      "F",
+      "B"
+    ],
+    "source_windows": [
+      {
+        "row": "V33",
+        "folio": "186v",
+        "bbox_xyxy": [
+          840,
+          4405,
+          4200,
+          4510
+        ],
+        "file": "rows/V33.png",
+        "pixel_sha256": "58a06cf2c24283975aab89041624425ae353833a35c65c46cb99de56f880aa6f",
+        "coverage": "all stored source pixels; no missing-tile interpolation"
+      }
+    ],
+    "approximate_centres": [
+      {
+        "position": 34,
+        "x_center_original_approx": 2584.4,
+        "y_center_original_approx": 4441.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 35,
+        "x_center_original_approx": 2648.7,
+        "y_center_original_approx": 4464.8,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 36,
+        "x_center_original_approx": 2712.1,
+        "y_center_original_approx": 4457.5,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 37,
+        "x_center_original_approx": 2764.7,
+        "y_center_original_approx": 4462.3,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      },
+      {
+        "position": 38,
+        "x_center_original_approx": 2816.5,
+        "y_center_original_approx": 4457.1,
+        "uncertainty": "Indexing estimate, not a precise glyph boundary"
+      }
+    ],
+    "glyph_extent": "recorded units, not independently certified segmentation",
+    "distinct_test": "known-class candidate compatibility + primary window membership",
+    "test_executed": "new full-row candidate grammar check and native source-window coverage; all gutter ends also visually compared",
+    "result": "not_compatible_with_frozen_projection",
+    "unresolved_reason": "No unique independent plaintext value established; class-compatible reconstruction remains a hypothesis."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-13",
+  "public_metadata_text_checks": "PASS",
+  "physical_lines": 85,
+  "cipher_runs": 76,
+  "frozen_open_spans": 97,
+  "additional_uncertainties": 68,
+  "default_pixel_checks": "SKIPPED: no image bytes bundled",
+  "optional_local_pixel_run": {
+    "status": "PASS",
+    "native_tiles_hash_checked": 63,
+    "crop_windows_reconstructed": 129,
+    "local_path": "not published"
+  },
+  "candidate_algorithm_checks": {
+    "status": "PASS",
+    "cases": 7,
+    "tested": [
+      "clear-script brace exclusion",
+      "non lu untestable",
+      "I/J and U/V normalization",
+      "unknown unit 40-letter allowance",
+      "unknown unit 41-letter rejection",
+      "M8 F/S/G/T override limited to M8",
+      "whole-word QUE expansion"
+    ]
+  },
+  "candidate_cli_smoke": "PASS: external own synthetic input returned ordinary and not_testable",
+  "supported_repository_check_all": "PASS: 28 fingerprinted files; preserved replay 4612 indexed regions,4108 compatible assignments,4295 expanded letters",
+  "translation_bytes": "identical to own local translation-ru.md",
+  "limits": [
+    "No optical correctness certification or new full sign-by-sign transcription.",
+    "No external human expert review, blind test, priority or unique decipherment claim.",
+    "Old modern-candidate statuses are summary only; full candidates are not bundled."
+  ]
+}

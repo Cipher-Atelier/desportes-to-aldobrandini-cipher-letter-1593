@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "scope": "new source/crop provenance, complete critical coverage and immutability; no historical correctness score",
+  "native_source_tiles_hash_checked": 63,
+  "source_windows_pixel_reconstructed": 129,
+  "physical_lines_in_user_facing_table": 85,
+  "cipher_runs_covered_once": 76,
+  "frozen_open_intervals_retained": 97,
+  "source_checkout_files_unchanged": 87,
+  "source_head": "a313377aa1da2b74e6b1125fd4516d6d0cb0f9e4",
+  "registered_test_freeze_unchanged": true,
+  "previously_retained_tiles_comparison": [
+    {
+      "file": "f347-0-4096.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f347-1024-4096.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f347-2048-4096.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f347-3072-4096.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f348-1024-2048.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f348-2048-2048.jpg",
+      "same_bytes": true,
+      "same_pixels": true
+    },
+    {
+      "file": "f348-3072-2048.jpg",
+      "same_bytes": false,
+      "same_pixels": false
+    }
+  ],
+  "pillow": "11.3.0",
+  "source_recognition_or_unique_decipherment_certified": false
+}

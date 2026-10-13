@@ -1,0 +1,761 @@
+{
+  "method": "Metadata only for locally acquired official native IIIF tiles; bytes are not redistributed.",
+  "images": [
+    {
+      "file": "sources/f347-0-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "0cfe583b364904c6d97c39921fa5a8aba676b986f821b95538a78d173200ac28"
+    },
+    {
+      "file": "sources/f347-0-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "756400bfb281885f78457f7d48184eaa1a6e77c8915be69725f0aa3200105415"
+    },
+    {
+      "file": "sources/f347-0-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "42e21c7a0093b5ed92f2d2da4e1fa789bc99322e3e81b2d4060aefe2183c9a5f"
+    },
+    {
+      "file": "sources/f347-0-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "34f34909b0e2f72c335de161401dfbf5c39be6c782219d4dd3ba230c21d49306"
+    },
+    {
+      "file": "sources/f347-0-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "6b9ee4e43794cb63e71ff88b66a0753b41dafac03d763a26b8bf749fb587211b"
+    },
+    {
+      "file": "sources/f347-0-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "362d394cfb1525f23800736bb0b50b62c39f098a7b48f2bb0ce493336f52a80f"
+    },
+    {
+      "file": "sources/f347-0-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/0,6144,1024,512/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        6144,
+        1024,
+        512
+      ],
+      "native": true,
+      "sha256": "0087591d8bf1aeb5c8027a29b59ac6f4f0806ca587c4d46202fb29cf0f68b70a"
+    },
+    {
+      "file": "sources/f347-1024-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "757e19becb69e41cbc924ee59fd10fe009e845eb5c5a4ecd698563fbfdc5b962"
+    },
+    {
+      "file": "sources/f347-1024-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "2746f74849973d161aaff57a9c941b47e23a86ab1b8225e7fa0ec6cf4238f5d4"
+    },
+    {
+      "file": "sources/f347-1024-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "3c7aa2cceaf9fa5284569f2fa64dba7136d095595284d3fb6d41127ef96948d4"
+    },
+    {
+      "file": "sources/f347-1024-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "786a6892af95a56fa1178ff8c03ab1c87dcee4c94ae1481c0257ed28a0a7bb65"
+    },
+    {
+      "file": "sources/f347-1024-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "860dea8950816f9ada4a14267a391d4b6cb86cfe8cfa181430c461b99e02b678"
+    },
+    {
+      "file": "sources/f347-1024-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/1024,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "1e4935ebc9ccc38a1c9b9ec636c2e326e477724ef0513a52a949730f08256b28"
+    },
+    {
+      "file": "sources/f347-2048-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "db7680a31f36dbc29247bfada39dc65969a0e9bcb6e09d33b99d47858cb405b7"
+    },
+    {
+      "file": "sources/f347-2048-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "7edb260949596c379313a8457778f9a6a1f22e1c3e4e39d5a40d6e625ef0a8d4"
+    },
+    {
+      "file": "sources/f347-2048-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "8395f6779f319f2c9f7ac790488d5c93d3e845ea98e5afb6ad510087b65f2677"
+    },
+    {
+      "file": "sources/f347-2048-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "3fe22a3b2ebb9bcdadbb7d0d8405e6dde4542436b39640659d2fb868a7368b2c"
+    },
+    {
+      "file": "sources/f347-2048-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "6118bdb8a295741a06ee542c9d3247ccc5f0211302a8069d63ed0aa169698a77"
+    },
+    {
+      "file": "sources/f347-2048-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/2048,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "ad46f4719241c5198d1bc157a7373c47b0e2d6a704d3d527e83e3afc034f6bcb"
+    },
+    {
+      "file": "sources/f347-3072-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "e1e4ead3cc0089ccf896867aaf84800c201d1caca2863d1c76571650c8303a1f"
+    },
+    {
+      "file": "sources/f347-3072-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "092a9059923785268c042c68be3c804139764f1f4d323f7f3e6e070e872c6833"
+    },
+    {
+      "file": "sources/f347-3072-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "444a9f9311f6df11ec21990c6117af670493749318b91d37999cac13c344af37"
+    },
+    {
+      "file": "sources/f347-3072-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "6ba2a7277311736ce25183b8718955b1bc88660f425aa24d9c8fe1ffcac85181"
+    },
+    {
+      "file": "sources/f347-3072-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "c218d3149223270b83b3f353a80116baeeccc5433545008198dfd75039131f31"
+    },
+    {
+      "file": "sources/f347-3072-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/3072,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "305ddf9b5366959b983eed489e57e23a6cf53050f3bbc6821dbcfbd7234a8787"
+    },
+    {
+      "file": "sources/f347-4096-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/4096,2048,854,1024/854,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        2048,
+        854,
+        1024
+      ],
+      "native": true,
+      "sha256": "d52e7ff0c1d041705dea5aaa9b7e6a453faf0fe9c48915852d4ffb4365d7f181"
+    },
+    {
+      "file": "sources/f347-4096-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/4096,3072,854,1024/854,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        3072,
+        854,
+        1024
+      ],
+      "native": true,
+      "sha256": "1031b438588d1e03bef5351c27d53f4a19c7027c382a932b9cd9cd1f2d2311f0"
+    },
+    {
+      "file": "sources/f347-4096-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f347/4096,4096,854,1024/854,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        4096,
+        854,
+        1024
+      ],
+      "native": true,
+      "sha256": "d8e8792712a4822c5e1eda609ecf29797d0409f9002fca2e3079362c14670e5c"
+    },
+    {
+      "file": "sources/f348-0-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "222557d681dc0cdab71e23bca7c4728f191e67236000f64e9c45cdcfd008d80a"
+    },
+    {
+      "file": "sources/f348-0-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "4b0c653a351c0c6207dd831dd1d3e7af19178fadf9c310220d8b75301fdfc8d6"
+    },
+    {
+      "file": "sources/f348-0-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "0346f4d5756008455b3b16bc3b8ae8e3a52160e4590581fd541842b658ea015e"
+    },
+    {
+      "file": "sources/f348-0-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "de60807bf66fde9fa589c9d7629cdeef73b274a98d5244d7c7871f10c137e4c4"
+    },
+    {
+      "file": "sources/f348-0-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "b7c41a1ca636214b21ece86c1e260cecddd4189f3f2439e95ae9ed25a65bb9db"
+    },
+    {
+      "file": "sources/f348-0-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "90131ea88a4baa5cc0566ddf10edebca959e4fa080cf4af8cb3178d0c364a7c8"
+    },
+    {
+      "file": "sources/f348-0-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/0,6144,1024,513/1024,/0/native.jpg",
+      "region_xywh": [
+        0,
+        6144,
+        1024,
+        513
+      ],
+      "native": true,
+      "sha256": "33ebdaa8c98b9ecadfdf5994e55a79fc93f13c556e0855b9ea1ba399795718e3"
+    },
+    {
+      "file": "sources/f348-1024-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "b2af97f0ef270c5471f322f5913ed044f4dc390c9a46a3bd451ace662ffdf55c"
+    },
+    {
+      "file": "sources/f348-1024-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "ad5ad03f747d0471686b4992663081ce4e11ebc7452549d22356996197ac98d9"
+    },
+    {
+      "file": "sources/f348-1024-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "b2acc9bcef47b6389e41fdfe1339bfe47eeca89dd7c472d27fed4493320b2427"
+    },
+    {
+      "file": "sources/f348-1024-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "2f336e056341e1e43e568723dfd2a158ceb3d6dd703e13128f6cf155bb2b077f"
+    },
+    {
+      "file": "sources/f348-1024-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "7bc1d46da2454220be179194f4826724f31d36577dc2a484d9d7cbd095017271"
+    },
+    {
+      "file": "sources/f348-1024-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "1c91c1709969aceb704c897ed2c66c6e30b5aafe01058dcbc1f52210fac993a0"
+    },
+    {
+      "file": "sources/f348-1024-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/1024,6144,1024,513/1024,/0/native.jpg",
+      "region_xywh": [
+        1024,
+        6144,
+        1024,
+        513
+      ],
+      "native": true,
+      "sha256": "7d3b42d8819987f95c4176fa588f9a4acece580c86c5bc0256f107c3081338f2"
+    },
+    {
+      "file": "sources/f348-2048-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "c0dcaff18811b6ab2b5f869def8aed11d53777c57fa2333e8a2dc9dfa8c14273"
+    },
+    {
+      "file": "sources/f348-2048-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "edd2186f2af037ef0bec471c95e62fcb6908a241f7d13b27cba3a3d4c0bdf58d"
+    },
+    {
+      "file": "sources/f348-2048-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "143f8605b9f51404e40564698ea9c0f3cc7993cc22e2036c260acda961b3395b"
+    },
+    {
+      "file": "sources/f348-2048-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "68a48b25fac990bf0913d13ca9341fb275156fd8cfbcb842415c78d6fb883943"
+    },
+    {
+      "file": "sources/f348-2048-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "aa159188de05cac5e5bb7423e8990084c43fc526b300eb3273a11e924b8cbe80"
+    },
+    {
+      "file": "sources/f348-2048-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "5ef7b10a5292d3a728f564452ac901f7e753b03704ba48829a79b55f8cfd8db8"
+    },
+    {
+      "file": "sources/f348-2048-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/2048,6144,1024,513/1024,/0/native.jpg",
+      "region_xywh": [
+        2048,
+        6144,
+        1024,
+        513
+      ],
+      "native": true,
+      "sha256": "4ed592387b3e1323b0c8fd660443d74440a23ea3752a7fa305fe3fe09e42b21d"
+    },
+    {
+      "file": "sources/f348-3072-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,0,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        0,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "de792ac9427698adebb637def0fa39e8e61a15cd77d39d3385ef52e98899b65f"
+    },
+    {
+      "file": "sources/f348-3072-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,1024,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        1024,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "404678f035cad4707af0d4d71a205ba95cc1826b02630716a4ac938ba73502e3"
+    },
+    {
+      "file": "sources/f348-3072-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,2048,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        2048,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "bf5389b5a3b59690db4f1eee9235642b860e55567d8a5fff6b1d21609ce4a401"
+    },
+    {
+      "file": "sources/f348-3072-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,3072,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        3072,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "9a674c8aaa2f71a291595e81d3ab5ebf5e7c94f3abf33bc8ea904dbe258cc65d"
+    },
+    {
+      "file": "sources/f348-3072-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,4096,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        4096,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "7bb585197e22a2a0c1e22577dd91c99a1c128aef46bc20e23a7cc8468be2624d"
+    },
+    {
+      "file": "sources/f348-3072-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,5120,1024,1024/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        5120,
+        1024,
+        1024
+      ],
+      "native": true,
+      "sha256": "947eb4f07e23a2dcb8e2c2619f6058b6ee4269361e22f7d07bc7f6e4a2fc45d9"
+    },
+    {
+      "file": "sources/f348-3072-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/3072,6144,1024,513/1024,/0/native.jpg",
+      "region_xywh": [
+        3072,
+        6144,
+        1024,
+        513
+      ],
+      "native": true,
+      "sha256": "75d0964d45fe81dcbaa4a77d54397fe4fb24c879704fdc61fbeb84786ff20077"
+    },
+    {
+      "file": "sources/f348-4096-0.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,0,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        0,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "1ea1c556783eb09efa1ebc5c1468a698125ccfb0f20285b7025b6ef966d16b80"
+    },
+    {
+      "file": "sources/f348-4096-1024.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,1024,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        1024,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "c039f7ffcbabed216ebc71f3fdeca75f9bf8a90c00db4796b0d630cbec2ebb5e"
+    },
+    {
+      "file": "sources/f348-4096-2048.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,2048,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        2048,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "7e9cb50d099b477effc77aae3c057d7a82de6846d8a5c60c0fe3fdaa39e352ef"
+    },
+    {
+      "file": "sources/f348-4096-3072.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,3072,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        3072,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "e15ca18f693db4cf885b98cdcb4b6b6ac3b7a7b8813dcdb5e6e99d0be6bf14e1"
+    },
+    {
+      "file": "sources/f348-4096-4096.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,4096,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        4096,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "1f3aabae12cca32ec7171f2ea61e5ecbc55a8af2a1c582d257fd863066af05ad"
+    },
+    {
+      "file": "sources/f348-4096-5120.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,5120,856,1024/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        5120,
+        856,
+        1024
+      ],
+      "native": true,
+      "sha256": "d5ac0eedad1c490565756807346e21cf496faed02de7f685c0a07a1bb6736f49"
+    },
+    {
+      "file": "sources/f348-4096-6144.jpg",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060633d/f348/4096,6144,856,513/856,/0/native.jpg",
+      "region_xywh": [
+        4096,
+        6144,
+        856,
+        513
+      ],
+      "native": true,
+      "sha256": "a6bef1ee447aab24c98baf59f64aaadbf8b76096dc62696f5ecd05340434b8e2"
+    }
+  ]
+}

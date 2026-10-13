@@ -1,0 +1,59 @@
+{
+  "source_level": "AI primary-image reading and conditional collation; no external expert review or fully blind claim",
+  "O01_O04": "Native image supports removal of question marks for escrit, de nre perte and pourroit. nre remains an abbreviation, not silently expanded as written letters.",
+  "O09": {
+    "new_reading": "lasseurance",
+    "old_reading": "[bonne?] cause",
+    "verdict": "new native strokes support lasseurance; adopted in own ordinary transcript",
+    "window": "tests/O09-full-context.png",
+    "editorial_correction": "Final source review removed the inherited extra la: Je voy lasseurance. The earlier substitution had duplicated the article; this is an editorial correction, not a new lexical reading."
+  },
+  "O07": {
+    "new_preference": "mouuemens",
+    "old_candidate": "nouueautez",
+    "verdict": "m-like initial and medial minim sequence support mouuemens, still queried; nos/mes at end remains open",
+    "window": "tests/O07-final-word.png"
+  },
+  "O10_O11": "New native view gives fuller candidate faic particulier ... and que Je sois autheur de cella/celler; exact wording and meaning remain uncertain, not silently filled.",
+  "V17": {
+    "preference": "deux, with rames plural queried",
+    "new_controls": [
+      {
+        "source": "f347",
+        "window": [
+          2250,
+          1260,
+          2415,
+          1420
+        ],
+        "candidate": "DEUX in d’eux of O02",
+        "label_status": "own reading of separate ordinary context; earlier tentative; independent of target numerical meaning but not externally certified"
+      },
+      {
+        "source": "f347",
+        "window": [
+          2150,
+          1340,
+          2260,
+          1510
+        ],
+        "candidate": "terminal es in Incertitudes of O03",
+        "label_status": "ordinary-word label with adjacent strokes; not exact certified character boundaries"
+      }
+    ],
+    "verdict": "looped d and low eux compare more closely than une; short s is compatible. Limited optical support, not unique/expert-confirmed full phrase.",
+    "comparison": "tests/V17-new-same-letter-controls.png"
+  },
+  "L02": "No target-deciding independent label admitted from registered contemporary-pair test. Short stroke / E-component, H/B and F/A remain open. No false L05 B control reused.",
+  "M8": "Native contextual guide shows compact crossed/closed mark. F/S remains plausible; G/T alternative not decisively excluded. PEUT is not adopted by syntax alone.",
+  "V28": "With frozen class M at recorded position30, ME is allowed and NE requires a new A/N classification or emendation. Native context is linked, but approximate centres are not treated as certified segmentation.",
+  "V30": "Eight frozen initial units I B H E E B I G permit IOUEROIT/IOURROIT (I/J U/V convention); normalized JOURNEROIT has ten letters and requires two additional units. Under retained segmentation that restoration is unsupported.",
+  "L15": "FONT/SONT use the same F/S class and cannot be decided from sign morphology alone. The literal working row now explicitly brackets FONT/SONT; this replaces an unqualified earlier selected SONT.",
+  "gutter": "New native right-edge images distinguish partial ink/fold from a download cutoff; no hidden letters or counts inferred from white neighboring sheet. All 33 row endings are shown in tests/verso-all-gutter-ends.png.",
+  "proper_name_check": "Pinned modern office-copy transcriptions f177_f178_v2 and f184 contain no literal Mate/Matte/Malv/Malua match in the bounded search. This is not a claim about all primary text or archives; abbreviated/variant naming remains possible. Modern v2 explicitly says cipher was beside its reading and expansions were unmarked, so it is not substituted for primary independent sign labels.",
+  "source_linked_windows": 129,
+  "full_new_sign_by_sign_transcription_claimed": false,
+  "physical_line_coverage": 85,
+  "original_cipher_runs_covered": 76,
+  "frozen_gap_intervals_retained": 97
+}

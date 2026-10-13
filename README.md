@@ -15,7 +15,11 @@ The proposed text discusses political choices around Henri IV’s forthcoming co
 
 The working text uses capitals for deciphered passages and mixed case for ordinary handwriting. Spacing and punctuation are editorial; brackets retain gaps without necessarily specifying their length. On folio 186r, P01 indices 1–3, classes D/E/F permit D/Q, E/R, F/S; choosing D/E/S gives `DES`. [Check that example](READING_GUIDE.md#check-one-example-by-hand).
 
-**Unresolved / missing:** polyphonic choices, gaps and personal identifications remain. A complete English translated edition and the historically mentioned continuous Russian translation are not included in this public package. P01/M3 are editorial locators; X labels are block-local. Later PAR commentary and Rosson restorations remain separate from the frozen edition.
+**Unresolved / missing:** polyphonic choices, gaps and personal identifications remain. A complete English translated edition is not included. The dated critical package now includes an own continuous Russian translation with reconstructions marked. P01/M3 are editorial locators; X labels are block-local. Later PAR commentary and Rosson restorations remain separate from the frozen edition.
+
+## Update — 13 October 2026
+
+[Critical working French/Russian package](research/critical-edition-20261013/README.md): all 85 physical lines, own Russian translation, unresolved loci, metadata and portable checks. The frozen earlier scientific edition remains separate.
 
 ## Start reading
 
